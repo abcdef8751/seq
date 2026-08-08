@@ -1,0 +1,52 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		INJECTED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:6:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:7:5-94
+	android:name
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:7:22-91
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:8:22-74
+uses-permission#android.permission.DUMP
+ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:9:5-11:47
+	tools:ignore
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:11:9-44
+	android:name
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:10:9-47
+application
+ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:13:5-23:19
+service#com.rp.seq.eq.EqAudioProcessorService
+ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:18:9-22:63
+	android:process
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:21:13-37
+	android:exported
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:20:13-37
+	android:foregroundServiceType
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:22:13-60
+	android:name
+		ADDED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:19:13-52
+uses-sdk
+INJECTED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml
+INJECTED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml

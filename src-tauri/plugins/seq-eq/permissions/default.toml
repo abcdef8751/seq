@@ -1,0 +1,8 @@
+[default]
+description = "Allow seq EQ engine control"
+permissions = [
+  "allow-start-engine",
+  "allow-stop-engine",
+  "allow-apply-eq",
+  "allow-engine-status",
+]

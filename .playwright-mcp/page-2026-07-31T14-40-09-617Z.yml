@@ -1,0 +1,592 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e148]:
+                - button "Audio is muted" [ref=e152] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e153]
+            - generic [ref=e156]:
+              - generic [ref=e158]:
+                - button "rrr001222's profile picture" [disabled] [ref=e163]:
+                  - link "rrr001222's profile picture" [disabled] [ref=e165] [cursor=pointer]:
+                    - img "rrr001222's profile picture" [ref=e166]
+                - generic [ref=e169]:
+                  - generic [ref=e170]:
+                    - link "rrr001222" [ref=e178] [cursor=pointer]:
+                      - /url: /rrr001222/
+                      - generic [ref=e181]: rrr001222
+                    - link "Original audio" [ref=e185] [cursor=pointer]:
+                      - /url: /reels/audio/37615597268039409/
+                      - generic [ref=e188]: Original audio
+                  - button "Follow" [ref=e190] [cursor=pointer]
+                - button "More options" [ref=e193] [cursor=pointer]:
+                  - img "More options" [ref=e196]
+              - separator [ref=e200]
+              - generic [ref=e203]:
+                - generic [ref=e204]:
+                  - generic [ref=e206]:
+                    - link "biblicallyaccurateangelo's profile picture" [ref=e212] [cursor=pointer]:
+                      - /url: /biblicallyaccurateangelo/
+                      - img "biblicallyaccurateangelo's profile picture" [ref=e213]
+                    - generic [ref=e214]:
+                      - generic [ref=e215]:
+                        - generic [ref=e217]:
+                          - generic [ref=e218]:
+                            - link "biblicallyaccurateangelo" [ref=e223] [cursor=pointer]:
+                              - /url: /biblicallyaccurateangelo/
+                              - generic [ref=e226]: biblicallyaccurateangelo
+                            - link "4w" [ref=e228] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/17996271500791527/
+                              - time [ref=e229]: 4w
+                          - generic [ref=e231]: This... sounds... like... a sample from.... uhhhhh.... that one omri song. Smh you ain't put no sauce
+                        - generic [ref=e232]:
+                          - button "875 likes" [ref=e233] [cursor=pointer]:
+                            - generic [ref=e235]: 875 likes
+                          - button "Reply" [ref=e236] [cursor=pointer]:
+                            - generic [ref=e238]: Reply
+                      - button "Like" [ref=e243] [cursor=pointer]:
+                        - img "Like" [ref=e246]
+                  - button "View all 18 replies" [ref=e249] [cursor=pointer]:
+                    - generic [ref=e252]: View all 18 replies
+                - generic [ref=e253]:
+                  - generic [ref=e255]:
+                    - link "galletitas_dulces__'s profile picture" [ref=e261] [cursor=pointer]:
+                      - /url: /galletitas_dulces__/
+                      - img "galletitas_dulces__'s profile picture" [ref=e262]
+                    - generic [ref=e263]:
+                      - generic [ref=e264]:
+                        - generic [ref=e266]:
+                          - generic [ref=e267]:
+                            - link "galletitas_dulces__" [ref=e272] [cursor=pointer]:
+                              - /url: /galletitas_dulces__/
+                              - generic [ref=e275]: galletitas_dulces__
+                            - link "4w" [ref=e277] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/18109393174760602/
+                              - time [ref=e278]: 4w
+                          - generic [ref=e280]: STROBE LAST IN THIS ECONOMY!?!??!?!?!?!?!
+                        - generic [ref=e281]:
+                          - button "621 likes" [ref=e282] [cursor=pointer]:
+                            - generic [ref=e284]: 621 likes
+                          - button "Reply" [ref=e285] [cursor=pointer]:
+                            - generic [ref=e287]: Reply
+                      - button "Like" [ref=e292] [cursor=pointer]:
+                        - img "Like" [ref=e295]
+                  - button "View all 4 replies" [ref=e298] [cursor=pointer]:
+                    - generic [ref=e301]: View all 4 replies
+                - generic [ref=e302]:
+                  - generic [ref=e304]:
+                    - link "estm9_'s profile picture" [ref=e310] [cursor=pointer]:
+                      - /url: /estm9_/
+                      - img "estm9_'s profile picture" [ref=e311]
+                    - generic [ref=e312]:
+                      - generic [ref=e313]:
+                        - generic [ref=e315]:
+                          - generic [ref=e316]:
+                            - link "estm9_" [ref=e321] [cursor=pointer]:
+                              - /url: /estm9_/
+                              - generic [ref=e324]: estm9_
+                            - link "4w" [ref=e326] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/17896409382491568/
+                              - time [ref=e327]: 4w
+                          - generic [ref=e329]: Wait it looks like that persona 5 trailer
+                        - generic [ref=e330]:
+                          - button "476 likes" [ref=e331] [cursor=pointer]:
+                            - generic [ref=e333]: 476 likes
+                          - button "Reply" [ref=e334] [cursor=pointer]:
+                            - generic [ref=e336]: Reply
+                      - button "Like" [ref=e341] [cursor=pointer]:
+                        - img "Like" [ref=e344]
+                  - button "View all 2 replies" [ref=e347] [cursor=pointer]:
+                    - generic [ref=e350]: View all 2 replies
+                - generic [ref=e351]:
+                  - generic [ref=e353]:
+                    - link "didodanof's profile picture" [ref=e359] [cursor=pointer]:
+                      - /url: /didodanof/
+                      - img "didodanof's profile picture" [ref=e360]
+                    - generic [ref=e361]:
+                      - generic [ref=e362]:
+                        - generic [ref=e364]:
+                          - generic [ref=e365]:
+                            - link "didodanof" [ref=e370] [cursor=pointer]:
+                              - /url: /didodanof/
+                              - generic [ref=e373]: didodanof
+                            - link "4w" [ref=e375] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/17954970960158919/
+                              - time [ref=e376]: 4w
+                          - generic [ref=e378]: strobe last ! !
+                        - generic [ref=e379]:
+                          - button "727 likes" [ref=e380] [cursor=pointer]:
+                            - generic [ref=e382]: 727 likes
+                          - button "Reply" [ref=e383] [cursor=pointer]:
+                            - generic [ref=e385]: Reply
+                      - button "Like" [ref=e390] [cursor=pointer]:
+                        - img "Like" [ref=e393]
+                  - button "View all 3 replies" [ref=e396] [cursor=pointer]:
+                    - generic [ref=e399]: View all 3 replies
+                - generic [ref=e400]:
+                  - generic [ref=e402]:
+                    - link "nietzohip's profile picture" [ref=e408] [cursor=pointer]:
+                      - /url: /nietzohip/
+                      - img "nietzohip's profile picture" [ref=e409]
+                    - generic [ref=e410]:
+                      - generic [ref=e411]:
+                        - generic [ref=e413]:
+                          - generic [ref=e414]:
+                            - link "nietzohip" [ref=e419] [cursor=pointer]:
+                              - /url: /nietzohip/
+                              - generic [ref=e422]: nietzohip
+                            - link "4w" [ref=e424] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/17892115758553626/
+                              - time [ref=e425]: 4w
+                          - generic [ref=e427]: Omg omg this song
+                        - generic [ref=e428]:
+                          - button "6 likes" [ref=e429] [cursor=pointer]:
+                            - generic [ref=e431]: 6 likes
+                          - button "Reply" [ref=e432] [cursor=pointer]:
+                            - generic [ref=e434]: Reply
+                      - button "Like" [ref=e439] [cursor=pointer]:
+                        - img "Like" [ref=e442]
+                  - button "View all 2 replies" [ref=e445] [cursor=pointer]:
+                    - generic [ref=e448]: View all 2 replies
+                - generic [ref=e449]:
+                  - generic [ref=e451]:
+                    - link "yesseriousli's profile picture" [ref=e457] [cursor=pointer]:
+                      - /url: /yesseriousli/
+                      - img "yesseriousli's profile picture" [ref=e458]
+                    - generic [ref=e459]:
+                      - generic [ref=e460]:
+                        - generic [ref=e462]:
+                          - generic [ref=e463]:
+                            - link "yesseriousli" [ref=e468] [cursor=pointer]:
+                              - /url: /yesseriousli/
+                              - generic [ref=e471]: yesseriousli
+                            - link "1w" [ref=e473] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/18101480899924924/
+                              - time [ref=e474]: 1w
+                          - generic [ref=e476]: strobe last mentioned
+                        - generic [ref=e477]:
+                          - button "2 likes" [ref=e478] [cursor=pointer]:
+                            - generic [ref=e480]: 2 likes
+                          - button "Reply" [ref=e481] [cursor=pointer]:
+                            - generic [ref=e483]: Reply
+                      - button "Like" [ref=e488] [cursor=pointer]:
+                        - img "Like" [ref=e491]
+                  - button "View all 1 replies" [ref=e494] [cursor=pointer]:
+                    - generic [ref=e497]: View all 1 replies
+                - generic [ref=e498]:
+                  - generic [ref=e500]:
+                    - link "purple_peter_griffin's profile picture" [ref=e506] [cursor=pointer]:
+                      - /url: /purple_peter_griffin/
+                      - img "purple_peter_griffin's profile picture" [ref=e507]
+                    - generic [ref=e508]:
+                      - generic [ref=e509]:
+                        - generic [ref=e511]:
+                          - generic [ref=e512]:
+                            - link "purple_peter_griffin" [ref=e517] [cursor=pointer]:
+                              - /url: /purple_peter_griffin/
+                              - generic [ref=e520]: purple_peter_griffin
+                            - link "4w" [ref=e522] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/18130843867564718/
+                              - time [ref=e523]: 4w
+                          - generic [ref=e525]: STROBE LAST??
+                        - generic [ref=e526]:
+                          - button "7 likes" [ref=e527] [cursor=pointer]:
+                            - generic [ref=e529]: 7 likes
+                          - button "Reply" [ref=e530] [cursor=pointer]:
+                            - generic [ref=e532]: Reply
+                      - button "Like" [ref=e537] [cursor=pointer]:
+                        - img "Like" [ref=e540]
+                  - button "View all 3 replies" [ref=e543] [cursor=pointer]:
+                    - generic [ref=e546]: View all 3 replies
+                - generic [ref=e547]:
+                  - generic [ref=e549]:
+                    - link "l_1nn_'s profile picture" [ref=e555] [cursor=pointer]:
+                      - /url: /l_1nn_/
+                      - img "l_1nn_'s profile picture" [ref=e556]
+                    - generic [ref=e557]:
+                      - generic [ref=e558]:
+                        - generic [ref=e560]:
+                          - generic [ref=e561]:
+                            - link "l_1nn_" [ref=e566] [cursor=pointer]:
+                              - /url: /l_1nn_/
+                              - generic [ref=e569]: l_1nn_
+                            - link "4w" [ref=e571] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/18142197067476717/
+                              - time [ref=e572]: 4w
+                          - generic [ref=e574]: Reminded me more of Psikelgar by harufuri more than strobe light/last
+                        - generic [ref=e575]:
+                          - button "11 likes" [ref=e576] [cursor=pointer]:
+                            - generic [ref=e578]: 11 likes
+                          - button "Reply" [ref=e579] [cursor=pointer]:
+                            - generic [ref=e581]: Reply
+                      - button "Like" [ref=e586] [cursor=pointer]:
+                        - img "Like" [ref=e589]
+                  - button "View all 3 replies" [ref=e592] [cursor=pointer]:
+                    - generic [ref=e595]: View all 3 replies
+                - generic [ref=e598]:
+                  - link "il.oved_raco's profile picture" [ref=e604] [cursor=pointer]:
+                    - /url: /il.oved_raco/
+                    - img "il.oved_raco's profile picture" [ref=e605]
+                  - generic [ref=e606]:
+                    - generic [ref=e607]:
+                      - generic [ref=e609]:
+                        - generic [ref=e610]:
+                          - link "il.oved_raco" [ref=e615] [cursor=pointer]:
+                            - /url: /il.oved_raco/
+                            - generic [ref=e618]: il.oved_raco
+                          - link "4w" [ref=e620] [cursor=pointer]:
+                            - /url: /p/DaFxILJgAs3/c/18538456228078027/
+                            - time [ref=e621]: 4w
+                        - generic [ref=e623]: 와 분위기 레전드
+                      - generic [ref=e624]:
+                        - button "170 likes" [ref=e625] [cursor=pointer]:
+                          - generic [ref=e627]: 170 likes
+                        - button "Reply" [ref=e628] [cursor=pointer]:
+                          - generic [ref=e630]: Reply
+                    - button "Like" [ref=e635] [cursor=pointer]:
+                      - img "Like" [ref=e638]
+                - generic [ref=e640]:
+                  - generic [ref=e642]:
+                    - link "okei.okay.ok's profile picture" [ref=e648] [cursor=pointer]:
+                      - /url: /okei.okay.ok/
+                      - img "okei.okay.ok's profile picture" [ref=e649]
+                    - generic [ref=e650]:
+                      - generic [ref=e651]:
+                        - generic [ref=e653]:
+                          - generic [ref=e654]:
+                            - link "okei.okay.ok" [ref=e659] [cursor=pointer]:
+                              - /url: /okei.okay.ok/
+                              - generic [ref=e662]: okei.okay.ok
+                            - link "1w" [ref=e664] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/18347421043175061/
+                              - time [ref=e665]: 1w
+                          - generic [ref=e667]: wait omg how did you get that slight camera wobble i need it
+                        - button "Reply" [ref=e669] [cursor=pointer]:
+                          - generic [ref=e671]: Reply
+                      - button "Like" [ref=e676] [cursor=pointer]:
+                        - img "Like" [ref=e679]
+                  - button "View all 1 replies" [ref=e682] [cursor=pointer]:
+                    - generic [ref=e685]: View all 1 replies
+                - generic [ref=e686]:
+                  - generic [ref=e688]:
+                    - link "sofaloafalopagus's profile picture" [ref=e694] [cursor=pointer]:
+                      - /url: /sofaloafalopagus/
+                      - img "sofaloafalopagus's profile picture" [ref=e695]
+                    - generic [ref=e696]:
+                      - generic [ref=e697]:
+                        - generic [ref=e699]:
+                          - generic [ref=e700]:
+                            - link "sofaloafalopagus" [ref=e705] [cursor=pointer]:
+                              - /url: /sofaloafalopagus/
+                              - generic [ref=e708]: sofaloafalopagus
+                            - link "4w" [ref=e710] [cursor=pointer]:
+                              - /url: /p/DaFxILJgAs3/c/18187139191384333/
+                              - time [ref=e711]: 4w
+                          - generic [ref=e713]: o ya su mi o ya su mi
+                        - generic [ref=e714]:
+                          - button "162 likes" [ref=e715] [cursor=pointer]:
+                            - generic [ref=e717]: 162 likes
+                          - button "Reply" [ref=e718] [cursor=pointer]:
+                            - generic [ref=e720]: Reply
+                      - button "Like" [ref=e725] [cursor=pointer]:
+                        - img "Like" [ref=e728]
+                  - button "View all 2 replies" [ref=e731] [cursor=pointer]:
+                    - generic [ref=e734]: View all 2 replies
+                - generic [ref=e737]:
+                  - link "middlebigbroricardo's profile picture" [ref=e743] [cursor=pointer]:
+                    - /url: /middlebigbroricardo/
+                    - img "middlebigbroricardo's profile picture" [ref=e744]
+                  - generic [ref=e745]:
+                    - generic [ref=e746]:
+                      - generic [ref=e748]:
+                        - generic [ref=e749]:
+                          - link "middlebigbroricardo" [ref=e754] [cursor=pointer]:
+                            - /url: /middlebigbroricardo/
+                            - generic [ref=e757]: middlebigbroricardo
+                          - link "2w" [ref=e759] [cursor=pointer]:
+                            - /url: /p/DaFxILJgAs3/c/18127321888575817/
+                            - time [ref=e760]: 2w
+                        - generic [ref=e762]: i genuinely thought it would be an earthmover
+                      - generic [ref=e763]:
+                        - button "7 likes" [ref=e764] [cursor=pointer]:
+                          - generic [ref=e766]: 7 likes
+                        - button "Reply" [ref=e767] [cursor=pointer]:
+                          - generic [ref=e769]: Reply
+                    - button "Like" [ref=e774] [cursor=pointer]:
+                      - img "Like" [ref=e777]
+                - generic [ref=e781]:
+                  - link "kucingngocok's profile picture" [ref=e787] [cursor=pointer]:
+                    - /url: /kucingngocok/
+                    - img "kucingngocok's profile picture" [ref=e788]
+                  - generic [ref=e789]:
+                    - generic [ref=e790]:
+                      - generic [ref=e792]:
+                        - generic [ref=e793]:
+                          - link "kucingngocok" [ref=e798] [cursor=pointer]:
+                            - /url: /kucingngocok/
+                            - generic [ref=e801]: kucingngocok
+                          - link "4w" [ref=e803] [cursor=pointer]:
+                            - /url: /p/DaFxILJgAs3/c/18010246049732168/
+                            - time [ref=e804]: 4w
+                        - generic [ref=e806]: rip siinamota… he would've loved this 💜
+                      - generic [ref=e807]:
+                        - button "126 likes" [ref=e808] [cursor=pointer]:
+                          - generic [ref=e810]: 126 likes
+                        - button "Reply" [ref=e811] [cursor=pointer]:
+                          - generic [ref=e813]: Reply
+                    - button "Like" [ref=e818] [cursor=pointer]:
+                      - img "Like" [ref=e821]
+                - generic [ref=e825]:
+                  - link "allwinart's profile picture" [ref=e831] [cursor=pointer]:
+                    - /url: /allwinart/
+                    - img "allwinart's profile picture" [ref=e832]
+                  - generic [ref=e833]:
+                    - generic [ref=e834]:
+                      - generic [ref=e836]:
+                        - generic [ref=e837]:
+                          - link "allwinart" [ref=e842] [cursor=pointer]:
+                            - /url: /allwinart/
+                            - generic [ref=e845]: allwinart
+                          - link "3w" [ref=e847] [cursor=pointer]:
+                            - /url: /p/DaFxILJgAs3/c/18397221847090892/
+                            - time [ref=e848]: 3w
+                        - generic [ref=e850]: Persona 5.
+                      - generic [ref=e851]:
+                        - button "2 likes" [ref=e852] [cursor=pointer]:
+                          - generic [ref=e854]: 2 likes
+                        - button "Reply" [ref=e855] [cursor=pointer]:
+                          - generic [ref=e857]: Reply
+                    - button "Like" [ref=e862] [cursor=pointer]:
+                      - img "Like" [ref=e865]
+                - progressbar [ref=e869]:
+                  - img "Loading..." [ref=e870]
+              - generic [ref=e883]:
+                - generic [ref=e884]:
+                  - generic [ref=e885]:
+                    - button "Like" [ref=e888] [cursor=pointer]:
+                      - img "Like" [ref=e891]
+                    - button "87.7K" [ref=e893] [cursor=pointer]
+                    - button "Comment" [ref=e895] [cursor=pointer]:
+                      - img "Comment" [ref=e897]
+                    - button "223" [ref=e899] [cursor=pointer]
+                    - button "Repost" [ref=e900] [cursor=pointer]:
+                      - img "Repost" [ref=e901]
+                    - button "7.2K" [ref=e903] [cursor=pointer]
+                    - button "Share" [ref=e904] [cursor=pointer]:
+                      - img "Share" [ref=e905]
+                  - button "Remove" [ref=e910] [cursor=pointer]:
+                    - button "Remove" [ref=e911]:
+                      - img "Remove" [ref=e913]
+                - link "June 27" [ref=e917] [cursor=pointer]:
+                  - /url: /rrr001222/reel/DaFxILJgAs3/
+                  - time [ref=e919]: June 27
+              - generic [ref=e922]:
+                - link [ref=e923]
+                - generic [ref=e925]:
+                  - button "Emoji" [ref=e927] [cursor=pointer]:
+                    - img "Emoji" [ref=e929]
+                  - textbox "Add a comment…" [ref=e931]
+          - separator [ref=e933]
+          - generic [ref=e934]:
+            - generic [ref=e936]:
+              - text: More posts from
+              - link "rrr001222" [ref=e937] [cursor=pointer]:
+                - /url: /rrr001222/
+            - generic [ref=e940]:
+              - generic [ref=e941]:
+                - 'link "여름맞이 마플샵 업데이트 했습니다.. 다람이, 슈 아크릴스탠드, 뱃지 올려두었습니다. 🐟 🐟 International Shipping Available (프로필에 링크 있습니다. Link In my Bio) KR : https://marpple.shop/kr/rdr JP : https://marpple.shop/jp/rdr ENG : https://marpple.shop/en/rdr Carousel" [ref=e943] [cursor=pointer]':
+                  - /url: /rrr001222/p/DbNv2_vgcok/
+                  - 'img "여름맞이 마플샵 업데이트 했습니다.. 다람이, 슈 아크릴스탠드, 뱃지 올려두었습니다. 🐟 🐟 International Shipping Available (프로필에 링크 있습니다. Link In my Bio) KR : https://marpple.shop/kr/rdr JP : https://marpple.shop/jp/rdr ENG : https://marpple.shop/en/rdr" [ref=e946]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - link "#요즘히피그림 Carousel" [ref=e949] [cursor=pointer]:
+                  - /url: /rrr001222/p/DbLIFZUAWk8/
+                  - img "#요즘히피그림" [ref=e952]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - link "캐릭터 도감 책 Clip" [ref=e955] [cursor=pointer]:
+                  - /url: /rrr001222/reel/DbBAMXQBOTe/
+                  - img "캐릭터 도감 책" [ref=e958]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e960]:
+                - link "Carousel" [ref=e962] [cursor=pointer]:
+                  - /url: /rrr001222/p/DanM5vcAdyZ/
+                  - img [ref=e965]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - link "Clip" [ref=e968] [cursor=pointer]:
+                  - /url: /rrr001222/reel/Dac9_DGB3Uk/
+                  - img [ref=e971]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=e974] [cursor=pointer]:
+                  - /url: /rrr001222/p/DaWMW4-T6UG/
+                  - img [ref=e977]
+      - contentinfo [ref=e979]:
+        - generic [ref=e980]:
+          - generic [ref=e982]:
+            - link "Meta" [ref=e984] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e985]: Meta
+            - link "About" [ref=e987] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e988]: About
+            - link "Blog" [ref=e990] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e991]: Blog
+            - link "Jobs" [ref=e993] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e994]: Jobs
+            - link "Help" [ref=e996] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e997]: Help
+            - link "API" [ref=e999] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e1000]: API
+            - link "Privacy" [ref=e1002] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e1003]: Privacy
+            - link "Terms" [ref=e1005] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e1006]: Terms
+            - link "Locations" [ref=e1008] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e1009]: Locations
+            - link "Popular" [ref=e1011] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e1012]: Popular
+            - link "Instagram Lite" [ref=e1014] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e1015]: Instagram Lite
+            - link "Meta AI" [ref=e1017] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e1018]: Meta AI
+            - link "Threads" [ref=e1020] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e1021]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e1023] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e1024]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e1026] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e1027]: Meta Verified
+          - generic [ref=e1028]:
+            - generic [ref=e1029] [cursor=pointer]:
+              - generic [ref=e1030]:
+                - generic [ref=e1031]: English
+                - img "Down chevron icon" [ref=e1034]
+              - combobox "Switch Display Language" [ref=e1036]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e1038]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e1040] [cursor=pointer]:
+    - generic "Messages" [ref=e1041]:
+      - generic [ref=e1042]:
+        - img "Messages" [ref=e1045]
+        - generic [ref=e1048]: Messages
+      - generic [ref=e1049]:
+        - button "User avatar ¿" [ref=e1051]:
+          - img "User avatar" [ref=e1054]
+        - button "User avatar Mhmd" [ref=e1056]:
+          - img "User avatar" [ref=e1059]
+        - button "User avatar ENERGY BRIDGE" [ref=e1061]:
+          - img "User avatar" [ref=e1064]

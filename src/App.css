@@ -1,0 +1,25 @@
+@import "@fontsource/inter/latin-400.css";
+@import "@fontsource/inter/latin-500.css";
+@import "@fontsource/inter/latin-600.css";
+@import "@fontsource/inter/latin-700.css";
+@import "tailwindcss";
+@config "/tailwind.config.ts";
+
+@theme {
+    --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+    --color-background: oklch(0.18 0 0);
+    --color-sunken: oklch(0.13 0 0);
+    --color-surface: oklch(0.205 0 0);
+    --color-foreground: oklch(0.985 0 0);
+    --color-muted: oklch(0.708 0 0);
+    --color-border: oklch(0.269 0 0);
+}
+@layer base {
+    html {
+        color-scheme: dark;
+    }
+
+    body {
+        @apply min-h-screen bg-background text-foreground;
+    }
+}

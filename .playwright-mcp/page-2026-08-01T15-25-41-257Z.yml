@@ -1,0 +1,138 @@
+- generic [active]:
+  - generic:
+    - generic:
+      - generic:
+        - button:
+          - img
+        - generic:
+          - generic: Preamp (dB)
+          - spinbutton: "0"
+        - generic:
+          - generic: Sliders
+          - spinbutton: "10"
+      - generic:
+        - generic:
+          - generic:
+            - button:
+              - img
+            - generic: 210 Hz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 297 Hz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 420 Hz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 595 Hz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 841 Hz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 1.2 kHz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 1.7 kHz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 2.4 kHz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 3.4 kHz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+          - generic:
+            - button:
+              - img
+            - generic: 4.8 kHz
+            - generic: Q 1.00
+            - group:
+              - generic:
+                - slider:
+                  - slider: "0"
+            - generic: "0.0"
+  - dialog "Presets" [ref=e136]:
+    - heading "Presets" [level=2] [ref=e138]
+    - paragraph [ref=e139]: Manage saved EQ presets
+    - generic [ref=e140]:
+      - textbox "Preset name" [ref=e141]
+      - button "Create preset" [ref=e142]:
+        - img [ref=e143]
+    - generic [ref=e144]:
+      - generic [ref=e149]:
+        - button "Test B" [ref=e150]
+        - button "Save current settings to this preset" [ref=e151]:
+          - img [ref=e152]
+        - button "Delete preset" [ref=e156]:
+          - img [ref=e157]
+        - button "Rename preset" [ref=e160]:
+          - img [ref=e161]
+      - generic [ref=e164]:
+        - button "Preset 3" [ref=e165]
+        - button "Save current settings to this preset" [ref=e166]:
+          - img [ref=e167]
+        - button "Delete preset" [ref=e171]:
+          - img [ref=e172]
+        - button "Rename preset" [ref=e175]:
+          - img [ref=e176]

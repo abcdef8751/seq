@@ -1,0 +1,652 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e152]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - button "celestemott's profile picture" [ref=e162] [cursor=pointer]:
+                  - link "celestemott's profile picture" [ref=e164]:
+                    - img "celestemott's profile picture" [ref=e165]
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - generic [ref=e172]:
+                      - link "celestemott" [ref=e177] [cursor=pointer]:
+                        - /url: /celestemott/
+                        - generic [ref=e180]: celestemott
+                      - img "Verified" [ref=e182]
+                    - link "Original audio" [ref=e187] [cursor=pointer]:
+                      - /url: /reels/audio/26187432104271351/
+                      - generic [ref=e190]: Original audio
+                  - button "Follow" [ref=e192] [cursor=pointer]
+                - button "More options" [ref=e195] [cursor=pointer]:
+                  - img "More options" [ref=e198]
+              - separator [ref=e202]
+              - generic [ref=e204]:
+                - generic [ref=e206]:
+                  - link "celestemott's profile picture" [ref=e211] [cursor=pointer]:
+                    - /url: /celestemott/
+                    - img "celestemott's profile picture" [ref=e212]
+                  - generic [ref=e216]:
+                    - generic [ref=e217]:
+                      - link "celestemott Verified" [ref=e221] [cursor=pointer]:
+                        - /url: /celestemott/
+                        - generic [ref=e223]:
+                          - generic [ref=e224]: celestemott
+                          - img "Verified" [ref=e226]
+                      - time [ref=e229]: 17w
+                    - generic [ref=e230]: Have you ever been lucid dreaming and had the characters in your dream turn hostile or angry? This is a common phenomena for psychic and spiritually gifted people - but what does it mean?
+                - generic [ref=e231]:
+                  - generic [ref=e232]:
+                    - generic [ref=e234]:
+                      - link "thewaningmoonwitch's profile picture" [ref=e240] [cursor=pointer]:
+                        - /url: /thewaningmoonwitch/
+                        - img "thewaningmoonwitch's profile picture" [ref=e241]
+                      - generic [ref=e242]:
+                        - generic [ref=e243]:
+                          - generic [ref=e245]:
+                            - generic [ref=e246]:
+                              - link "thewaningmoonwitch" [ref=e251] [cursor=pointer]:
+                                - /url: /thewaningmoonwitch/
+                                - generic [ref=e254]: thewaningmoonwitch
+                              - link "17w" [ref=e256] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/17881621728509709/
+                                - time [ref=e257]: 17w
+                            - generic [ref=e259]: I’ve had this happen once, I see and talk to my grandmother in spirit , especially in my dreams. Our meeting place is her house , only this one felt different . My grandpa was in the background as per usual, and someone else was there which I felt was odd, it’s usually just the 3 of us . She was cooking in the kitchen , and I was watching her, and she smiled and laughed and asked why I was staring at her. I said “ you’re not my grandmother “ and her face went white, her smile dropped. I knew someone was trying to connect with me through her , and I woke myself up.
+                          - generic [ref=e260]:
+                            - button "66 likes" [ref=e261] [cursor=pointer]:
+                              - generic [ref=e263]: 66 likes
+                            - button "Reply" [ref=e264] [cursor=pointer]:
+                              - generic [ref=e266]: Reply
+                            - button "Comment Options" [ref=e267] [cursor=pointer]:
+                              - img "Comment Options" [ref=e270]
+                        - button "Like" [ref=e278] [cursor=pointer]:
+                          - img "Like" [ref=e281]
+                    - button "View all 11 replies" [ref=e284] [cursor=pointer]:
+                      - generic [ref=e287]: View all 11 replies
+                  - generic [ref=e288]:
+                    - generic [ref=e290]:
+                      - link "shanntorr's profile picture" [ref=e296] [cursor=pointer]:
+                        - /url: /shanntorr/
+                        - img "shanntorr's profile picture" [ref=e297]
+                      - generic [ref=e298]:
+                        - generic [ref=e299]:
+                          - generic [ref=e301]:
+                            - generic [ref=e302]:
+                              - link "shanntorr Verified" [ref=e307] [cursor=pointer]:
+                                - /url: /shanntorr/
+                                - generic [ref=e309]:
+                                  - generic [ref=e310]: shanntorr
+                                  - img "Verified" [ref=e312]
+                              - link "17w" [ref=e315] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/17906928696388030/
+                                - time [ref=e316]: 17w
+                            - generic [ref=e318]: Whenever I say, “you guys, this is so cool, this is just a dream!”, my characters seem neutral about it.
+                          - generic [ref=e319]:
+                            - button "421 likes" [ref=e320] [cursor=pointer]:
+                              - generic [ref=e322]: 421 likes
+                            - button "Reply" [ref=e323] [cursor=pointer]:
+                              - generic [ref=e325]: Reply
+                        - button "Like" [ref=e330] [cursor=pointer]:
+                          - img "Like" [ref=e333]
+                    - button "View all 8 replies" [ref=e336] [cursor=pointer]:
+                      - generic [ref=e339]: View all 8 replies
+                  - generic [ref=e340]:
+                    - generic [ref=e342]:
+                      - link "akmichalik's profile picture" [ref=e348] [cursor=pointer]:
+                        - /url: /akmichalik/
+                        - img "akmichalik's profile picture" [ref=e349]
+                      - generic [ref=e350]:
+                        - generic [ref=e351]:
+                          - generic [ref=e353]:
+                            - generic [ref=e354]:
+                              - link "akmichalik" [ref=e359] [cursor=pointer]:
+                                - /url: /akmichalik/
+                                - generic [ref=e362]: akmichalik
+                              - link "17w" [ref=e364] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18000923417906554/
+                                - time [ref=e365]: 17w
+                            - generic [ref=e367]: Light switches don't work in my dreams. That's how I know if I'm dreaming or not.
+                          - generic [ref=e368]:
+                            - button "1,729 likes" [ref=e369] [cursor=pointer]:
+                              - generic [ref=e371]: 1,729 likes
+                            - button "Reply" [ref=e372] [cursor=pointer]:
+                              - generic [ref=e374]: Reply
+                        - button "Like" [ref=e379] [cursor=pointer]:
+                          - img "Like" [ref=e382]
+                    - button "View all 49 replies" [ref=e385] [cursor=pointer]:
+                      - generic [ref=e388]: View all 49 replies
+                  - generic [ref=e389]:
+                    - generic [ref=e391]:
+                      - link "j.marieeeeeee's profile picture" [ref=e397] [cursor=pointer]:
+                        - /url: /j.marieeeeeee/
+                        - img "j.marieeeeeee's profile picture" [ref=e398]
+                      - generic [ref=e399]:
+                        - generic [ref=e400]:
+                          - generic [ref=e402]:
+                            - generic [ref=e403]:
+                              - link "j.marieeeeeee" [ref=e408] [cursor=pointer]:
+                                - /url: /j.marieeeeeee/
+                                - generic [ref=e411]: j.marieeeeeee
+                              - link "17w" [ref=e413] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18015665312834225/
+                                - time [ref=e414]: 17w
+                            - generic [ref=e416]: I'm not sure if its lucid dreaming, but one of the only times I can note it's a dream is when its a nightmare. The dream fizzes out and I wake up.
+                          - generic [ref=e417]:
+                            - button "39 likes" [ref=e418] [cursor=pointer]:
+                              - generic [ref=e420]: 39 likes
+                            - button "Reply" [ref=e421] [cursor=pointer]:
+                              - generic [ref=e423]: Reply
+                        - button "Like" [ref=e428] [cursor=pointer]:
+                          - img "Like" [ref=e431]
+                    - button "View all 3 replies" [ref=e434] [cursor=pointer]:
+                      - generic [ref=e437]: View all 3 replies
+                  - generic [ref=e438]:
+                    - generic [ref=e440]:
+                      - link "xpuppybitesx's profile picture" [ref=e446] [cursor=pointer]:
+                        - /url: /xpuppybitesx/
+                        - img "xpuppybitesx's profile picture" [ref=e447]
+                      - generic [ref=e448]:
+                        - generic [ref=e449]:
+                          - generic [ref=e451]:
+                            - generic [ref=e452]:
+                              - link "xpuppybitesx" [ref=e457] [cursor=pointer]:
+                                - /url: /xpuppybitesx/
+                                - generic [ref=e460]: xpuppybitesx
+                              - link "12w" [ref=e462] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18072756593280181/
+                                - time [ref=e463]: 12w
+                            - generic [ref=e465]: I remember a dream I had years ago where I was on a bus talking to this woman for a long time. I was aware I was dreaming but I felt a connection with her and as time went on, I felt guilty for knowing this was a dream. Near the end of the dream I told her that it was a dream, and she started to cry because when I wake up, it would mean she was going to be gone forever. I promised to her that she wouldn’t be gone forever and I would try to bring her back and things seemed okay. Years later I’ve never managed to bring her back to a dream :(
+                          - generic [ref=e466]:
+                            - button "55 likes" [ref=e467] [cursor=pointer]:
+                              - generic [ref=e469]: 55 likes
+                            - button "Reply" [ref=e470] [cursor=pointer]:
+                              - generic [ref=e472]: Reply
+                        - button "Like" [ref=e477] [cursor=pointer]:
+                          - img "Like" [ref=e480]
+                    - button "View all 2 replies" [ref=e483] [cursor=pointer]:
+                      - generic [ref=e486]: View all 2 replies
+                  - generic [ref=e489]:
+                    - link "isa_stuff666's profile picture" [ref=e495] [cursor=pointer]:
+                      - /url: /isa_stuff666/
+                      - img "isa_stuff666's profile picture" [ref=e496]
+                    - generic [ref=e497]:
+                      - generic [ref=e498]:
+                        - generic [ref=e500]:
+                          - generic [ref=e501]:
+                            - link "isa_stuff666" [ref=e506] [cursor=pointer]:
+                              - /url: /isa_stuff666/
+                              - generic [ref=e509]: isa_stuff666
+                            - link "6w" [ref=e511] [cursor=pointer]:
+                              - /url: /p/DWel_aaxY9C/c/18081693758191753/
+                              - time [ref=e512]: 6w
+                          - generic [ref=e514]: I did this last year actually. I realized I was dreaming and I actually wanted to test out this theory. When I had told my sister in my dream, that I was dreaming she screamed at me "no" The way she screamed was a little scary, and I don't know why but I asked "...why are you saying no?" And I know it makes no sense but she replied back with "because your beautiful." And I responded with how that was very sweet and we ended up having a nice long hug. It was actually very therapeutic? I could even feel the warmth of the hug. I know it was just a dream but something about that hug really made me feel at peace even for days afterwards
+                        - generic [ref=e515]:
+                          - button "5 likes" [ref=e516] [cursor=pointer]:
+                            - generic [ref=e518]: 5 likes
+                          - button "Reply" [ref=e519] [cursor=pointer]:
+                            - generic [ref=e521]: Reply
+                      - button "Like" [ref=e526] [cursor=pointer]:
+                        - img "Like" [ref=e529]
+                  - generic [ref=e531]:
+                    - generic [ref=e533]:
+                      - link "chris_healey_uk's profile picture" [ref=e539] [cursor=pointer]:
+                        - /url: /chris_healey_uk/
+                        - img "chris_healey_uk's profile picture" [ref=e540]
+                      - generic [ref=e541]:
+                        - generic [ref=e542]:
+                          - generic [ref=e544]:
+                            - generic [ref=e545]:
+                              - link "chris_healey_uk" [ref=e550] [cursor=pointer]:
+                                - /url: /chris_healey_uk/
+                                - generic [ref=e553]: chris_healey_uk
+                              - link "17w" [ref=e555] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18119189350723844/
+                                - time [ref=e556]: 17w
+                            - generic [ref=e558]: Currently reading fourth wall phantoms by Joshua Cutchin highly recommend
+                          - generic [ref=e559]:
+                            - button "13 likes" [ref=e560] [cursor=pointer]:
+                              - generic [ref=e562]: 13 likes
+                            - button "Reply" [ref=e563] [cursor=pointer]:
+                              - generic [ref=e565]: Reply
+                        - button "Like" [ref=e570] [cursor=pointer]:
+                          - img "Like" [ref=e573]
+                    - button "View all 3 replies" [ref=e576] [cursor=pointer]:
+                      - generic [ref=e579]: View all 3 replies
+                  - generic [ref=e580]:
+                    - generic [ref=e582]:
+                      - link "no_iam_not_a_sock's profile picture" [ref=e588] [cursor=pointer]:
+                        - /url: /no_iam_not_a_sock/
+                        - img "no_iam_not_a_sock's profile picture" [ref=e589]
+                      - generic [ref=e590]:
+                        - generic [ref=e591]:
+                          - generic [ref=e593]:
+                            - generic [ref=e594]:
+                              - link "no_iam_not_a_sock" [ref=e599] [cursor=pointer]:
+                                - /url: /no_iam_not_a_sock/
+                                - generic [ref=e602]: no_iam_not_a_sock
+                              - link "9w" [ref=e604] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18360921094238785/
+                                - time [ref=e605]: 9w
+                            - generic [ref=e607]: When I was a kid. Maybe 5 or 6 I dreamt in was in a playground arguing with this little boy. I'm like "oh yeah? Will this is a dream!" And he throws a can at my head
+                          - generic [ref=e608]:
+                            - button "518 likes" [ref=e609] [cursor=pointer]:
+                              - generic [ref=e611]: 518 likes
+                            - button "Reply" [ref=e612] [cursor=pointer]:
+                              - generic [ref=e614]: Reply
+                        - button "Like" [ref=e619] [cursor=pointer]:
+                          - img "Like" [ref=e622]
+                    - button "View all 2 replies" [ref=e625] [cursor=pointer]:
+                      - generic [ref=e628]: View all 2 replies
+                  - generic [ref=e629]:
+                    - generic [ref=e631]:
+                      - link "__.daddy_ghost.__'s profile picture" [ref=e637] [cursor=pointer]:
+                        - /url: /__.daddy_ghost.__/
+                        - img "__.daddy_ghost.__'s profile picture" [ref=e638]
+                      - generic [ref=e639]:
+                        - generic [ref=e640]:
+                          - generic [ref=e642]:
+                            - generic [ref=e643]:
+                              - link "__.daddy_ghost.__" [ref=e648] [cursor=pointer]:
+                                - /url: /__.daddy_ghost.__/
+                                - generic [ref=e651]: __.daddy_ghost.__
+                              - link "5w" [ref=e653] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18094841656984461/
+                                - time [ref=e654]: 5w
+                            - generic [ref=e656]: I lucid dream quite frequently and I’m able to recall a lot of my dreams in great detail and it wasn’t until about three years ago that I was able to tell when I have been dreaming and I recall one dream where I realized I was dreaming and one of my dream friends told me to never say that out loud because The guards or some word similar do not like that in the send you back and in my dreams, someone had overheard me and called these guards, and I was flushed and looked like a portal in the ground, and I could never go back to that dream no matter how hard I tried
+                          - generic [ref=e657]:
+                            - button "6 likes" [ref=e658] [cursor=pointer]:
+                              - generic [ref=e660]: 6 likes
+                            - button "Reply" [ref=e661] [cursor=pointer]:
+                              - generic [ref=e663]: Reply
+                        - button "Like" [ref=e668] [cursor=pointer]:
+                          - img "Like" [ref=e671]
+                    - button "View all 2 replies" [ref=e674] [cursor=pointer]:
+                      - generic [ref=e677]: View all 2 replies
+                  - generic [ref=e678]:
+                    - generic [ref=e680]:
+                      - link "x.dumbdragon.x's profile picture" [ref=e686] [cursor=pointer]:
+                        - /url: /x.dumbdragon.x/
+                        - img "x.dumbdragon.x's profile picture" [ref=e687]
+                      - generic [ref=e688]:
+                        - generic [ref=e689]:
+                          - generic [ref=e691]:
+                            - generic [ref=e692]:
+                              - link "x.dumbdragon.x" [ref=e697] [cursor=pointer]:
+                                - /url: /x.dumbdragon.x/
+                                - generic [ref=e700]: x.dumbdragon.x
+                              - link "12w" [ref=e702] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18041687522578391/
+                                - time [ref=e703]: 12w
+                            - generic [ref=e705]: I used to go into what I called the dream hub and I’d go and find ppl I knew and I’d enter their dreams and completely wreak havoc in there
+                          - generic [ref=e706]:
+                            - button "16 likes" [ref=e707] [cursor=pointer]:
+                              - generic [ref=e709]: 16 likes
+                            - button "Reply" [ref=e710] [cursor=pointer]:
+                              - generic [ref=e712]: Reply
+                        - button "Like" [ref=e717] [cursor=pointer]:
+                          - img "Like" [ref=e720]
+                    - button "View all 2 replies" [ref=e723] [cursor=pointer]:
+                      - generic [ref=e726]: View all 2 replies
+                  - generic [ref=e727]:
+                    - generic [ref=e729]:
+                      - link "felixsnax's profile picture" [ref=e735] [cursor=pointer]:
+                        - /url: /felixsnax/
+                        - img "felixsnax's profile picture" [ref=e736]
+                      - generic [ref=e737]:
+                        - generic [ref=e738]:
+                          - generic [ref=e740]:
+                            - generic [ref=e741]:
+                              - link "felixsnax" [ref=e746] [cursor=pointer]:
+                                - /url: /felixsnax/
+                                - generic [ref=e749]: felixsnax
+                              - link "17w" [ref=e751] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18155748766444867/
+                                - time [ref=e752]: 17w
+                            - generic [ref=e754]: I've never had a problem with anyone getting mad when I tell them it's a dream
+                          - generic [ref=e755]:
+                            - button "15 likes" [ref=e756] [cursor=pointer]:
+                              - generic [ref=e758]: 15 likes
+                            - button "Reply" [ref=e759] [cursor=pointer]:
+                              - generic [ref=e761]: Reply
+                        - button "Like" [ref=e766] [cursor=pointer]:
+                          - img "Like" [ref=e769]
+                    - button "View all 2 replies" [ref=e772] [cursor=pointer]:
+                      - generic [ref=e775]: View all 2 replies
+                  - generic [ref=e776]:
+                    - generic [ref=e778]:
+                      - link "urbanfarmn's profile picture" [ref=e784] [cursor=pointer]:
+                        - /url: /urbanfarmn/
+                        - img "urbanfarmn's profile picture" [ref=e785]
+                      - generic [ref=e786]:
+                        - generic [ref=e787]:
+                          - generic [ref=e789]:
+                            - generic [ref=e790]:
+                              - link "urbanfarmn" [ref=e795] [cursor=pointer]:
+                                - /url: /urbanfarmn/
+                                - generic [ref=e798]: urbanfarmn
+                              - link "17w" [ref=e800] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18087815773986938/
+                                - time [ref=e801]: 17w
+                            - generic [ref=e803]: I have been lucid dreaming and astral projecting since childhood. This happens to me all the time. My cell phone NOT working is the trigger that I am lucid dreaming. I tell everyone in my dream that I am dreaming and then I fly to prove it to them. In a recent lucid dream, I was lost and I pulled out my phone to call my daughter and, for the first time ever, the call went through. She answered and I told her to go into my bedroom and wake me up!!! I leveled up lol
+                          - generic [ref=e804]:
+                            - button "35 likes" [ref=e805] [cursor=pointer]:
+                              - generic [ref=e807]: 35 likes
+                            - button "Reply" [ref=e808] [cursor=pointer]:
+                              - generic [ref=e810]: Reply
+                        - button "Like" [ref=e815] [cursor=pointer]:
+                          - img "Like" [ref=e818]
+                    - button "View all 2 replies" [ref=e821] [cursor=pointer]:
+                      - generic [ref=e824]: View all 2 replies
+                  - generic [ref=e825]:
+                    - generic [ref=e827]:
+                      - link "mailman_mali's profile picture" [ref=e833] [cursor=pointer]:
+                        - /url: /mailman_mali/
+                        - img "mailman_mali's profile picture" [ref=e834]
+                      - generic [ref=e835]:
+                        - generic [ref=e836]:
+                          - generic [ref=e838]:
+                            - generic [ref=e839]:
+                              - link "mailman_mali" [ref=e844] [cursor=pointer]:
+                                - /url: /mailman_mali/
+                                - generic [ref=e847]: mailman_mali
+                              - link "17w" [ref=e849] [cursor=pointer]:
+                                - /url: /p/DWel_aaxY9C/c/18132640717550364/
+                                - time [ref=e850]: 17w
+                            - generic [ref=e852]: I’ve been trying to learn how to lucid dream but my dreams are so vivid I can’t break out of them (I can fully read passages of texts, clocks/numbers, and look at myself in the mirror in dreams)
+                          - generic [ref=e853]:
+                            - button "103 likes" [ref=e854] [cursor=pointer]:
+                              - generic [ref=e856]: 103 likes
+                            - button "Reply" [ref=e857] [cursor=pointer]:
+                              - generic [ref=e859]: Reply
+                        - button "Like" [ref=e864] [cursor=pointer]:
+                          - img "Like" [ref=e867]
+                    - button "View all 12 replies" [ref=e870] [cursor=pointer]:
+                      - generic [ref=e873]: View all 12 replies
+                  - generic [ref=e876]:
+                    - link "hasagine's profile picture" [ref=e882] [cursor=pointer]:
+                      - /url: /hasagine/
+                      - img "hasagine's profile picture" [ref=e883]
+                    - generic [ref=e884]:
+                      - generic [ref=e885]:
+                        - generic [ref=e887]:
+                          - generic [ref=e888]:
+                            - link "hasagine" [ref=e893] [cursor=pointer]:
+                              - /url: /hasagine/
+                              - generic [ref=e896]: hasagine
+                            - link "13w" [ref=e898] [cursor=pointer]:
+                              - /url: /p/DWel_aaxY9C/c/18162344773434613/
+                              - time [ref=e899]: 13w
+                          - generic [ref=e901]: The dream people said they were manifestations of my organs and that i need to drink more water and eat veges :x
+                        - generic [ref=e902]:
+                          - button "7 likes" [ref=e903] [cursor=pointer]:
+                            - generic [ref=e905]: 7 likes
+                          - button "Reply" [ref=e906] [cursor=pointer]:
+                            - generic [ref=e908]: Reply
+                      - button "Like" [ref=e913] [cursor=pointer]:
+                        - img "Like" [ref=e916]
+                  - generic [ref=e918]:
+                    - generic [ref=e920]:
+                      - link "emh.1111's profile picture" [ref=e926] [cursor=pointer]:
+                        - /url: /emh.1111/
+                        - img "emh.1111's profile picture" [ref=e927]
+                      - generic [ref=e928]:
+                        - generic [ref=e929]:
+                          - generic [ref=e931]:
+                            - generic [ref=e932]:
+                              - link "emh.1111" [ref=e937] [cursor=pointer]:
+                                - /url: /emh.1111/
+                                - generic [ref=e940]: emh.1111
+                              - generic [ref=e941]:
+                                - link "7w" [ref=e942] [cursor=pointer]:
+                                  - /url: /p/DWel_aaxY9C/c/18046257473563981/
+                                  - time [ref=e943]: 7w
+                                - text: · Edited
+                            - generic [ref=e945]: i kept experiencing the same energy disguising itself as several different people that i find attractive to try to have (you know what) with me. i would dream every single night, wake up with scratches and bruises, i always felt like i was being watched, my dreams were always insanely vivid, and i experienced paranormal things. one night i was sleeping, and i was in a phase right between sleep and consciousness. i heard a clap right by my ear. i physically jolted, and retreated deeper beneath my covers. i remember whimpering, i might have cried. i also heard this gross man’s voice yell “HEY!” i did my best to block out the rest of what he said, but it was absolutely horrifying. i couldn’t talk about what was happening to me without crying. my dreams are always unbelievably realistic. everything works as it should, i can read, i can run, i can do everything. so in these dreams when it would hurt me, i could feel everything. i had to cleanse my entire living space and wear a protection ward necklace to sleep every night to get rid of it. i still don’t know what that thing was.
+                          - generic [ref=e946]:
+                            - button "5 likes" [ref=e947] [cursor=pointer]:
+                              - generic [ref=e949]: 5 likes
+                            - button "Reply" [ref=e950] [cursor=pointer]:
+                              - generic [ref=e952]: Reply
+                        - button "Like" [ref=e957] [cursor=pointer]:
+                          - img "Like" [ref=e960]
+                    - button "View all 4 replies" [ref=e963] [cursor=pointer]:
+                      - generic [ref=e966]: View all 4 replies
+                  - progressbar [ref=e969]:
+                    - img "Loading..." [ref=e970]
+              - generic [ref=e983]:
+                - generic [ref=e984]:
+                  - generic [ref=e985]:
+                    - button "Like" [ref=e988] [cursor=pointer]:
+                      - img "Like" [ref=e991]
+                    - button "34.8K" [ref=e993] [cursor=pointer]
+                    - button "Comment" [ref=e995] [cursor=pointer]:
+                      - img "Comment" [ref=e997]
+                    - button "1.7K" [ref=e999] [cursor=pointer]
+                    - button "Repost" [ref=e1000] [cursor=pointer]:
+                      - img "Repost" [ref=e1001]
+                    - button "1.4K" [ref=e1003] [cursor=pointer]
+                    - button "Share" [ref=e1004] [cursor=pointer]:
+                      - img "Share" [ref=e1005]
+                  - button "Remove" [ref=e1010] [cursor=pointer]:
+                    - button "Remove" [ref=e1011]:
+                      - img "Remove" [ref=e1013]
+                - link "March 29" [ref=e1017] [cursor=pointer]:
+                  - /url: /celestemott/reel/DWel_aaxY9C/
+                  - time [ref=e1019]: March 29
+              - generic [ref=e1022]:
+                - link [ref=e1023]
+                - generic [ref=e1025]:
+                  - button "Emoji" [ref=e1027] [cursor=pointer]:
+                    - img "Emoji" [ref=e1029]
+                  - textbox "Add a comment…" [ref=e1031]
+          - separator [ref=e1033]
+          - generic [ref=e1034]:
+            - generic [ref=e1036]:
+              - text: More posts from
+              - link "celestemott" [ref=e1037] [cursor=pointer]:
+                - /url: /celestemott/
+            - generic [ref=e1040]:
+              - generic [ref=e1041]:
+                - 'link "This has been happening to me since 2021, but because my account has grown a lot it’s getting worse. Please stay safe out there & do not send money to random accounts. I ONLY book readings for new clients via my website, celestemott.com. I will never DM you asking if you want a reading. I am super busy & my waitlist for readings is almost a month long. These scammers are getting more sophisticated especially now that AI tools have become more accessible. My ONLY accounts are: TikTok: Celestemoth, alicedescends (inactive backup) IG: celestemott YT: celestemott FB: /tarotbyceleste (Celeste Mott - writer, dreamweaver) Any other accounts are scammers/impersonators. Please be cautious! I hate to hear that people have been hurt by these awful criminals 😞 Clip" [ref=e1043] [cursor=pointer]':
+                  - /url: /celestemott/reel/DV35yCsETfI/
+                  - 'img "This has been happening to me since 2021, but because my account has grown a lot it’s getting worse. Please stay safe out there & do not send money to random accounts. I ONLY book readings for new clients via my website, celestemott.com. I will never DM you asking if you want a reading. I am super busy & my waitlist for readings is almost a month long. These scammers are getting more sophisticated especially now that AI tools have become more accessible. My ONLY accounts are: TikTok: Celestemoth, alicedescends (inactive backup) IG: celestemott YT: celestemott FB: /tarotbyceleste (Celeste Mott - writer, dreamweaver) Any other accounts are scammers/impersonators. Please be cautious! I hate to hear that people have been hurt by these awful criminals 😞" [ref=e1046]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link "There are some new faces lately so I wanted to introduce myself again! Whether you’re here for magic & witchcraft, chronic illness content, or cursed lore drops (hello, vampire cult), I’m super happy to have you here! Thanks for stopping by, and feel free to ask me any questions you’d like - I do my best to respond when I can 🦋 Carousel" [ref=e1049] [cursor=pointer]:
+                  - /url: /celestemott/p/DTHxxJLAPo6/
+                  - img "There are some new faces lately so I wanted to introduce myself again! Whether you’re here for magic & witchcraft, chronic illness content, or cursed lore drops (hello, vampire cult), I’m super happy to have you here! Thanks for stopping by, and feel free to ask me any questions you’d like - I do my best to respond when I can 🦋" [ref=e1052]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - link "How do you learn to lucid dream? How can you astral project? You might be doing it already without even knowing it! Dreamwalking is a kind of astral projection that takes place while the body is inert and sleeping. So many of us—especially spiritually sensitive people or those with psychic gifts—are already naturally inclined toward popping out of our bodies and going wandering the astral plain while asleep. These are some of the signs I can tell a person may be astral projecting or capable of astral travel. Have you experienced any of these? Carousel" [ref=e1055] [cursor=pointer]:
+                  - /url: /celestemott/p/DbWu4hukfkv/
+                  - img "How do you learn to lucid dream? How can you astral project? You might be doing it already without even knowing it! Dreamwalking is a kind of astral projection that takes place while the body is inert and sleeping. So many of us—especially spiritually sensitive people or those with psychic gifts—are already naturally inclined toward popping out of our bodies and going wandering the astral plain while asleep. These are some of the signs I can tell a person may be astral projecting or capable of astral travel. Have you experienced any of these?" [ref=e1058]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+              - generic [ref=e1060]:
+                - link "Leave a 🪄 emoji if you think @demonerasers should answer for his sins against etymology. This tendency to erase nuance in discussions around linguistics, and to use this as evidence that various things are demonic, is a cornerstone of evangelical conspiracy that usually loops right on back to some pretty gross and harmful rhetoric. Anyway, “grammar” does not mean “magic spells” and the etymological linkage to “grimoire” has more to do with the inaccessibility of literacy and education in the Middle Ages than it does real witchcraft. Words *are* powerful, but not in the way Brian and his over reliance on ChatGPT are implying. Clip" [ref=e1062] [cursor=pointer]:
+                  - /url: /celestemott/reel/DbUD1RnRoEU/
+                  - img "Leave a 🪄 emoji if you think @demonerasers should answer for his sins against etymology. This tendency to erase nuance in discussions around linguistics, and to use this as evidence that various things are demonic, is a cornerstone of evangelical conspiracy that usually loops right on back to some pretty gross and harmful rhetoric. Anyway, “grammar” does not mean “magic spells” and the etymological linkage to “grimoire” has more to do with the inaccessibility of literacy and education in the Middle Ages than it does real witchcraft. Words *are* powerful, but not in the way Brian and his over reliance on ChatGPT are implying." [ref=e1065]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link "Wrote a little piece on spiritual psychosis, magical & born-again Christian grifters, and the rise of reality distortion in the algorithm age. We don’t talk much about the dangers of spiritual psychosis in the occult and magical community - often we’re too busy pointing fingers at religious psychosis and Christian conspiracy theorists. I have smoke for those folks for sure, but we have to look in our own backyard too. It’s easy to stray into unwell territory when your lens on the world is spiritual rather than materially based. Stay grounded, friends! Your spiritual (or religious) practices should be supportive, not constantly destabilizing. Carousel" [ref=e1068] [cursor=pointer]:
+                  - /url: /celestemott/p/DbRk_HHke3M/
+                  - img "Wrote a little piece on spiritual psychosis, magical & born-again Christian grifters, and the rise of reality distortion in the algorithm age. We don’t talk much about the dangers of spiritual psychosis in the occult and magical community - often we’re too busy pointing fingers at religious psychosis and Christian conspiracy theorists. I have smoke for those folks for sure, but we have to look in our own backyard too. It’s easy to stray into unwell territory when your lens on the world is spiritual rather than materially based. Stay grounded, friends! Your spiritual (or religious) practices should be supportive, not constantly destabilizing." [ref=e1071]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - link "Where’s bookstagram? I’m working on something 👀 30+ yo FMC, New Orleans setting, touch her and die, fated mates, heavy on the southern gothic horror. Imagine if Poppy Z Brite’s Lost Souls punched Twilight in the face, stole its lunch money, then escaped the scene of the crime in a hearse driven by Anne Rice. Horror romance is having a moment & I’m coming out of the coffin to bring you some tales ⚰️ Clip" [ref=e1074] [cursor=pointer]:
+                  - /url: /celestemott/reel/DbChgu0R3uF/
+                  - img "Where’s bookstagram? I’m working on something 👀 30+ yo FMC, New Orleans setting, touch her and die, fated mates, heavy on the southern gothic horror. Imagine if Poppy Z Brite’s Lost Souls punched Twilight in the face, stole its lunch money, then escaped the scene of the crime in a hearse driven by Anne Rice. Horror romance is having a moment & I’m coming out of the coffin to bring you some tales ⚰️" [ref=e1077]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+      - contentinfo [ref=e1079]:
+        - generic [ref=e1080]:
+          - generic [ref=e1082]:
+            - link "Meta" [ref=e1084] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e1085]: Meta
+            - link "About" [ref=e1087] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e1088]: About
+            - link "Blog" [ref=e1090] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e1091]: Blog
+            - link "Jobs" [ref=e1093] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e1094]: Jobs
+            - link "Help" [ref=e1096] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e1097]: Help
+            - link "API" [ref=e1099] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e1100]: API
+            - link "Privacy" [ref=e1102] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e1103]: Privacy
+            - link "Terms" [ref=e1105] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e1106]: Terms
+            - link "Locations" [ref=e1108] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e1109]: Locations
+            - link "Popular" [ref=e1111] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e1112]: Popular
+            - link "Instagram Lite" [ref=e1114] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e1115]: Instagram Lite
+            - link "Meta AI" [ref=e1117] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e1118]: Meta AI
+            - link "Threads" [ref=e1120] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e1121]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e1123] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e1124]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e1126] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e1127]: Meta Verified
+          - generic [ref=e1128]:
+            - generic [ref=e1129] [cursor=pointer]:
+              - generic [ref=e1130]:
+                - generic [ref=e1131]: English
+                - img "Down chevron icon" [ref=e1134]
+              - combobox "Switch Display Language" [ref=e1136]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e1138]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e1140] [cursor=pointer]:
+    - generic "Messages" [ref=e1141]:
+      - generic [ref=e1142]:
+        - img "Messages" [ref=e1145]
+        - generic [ref=e1148]: Messages
+      - generic [ref=e1149]:
+        - button "User avatar ¿" [ref=e1151]:
+          - img "User avatar" [ref=e1154]
+        - button "User avatar Mhmd" [ref=e1156]:
+          - img "User avatar" [ref=e1159]
+        - button "User avatar ENERGY BRIDGE" [ref=e1161]:
+          - img "User avatar" [ref=e1164]

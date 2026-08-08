@@ -1,0 +1,323 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e210] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e215]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e217]:
+          - link "Back Saved" [ref=e219] [cursor=pointer]:
+            - /url: /sq98250/saved/
+            - generic [ref=e220]:
+              - img "Back" [ref=e222]
+              - generic [ref=e225]: Saved
+          - heading "All Posts" [level=3] [ref=e229]
+          - article [ref=e231]:
+            - generic [ref=e233]:
+              - generic [ref=e234]:
+                - 'link "ヨルシカ - 「靴の花火」 / Guitar Cover #弾いてみた #ヨルシカ #guitarcover Clip" [ref=e236] [cursor=pointer]':
+                  - /url: /p/DbdAJTziAod/
+                  - 'img "ヨルシカ - 「靴の花火」 / Guitar Cover #弾いてみた #ヨルシカ #guitarcover" [ref=e239]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "フォニイ / ツキみ(めいちゃんcover) #フォニイ #vocaloid #ベース #bass #bassguitar @め さ びさんの文字素材お借りしました✨️ Clip" [ref=e242] [cursor=pointer]':
+                  - /url: /p/Dbc__Y9hHJa/
+                  - 'img "フォニイ / ツキみ(めいちゃんcover) #フォニイ #vocaloid #ベース #bass #bassguitar @め さ びさんの文字素材お借りしました✨️" [ref=e245]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "ひとりで呟くすき、きらい、すき⁡ #イノチミジカシコイセヨオトメ #クリープハイプ #bass #07 #fyp @creep_hyp Clip" [ref=e248] [cursor=pointer]':
+                  - /url: /p/Dbc9HiyRaEr/
+                  - 'img "ひとりで呟くすき、きらい、すき⁡ #イノチミジカシコイセヨオトメ #クリープハイプ #bass #07 #fyp @creep_hyp" [ref=e251]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e253]:
+                - 'link "sumika「Summer Vacation」歌いました！ ⁡ #歌ってみた #夏休み #cover Clip" [ref=e255] [cursor=pointer]':
+                  - /url: /p/DbdBeZwPXKB/
+                  - 'img "sumika「Summer Vacation」歌いました！ ⁡ #歌ってみた #夏休み #cover" [ref=e258]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link "夏だね 【みきとP】少女レイ Clip" [ref=e261] [cursor=pointer]:
+                  - /url: /p/DbcyV5STBey/
+                  - img "夏だね 【みきとP】少女レイ" [ref=e264]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Anoko Secret . . . Mixing : lizguitar_ Editing : dawn_haze_ . . . #guitar #eve #あの娘シークレット #jpop #弾いてみた Clip" [ref=e267] [cursor=pointer]':
+                  - /url: /p/Dbc8bixJ1_5/
+                  - 'img "Anoko Secret . . . Mixing : lizguitar_ Editing : dawn_haze_ . . . #guitar #eve #あの娘シークレット #jpop #弾いてみた" [ref=e270]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e272]:
+                - 'link "Eve - 마음에 드시는 대로(お気に召すまま) 기타 커버 #기타 #guitar #ギター #Eve #jpop Clip" [ref=e274] [cursor=pointer]':
+                  - /url: /p/DbdG5r9h00W/
+                  - 'img "Eve - 마음에 드시는 대로(お気に召すまま) 기타 커버 #기타 #guitar #ギター #Eve #jpop" [ref=e277]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "천본앵 #piano #fyp #12 Clip" [ref=e280] [cursor=pointer]':
+                  - /url: /p/DbIuV3XJPDG/
+                  - 'img "천본앵 #piano #fyp #12" [ref=e283]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "너와의 추억을 곱씹고 있어••• Yorushika - ただ君に晴れ #ヨルシカ #弾いてみた #ギター #guitar #reels #guitarcover @yorushika_official_ Clip" [ref=e286] [cursor=pointer]':
+                  - /url: /p/DbbG57bu16a/
+                  - 'img "너와의 추억을 곱씹고 있어••• Yorushika - ただ君に晴れ #ヨルシカ #弾いてみた #ギター #guitar #reels #guitarcover @yorushika_official_" [ref=e289]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e291]:
+                - link "Your shipping problems.Our solutions.Save time searching for a shipping company.Leave the job to us.🚢✈️ مشاكل الشحن؟ حلولها عندنا.وفّر وقتك في البحث عن شركة شحن،واترك المهمة علينا.🚢✈️ Video" [ref=e293] [cursor=pointer]:
+                  - /url: /p/DabBmSsHgw1/
+                  - img "Your shipping problems.Our solutions.Save time searching for a shipping company.Leave the job to us.🚢✈️ مشاكل الشحن؟ حلولها عندنا.وفّر وقتك في البحث عن شركة شحن،واترك المهمة علينا.🚢✈️" [ref=e296]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Video"
+                - 'link "ワールドツアーします #akasaki #夏実 #ワールドツアー Clip" [ref=e299] [cursor=pointer]':
+                  - /url: /p/DbaWYCESXho/
+                  - 'img "ワールドツアーします #akasaki #夏実 #ワールドツアー" [ref=e302]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "救世主 / QLAN QUEEN 最近ハマってるイチオシ！#救世主 #qlanqueen #叩いてみた Clip" [ref=e305] [cursor=pointer]':
+                  - /url: /p/DbanzpiS5m-/
+                  - 'img "救世主 / QLAN QUEEN 最近ハマってるイチオシ！#救世主 #qlanqueen #叩いてみた" [ref=e308]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e310]:
+                - 'link "Eve - 넌센스 문학(Literary Nonsense) 기타 커버 #Eve #이브 #イブ #ナンセンス文学 #literarynonsense #넌센스문학 #guitar #guitarcover #electricguitar #기타커버 #jpop #제이팝 Clip" [ref=e312] [cursor=pointer]':
+                  - /url: /p/DaDK4qmhMUa/
+                  - 'img "Eve - 넌센스 문학(Literary Nonsense) 기타 커버 #Eve #이브 #イブ #ナンセンス文学 #literarynonsense #넌센스문학 #guitar #guitarcover #electricguitar #기타커버 #jpop #제이팝" [ref=e315]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "뇌장작렬걸 베이스 #베이스 #베이스솔로 #베이스커버 Clip" [ref=e318] [cursor=pointer]':
+                  - /url: /p/DZKL1fGhxIa/
+                  - 'img "뇌장작렬걸 베이스 #베이스 #베이스솔로 #베이스커버" [ref=e321]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "残酷な天使のテーゼ / 高橋洋子 #弾き語り #cover #기타 #guitar #노래 Clip" [ref=e324] [cursor=pointer]':
+                  - /url: /p/Dbaiukpz1PE/
+                  - 'img "残酷な天使のテーゼ / 高橋洋子 #弾き語り #cover #기타 #guitar #노래" [ref=e327]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e329]:
+                - 'link "목숨과 맞바꿔서라도 지켜줄게 #fyp #피아노 #piano Clip" [ref=e331] [cursor=pointer]':
+                  - /url: /p/DbavCo-J-_-/
+                  - 'img "목숨과 맞바꿔서라도 지켜줄게 #fyp #피아노 #piano" [ref=e334]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "東京テディベア/Neru 全知全能の言葉をほら聞かせてよ #drums #叩いてみた #ボカロ #おすすめ Clip" [ref=e337] [cursor=pointer]':
+                  - /url: /p/DbazBfhS3Iv/
+                  - 'img "東京テディベア/Neru 全知全能の言葉をほら聞かせてよ #drums #叩いてみた #ボカロ #おすすめ" [ref=e340]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "MOROHA #guitar #fingerstyle @moroha_official Clip" [ref=e343] [cursor=pointer]':
+                  - /url: /p/DaNJPI4Si1c/
+                  - 'img "MOROHA #guitar #fingerstyle @moroha_official" [ref=e346]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e348]:
+                - 'link "マカロニえんぴつ「洗濯機と君とラヂオ」 最低限の生活に必要な君はいません リクエスト等、質問等ございましたらご気軽に！！ #エレキギター #ギター #guitar #弾いてみた #マカロニえんぴつ #ギター好きと繋がりたい Clip" [ref=e350] [cursor=pointer]':
+                  - /url: /p/DbarYvHu4Pw/
+                  - 'img "マカロニえんぴつ「洗濯機と君とラヂオ」 最低限の生活に必要な君はいません リクエスト等、質問等ございましたらご気軽に！！ #エレキギター #ギター #guitar #弾いてみた #マカロニえんぴつ #ギター好きと繋がりたい" [ref=e353]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Yorushika - Say it (Part 2) ヨルシカ 「言って。」 #ヨルシカ#guitar #drumcover #cover #jrock Clip" [ref=e356] [cursor=pointer]':
+                  - /url: /p/Dba0eKosqpp/
+                  - 'img "Yorushika - Say it (Part 2) ヨルシカ 「言って。」 #ヨルシカ#guitar #drumcover #cover #jrock" [ref=e359]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "イチジク煙/Fig Smoke👒 ずっと真夜中でいいのに。/ZUTOMAYO ⁡ #zutomayo #ずっと真夜中でいいのに #弾き語り #弾き語り女子 #acoustic Clip" [ref=e362] [cursor=pointer]':
+                  - /url: /p/DbacCqGvoP4/
+                  - 'img "イチジク煙/Fig Smoke👒 ずっと真夜中でいいのに。/ZUTOMAYO ⁡ #zutomayo #ずっと真夜中でいいのに #弾き語り #弾き語り女子 #acoustic" [ref=e365]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+            - progressbar [ref=e368]:
+              - img "Loading..." [ref=e369]
+      - contentinfo [ref=e140]:
+        - generic [ref=e141]:
+          - generic [ref=e143]:
+            - link "Meta" [ref=e145] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e146]: Meta
+            - link "About" [ref=e148] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e149]: About
+            - link "Blog" [ref=e151] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e152]: Blog
+            - link "Jobs" [ref=e154] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e155]: Jobs
+            - link "Help" [ref=e157] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e158]: Help
+            - link "API" [ref=e160] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e161]: API
+            - link "Privacy" [ref=e163] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e164]: Privacy
+            - link "Terms" [ref=e166] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e167]: Terms
+            - link "Locations" [ref=e169] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e170]: Locations
+            - link "Popular" [ref=e172] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e173]: Popular
+            - link "Instagram Lite" [ref=e175] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e176]: Instagram Lite
+            - link "Meta AI" [ref=e178] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e179]: Meta AI
+            - link "Threads" [ref=e181] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e182]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e184] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e185]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e187] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e188]: Meta Verified
+          - generic [ref=e189]:
+            - generic [ref=e190] [cursor=pointer]:
+              - generic [ref=e191]:
+                - generic [ref=e192]: English
+                - img "Down chevron icon" [ref=e195]
+              - combobox "Switch Display Language" [ref=e197]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e199]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e383] [cursor=pointer]:
+    - generic "Messages" [ref=e384]:
+      - generic [ref=e385]:
+        - img "Messages" [ref=e388]
+        - generic [ref=e391]: Messages
+      - generic [ref=e392]:
+        - button "User avatar ¿" [ref=e394]:
+          - img "User avatar" [ref=e397]
+        - button "User avatar Mhmd" [ref=e399]:
+          - img "User avatar" [ref=e402]
+        - button "User avatar ENERGY BRIDGE" [ref=e404]:
+          - img "User avatar" [ref=e407]

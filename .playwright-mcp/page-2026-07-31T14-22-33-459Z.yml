@@ -1,0 +1,558 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e152]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - button "dulcimerguy_1's profile picture" [disabled] [ref=e162]:
+                  - link "dulcimerguy_1's profile picture" [disabled] [ref=e164] [cursor=pointer]:
+                    - img "dulcimerguy_1's profile picture" [ref=e165]
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - link "dulcimerguy_1" [ref=e177] [cursor=pointer]:
+                      - /url: /dulcimerguy_1/
+                      - generic [ref=e180]: dulcimerguy_1
+                    - link "Original audio" [ref=e184] [cursor=pointer]:
+                      - /url: /reels/audio/38234264516172196/
+                      - generic [ref=e187]: Original audio
+                  - button "Follow" [ref=e189] [cursor=pointer]
+                - button "More options" [ref=e192] [cursor=pointer]:
+                  - img "More options" [ref=e195]
+              - separator [ref=e199]
+              - generic [ref=e201]:
+                - generic [ref=e203]:
+                  - link "dulcimerguy_1's profile picture" [ref=e208] [cursor=pointer]:
+                    - /url: /dulcimerguy_1/
+                    - img "dulcimerguy_1's profile picture" [ref=e209]
+                  - generic [ref=e213]:
+                    - generic [ref=e214]:
+                      - link "dulcimerguy_1" [ref=e218] [cursor=pointer]:
+                        - /url: /dulcimerguy_1/
+                        - generic [ref=e221]: dulcimerguy_1
+                      - time [ref=e223]: 2w
+                    - generic [ref=e224]:
+                      - text: Fallen down on dulcimer
+                      - link "#viral" [ref=e225] [cursor=pointer]:
+                        - /url: /explore/tags/viral/
+                      - link "#music" [ref=e226] [cursor=pointer]:
+                        - /url: /explore/tags/music/
+                      - link "#blowthisup" [ref=e227] [cursor=pointer]:
+                        - /url: /explore/tags/blowthisup/
+                      - link "#dulcimer" [ref=e228] [cursor=pointer]:
+                        - /url: /explore/tags/dulcimer/
+                      - link "#fyp" [ref=e229] [cursor=pointer]:
+                        - /url: /explore/tags/fyp/
+                - generic [ref=e230]:
+                  - generic [ref=e231]:
+                    - generic [ref=e233]:
+                      - link "riyaaip._'s profile picture" [ref=e239] [cursor=pointer]:
+                        - /url: /riyaaip._/
+                        - img "riyaaip._'s profile picture" [ref=e240]
+                      - generic [ref=e241]:
+                        - generic [ref=e242]:
+                          - generic [ref=e244]:
+                            - generic [ref=e245]:
+                              - link "riyaaip._" [ref=e250] [cursor=pointer]:
+                                - /url: /riyaaip._/
+                                - generic [ref=e253]: riyaaip._
+                              - link "2w" [ref=e255] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/18096488900179031/
+                                - time [ref=e256]: 2w
+                            - generic [ref=e258]: How does one figure out they’re good at playing this
+                          - generic [ref=e259]:
+                            - button "5,413 likes" [ref=e260] [cursor=pointer]:
+                              - generic [ref=e262]: 5,413 likes
+                            - button "Reply" [ref=e263] [cursor=pointer]:
+                              - generic [ref=e265]: Reply
+                        - button "Like" [ref=e270] [cursor=pointer]:
+                          - img "Like" [ref=e273]
+                    - button "View all 22 replies" [ref=e276] [cursor=pointer]:
+                      - generic [ref=e279]: View all 22 replies
+                  - generic [ref=e280]:
+                    - generic [ref=e282]:
+                      - link "korgs.art's profile picture" [ref=e288] [cursor=pointer]:
+                        - /url: /korgs.art/
+                        - img "korgs.art's profile picture" [ref=e289]
+                      - generic [ref=e290]:
+                        - generic [ref=e291]:
+                          - generic [ref=e293]:
+                            - generic [ref=e294]:
+                              - link "korgs.art" [ref=e299] [cursor=pointer]:
+                                - /url: /korgs.art/
+                                - generic [ref=e302]: korgs.art
+                              - link "2w" [ref=e304] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/17942389824054603/
+                                - time [ref=e305]: 2w
+                            - generic [ref=e307]: Reminds me of Yellow from Deltarune. Wonder if this is what would play with an interaction with toriel
+                          - generic [ref=e308]:
+                            - button "115 likes" [ref=e309] [cursor=pointer]:
+                              - generic [ref=e311]: 115 likes
+                            - button "Reply" [ref=e312] [cursor=pointer]:
+                              - generic [ref=e314]: Reply
+                        - button "Like" [ref=e319] [cursor=pointer]:
+                          - img "Like" [ref=e322]
+                    - button "View all 9 replies" [ref=e325] [cursor=pointer]:
+                      - generic [ref=e328]: View all 9 replies
+                  - generic [ref=e329]:
+                    - generic [ref=e331]:
+                      - link "abbhhhhiiiiii's profile picture" [ref=e337] [cursor=pointer]:
+                        - /url: /abbhhhhiiiiii/
+                        - img "abbhhhhiiiiii's profile picture" [ref=e338]
+                      - generic [ref=e339]:
+                        - generic [ref=e340]:
+                          - generic [ref=e342]:
+                            - generic [ref=e343]:
+                              - link "abbhhhhiiiiii" [ref=e348] [cursor=pointer]:
+                                - /url: /abbhhhhiiiiii/
+                                - generic [ref=e351]: abbhhhhiiiiii
+                              - link "2w" [ref=e353] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/17960780334149709/
+                                - time [ref=e354]: 2w
+                            - generic [ref=e356]: minecraft?
+                          - generic [ref=e357]:
+                            - button "60 likes" [ref=e358] [cursor=pointer]:
+                              - generic [ref=e360]: 60 likes
+                            - button "Reply" [ref=e361] [cursor=pointer]:
+                              - generic [ref=e363]: Reply
+                        - button "Like" [ref=e368] [cursor=pointer]:
+                          - img "Like" [ref=e371]
+                    - button "View all 29 replies" [ref=e374] [cursor=pointer]:
+                      - generic [ref=e377]: View all 29 replies
+                  - generic [ref=e378]:
+                    - generic [ref=e380]:
+                      - link "alex_hooray's profile picture" [ref=e386] [cursor=pointer]:
+                        - /url: /alex_hooray/
+                        - img "alex_hooray's profile picture" [ref=e387]
+                      - generic [ref=e388]:
+                        - generic [ref=e389]:
+                          - generic [ref=e391]:
+                            - generic [ref=e392]:
+                              - link "alex_hooray" [ref=e397] [cursor=pointer]:
+                                - /url: /alex_hooray/
+                                - generic [ref=e400]: alex_hooray
+                              - link "2w" [ref=e402] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/18095631272198464/
+                                - time [ref=e403]: 2w
+                            - generic [ref=e405]: 10/10 bleed out song
+                          - generic [ref=e406]:
+                            - button "4,368 likes" [ref=e407] [cursor=pointer]:
+                              - generic [ref=e409]: 4,368 likes
+                            - button "Reply" [ref=e410] [cursor=pointer]:
+                              - generic [ref=e412]: Reply
+                        - button "Like" [ref=e417] [cursor=pointer]:
+                          - img "Like" [ref=e420]
+                    - button "View all 14 replies" [ref=e423] [cursor=pointer]:
+                      - generic [ref=e426]: View all 14 replies
+                  - generic [ref=e427]:
+                    - generic [ref=e429]:
+                      - link "damaranth's profile picture" [ref=e435] [cursor=pointer]:
+                        - /url: /damaranth/
+                        - img "damaranth's profile picture" [ref=e436]
+                      - generic [ref=e437]:
+                        - generic [ref=e438]:
+                          - generic [ref=e440]:
+                            - generic [ref=e441]:
+                              - link "damaranth" [ref=e446] [cursor=pointer]:
+                                - /url: /damaranth/
+                                - generic [ref=e449]: damaranth
+                              - link "1w" [ref=e451] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/18150966940505706/
+                                - time [ref=e452]: 1w
+                            - generic [ref=e454]: This song is very important to me
+                          - generic [ref=e455]:
+                            - button "488 likes" [ref=e456] [cursor=pointer]:
+                              - generic [ref=e458]: 488 likes
+                            - button "Reply" [ref=e459] [cursor=pointer]:
+                              - generic [ref=e461]: Reply
+                        - button "Like" [ref=e466] [cursor=pointer]:
+                          - img "Like" [ref=e469]
+                    - button "View all 2 replies" [ref=e472] [cursor=pointer]:
+                      - generic [ref=e475]: View all 2 replies
+                  - generic [ref=e476]:
+                    - generic [ref=e478]:
+                      - link "rianelanda98's profile picture" [ref=e484] [cursor=pointer]:
+                        - /url: /rianelanda98/
+                        - img "rianelanda98's profile picture" [ref=e485]
+                      - generic [ref=e486]:
+                        - generic [ref=e487]:
+                          - generic [ref=e489]:
+                            - generic [ref=e490]:
+                              - link "rianelanda98" [ref=e495] [cursor=pointer]:
+                                - /url: /rianelanda98/
+                                - generic [ref=e498]: rianelanda98
+                              - link "2w" [ref=e500] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/17860865862659885/
+                                - time [ref=e501]: 2w
+                            - generic [ref=e503]: "N"
+                          - generic [ref=e504]:
+                            - button "16 likes" [ref=e505] [cursor=pointer]:
+                              - generic [ref=e507]: 16 likes
+                            - button "Reply" [ref=e508] [cursor=pointer]:
+                              - generic [ref=e510]: Reply
+                        - button "Like" [ref=e515] [cursor=pointer]:
+                          - img "Like" [ref=e518]
+                    - button "View all 5 replies" [ref=e521] [cursor=pointer]:
+                      - generic [ref=e524]: View all 5 replies
+                  - generic [ref=e525]:
+                    - generic [ref=e527]:
+                      - link "phillosiphy's profile picture" [ref=e533] [cursor=pointer]:
+                        - /url: /phillosiphy/
+                        - img "phillosiphy's profile picture" [ref=e534]
+                      - generic [ref=e535]:
+                        - generic [ref=e536]:
+                          - generic [ref=e538]:
+                            - generic [ref=e539]:
+                              - link "phillosiphy" [ref=e544] [cursor=pointer]:
+                                - /url: /phillosiphy/
+                                - generic [ref=e547]: phillosiphy
+                              - link "2w" [ref=e549] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/18101459753104744/
+                                - time [ref=e550]: 2w
+                            - generic [ref=e552]: i could see myself having a divorce to this song
+                          - generic [ref=e553]:
+                            - button "79 likes" [ref=e554] [cursor=pointer]:
+                              - generic [ref=e556]: 79 likes
+                            - button "Reply" [ref=e557] [cursor=pointer]:
+                              - generic [ref=e559]: Reply
+                        - button "Like" [ref=e564] [cursor=pointer]:
+                          - img "Like" [ref=e567]
+                    - button "View all 2 replies" [ref=e570] [cursor=pointer]:
+                      - generic [ref=e573]: View all 2 replies
+                  - generic [ref=e576]:
+                    - link "morally_._grey's profile picture" [ref=e582] [cursor=pointer]:
+                      - /url: /morally_._grey/
+                      - img "morally_._grey's profile picture" [ref=e583]
+                    - generic [ref=e584]:
+                      - generic [ref=e585]:
+                        - generic [ref=e587]:
+                          - generic [ref=e588]:
+                            - link "morally_._grey Verified" [ref=e593] [cursor=pointer]:
+                              - /url: /morally_._grey/
+                              - generic [ref=e595]:
+                                - generic [ref=e596]: morally_._grey
+                                - img "Verified" [ref=e598]
+                            - link "1w" [ref=e601] [cursor=pointer]:
+                              - /url: /p/Day0Mz8P9_p/c/17956935177169636/
+                              - time [ref=e602]: 1w
+                          - generic [ref=e604]: i always have to hum the harmony when i hear this song
+                        - generic [ref=e605]:
+                          - button "103 likes" [ref=e606] [cursor=pointer]:
+                            - generic [ref=e608]: 103 likes
+                          - button "Reply" [ref=e609] [cursor=pointer]:
+                            - generic [ref=e611]: Reply
+                      - button "Like" [ref=e616] [cursor=pointer]:
+                        - img "Like" [ref=e619]
+                  - generic [ref=e621]:
+                    - generic [ref=e623]:
+                      - link "gbbz_sts's profile picture" [ref=e629] [cursor=pointer]:
+                        - /url: /gbbz_sts/
+                        - img "gbbz_sts's profile picture" [ref=e630]
+                      - generic [ref=e631]:
+                        - generic [ref=e632]:
+                          - generic [ref=e634]:
+                            - generic [ref=e635]:
+                              - link "gbbz_sts" [ref=e640] [cursor=pointer]:
+                                - /url: /gbbz_sts/
+                                - generic [ref=e643]: gbbz_sts
+                              - link "2w" [ref=e645] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/18020452613893089/
+                                - time [ref=e646]: 2w
+                            - generic [ref=e648]: 🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖🆖
+                          - generic [ref=e649]:
+                            - button "125 likes" [ref=e650] [cursor=pointer]:
+                              - generic [ref=e652]: 125 likes
+                            - button "Reply" [ref=e653] [cursor=pointer]:
+                              - generic [ref=e655]: Reply
+                        - button "Like" [ref=e660] [cursor=pointer]:
+                          - img "Like" [ref=e663]
+                    - button "View all 2 replies" [ref=e666] [cursor=pointer]:
+                      - generic [ref=e669]: View all 2 replies
+                  - generic [ref=e670]:
+                    - generic [ref=e672]:
+                      - link "giorgi.todashvili's profile picture" [ref=e678] [cursor=pointer]:
+                        - /url: /giorgi.todashvili/
+                        - img "giorgi.todashvili's profile picture" [ref=e679]
+                      - generic [ref=e680]:
+                        - generic [ref=e681]:
+                          - generic [ref=e683]:
+                            - generic [ref=e684]:
+                              - link "giorgi.todashvili" [ref=e689] [cursor=pointer]:
+                                - /url: /giorgi.todashvili/
+                                - generic [ref=e692]: giorgi.todashvili
+                              - link "2w" [ref=e694] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/17886331923669411/
+                                - time [ref=e695]: 2w
+                            - generic [ref=e697]: BABABABABABABABABABABABABABABABABABABABABA🗣️🗣️🗣️🗣️🗣️🗣️🗣️🔥🔥🔥🔥🔥🔥🔥
+                          - generic [ref=e698]:
+                            - button "256 likes" [ref=e699] [cursor=pointer]:
+                              - generic [ref=e701]: 256 likes
+                            - button "Reply" [ref=e702] [cursor=pointer]:
+                              - generic [ref=e704]: Reply
+                        - button "Like" [ref=e709] [cursor=pointer]:
+                          - img "Like" [ref=e712]
+                    - button "View all 7 replies" [ref=e715] [cursor=pointer]:
+                      - generic [ref=e718]: View all 7 replies
+                  - generic [ref=e719]:
+                    - generic [ref=e721]:
+                      - link "natemaharaj's profile picture" [ref=e727] [cursor=pointer]:
+                        - /url: /natemaharaj/
+                        - img "natemaharaj's profile picture" [ref=e728]
+                      - generic [ref=e729]:
+                        - generic [ref=e730]:
+                          - generic [ref=e732]:
+                            - generic [ref=e733]:
+                              - link "natemaharaj" [ref=e738] [cursor=pointer]:
+                                - /url: /natemaharaj/
+                                - generic [ref=e741]: natemaharaj
+                              - link "2w" [ref=e743] [cursor=pointer]:
+                                - /url: /p/Day0Mz8P9_p/c/17905085025451829/
+                                - time [ref=e744]: 2w
+                            - generic [ref=e746]: Whats this instrument called
+                          - generic [ref=e747]:
+                            - button "3 likes" [ref=e748] [cursor=pointer]:
+                              - generic [ref=e750]: 3 likes
+                            - button "Reply" [ref=e751] [cursor=pointer]:
+                              - generic [ref=e753]: Reply
+                        - button "Like" [ref=e758] [cursor=pointer]:
+                          - img "Like" [ref=e761]
+                    - button "View all 3 replies" [ref=e764] [cursor=pointer]:
+                      - generic [ref=e767]: View all 3 replies
+                  - progressbar [ref=e770]:
+                    - img "Loading..." [ref=e771]
+              - generic [ref=e784]:
+                - generic [ref=e785]:
+                  - generic [ref=e786]:
+                    - button "Like" [ref=e789] [cursor=pointer]:
+                      - img "Like" [ref=e792]
+                    - button "93.4K" [ref=e794] [cursor=pointer]
+                    - button "Comment" [ref=e796] [cursor=pointer]:
+                      - img "Comment" [ref=e798]
+                    - button "722" [ref=e800] [cursor=pointer]
+                    - button "Repost" [ref=e801] [cursor=pointer]:
+                      - img "Repost" [ref=e802]
+                    - button "4.9K" [ref=e804] [cursor=pointer]
+                    - button "Share" [ref=e805] [cursor=pointer]:
+                      - img "Share" [ref=e806]
+                  - button "Remove" [ref=e811] [cursor=pointer]:
+                    - button "Remove" [ref=e812]:
+                      - img "Remove" [ref=e814]
+                - link "July 15" [ref=e818] [cursor=pointer]:
+                  - /url: /dulcimerguy_1/reel/Day0Mz8P9_p/
+                  - time [ref=e820]: July 15
+              - generic [ref=e823]:
+                - link [ref=e824]
+                - generic [ref=e826]:
+                  - button "Emoji" [ref=e828] [cursor=pointer]:
+                    - img "Emoji" [ref=e830]
+                  - textbox "Add a comment…" [ref=e832]
+          - separator [ref=e834]
+          - generic [ref=e835]:
+            - generic [ref=e837]:
+              - text: More posts from
+              - link "dulcimerguy_1" [ref=e838] [cursor=pointer]:
+                - /url: /dulcimerguy_1/
+            - generic [ref=e841]:
+              - generic [ref=e842]:
+                - 'link "What once was on dulcimer, highly requested #viral #music #blowthisup #dulcimer #fyp Clip" [ref=e844] [cursor=pointer]':
+                  - /url: /dulcimerguy_1/reel/Dbcfd-POChO/
+                  - 'img "What once was on dulcimer, highly requested #viral #music #blowthisup #dulcimer #fyp" [ref=e847]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Good days on dulcimer 📍Mongolia #viral #music #blowthisup #dulcimer #fyp Clip" [ref=e850] [cursor=pointer]':
+                  - /url: /dulcimerguy_1/reel/DbZ6dXOQt4l/
+                  - 'img "Good days on dulcimer 📍Mongolia #viral #music #blowthisup #dulcimer #fyp" [ref=e853]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "My own summer on dulcimer #viral #music #blowthisup #dulcimer #fyp Clip" [ref=e856] [cursor=pointer]':
+                  - /url: /dulcimerguy_1/reel/DbXROvnRyAC/
+                  - 'img "My own summer on dulcimer #viral #music #blowthisup #dulcimer #fyp" [ref=e859]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e861]:
+                - 'link "Perfect pair on dulcimer #viral #music #blowthisup #dulcimer #fyp Clip" [ref=e863] [cursor=pointer]':
+                  - /url: /dulcimerguy_1/reel/DbXRLqIgyq_/
+                  - 'img "Perfect pair on dulcimer #viral #music #blowthisup #dulcimer #fyp" [ref=e866]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Aerials on dulcimer #viral #music #blowthisup #dulcimer #fyp Clip" [ref=e869] [cursor=pointer]':
+                  - /url: /dulcimerguy_1/reel/DbSJLays3GO/
+                  - 'img "Aerials on dulcimer #viral #music #blowthisup #dulcimer #fyp" [ref=e872]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Velvet ring on dulcimer #viral #music #blowthisup #dulcimer #fyp Clip" [ref=e875] [cursor=pointer]':
+                  - /url: /dulcimerguy_1/reel/DbNFeylB92D/
+                  - 'img "Velvet ring on dulcimer #viral #music #blowthisup #dulcimer #fyp" [ref=e878]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+      - contentinfo [ref=e880]:
+        - generic [ref=e881]:
+          - generic [ref=e883]:
+            - link "Meta" [ref=e885] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e886]: Meta
+            - link "About" [ref=e888] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e889]: About
+            - link "Blog" [ref=e891] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e892]: Blog
+            - link "Jobs" [ref=e894] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e895]: Jobs
+            - link "Help" [ref=e897] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e898]: Help
+            - link "API" [ref=e900] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e901]: API
+            - link "Privacy" [ref=e903] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e904]: Privacy
+            - link "Terms" [ref=e906] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e907]: Terms
+            - link "Locations" [ref=e909] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e910]: Locations
+            - link "Popular" [ref=e912] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e913]: Popular
+            - link "Instagram Lite" [ref=e915] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e916]: Instagram Lite
+            - link "Meta AI" [ref=e918] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e919]: Meta AI
+            - link "Threads" [ref=e921] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e922]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e924] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e925]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e927] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e928]: Meta Verified
+          - generic [ref=e929]:
+            - generic [ref=e930] [cursor=pointer]:
+              - generic [ref=e931]:
+                - generic [ref=e932]: English
+                - img "Down chevron icon" [ref=e935]
+              - combobox "Switch Display Language" [ref=e937]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e939]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e941] [cursor=pointer]:
+    - generic "Messages" [ref=e942]:
+      - generic [ref=e943]:
+        - img "Messages" [ref=e946]
+        - generic [ref=e949]: Messages
+      - generic [ref=e950]:
+        - button "User avatar ¿" [ref=e952]:
+          - img "User avatar" [ref=e955]
+        - button "User avatar Mhmd" [ref=e957]:
+          - img "User avatar" [ref=e960]
+        - button "User avatar ENERGY BRIDGE" [ref=e962]:
+          - img "User avatar" [ref=e965]

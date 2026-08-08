@@ -1,0 +1,64 @@
+[    5256ms] TypeError: Cannot read properties of undefined (reading 'metadata')
+    at getCurrentWindow (http://localhost:1420/node_modules/.vite/deps/@tauri-apps_api_window.js?v=7a003b69:380:48)
+    at http://localhost:1420/src/App.tsx:6:5
+    at untrack (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:465:12)
+    at Object.fn (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:490:22)
+    at runComputation (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:740:22)
+    at updateComputation (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:723:3)
+    at runTop (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:844:7)
+    at runUserEffects (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:957:36)
+    at http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:913:34
+    at runUpdates (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:861:17)
+[   17450ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:1420/@vite/client:963
+[   17456ms] [ERROR] WebSocket connection to 'ws://localhost:1420/' failed: Error during WebSocket handshake: net::ERR_CONNECTION_RESET @ http://localhost:1420/@vite/client:1034
+[   18459ms] [ERROR] WebSocket connection to 'ws://localhost:1420/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:1420/@vite/client:1034
+[   43407ms] TypeError: Cannot read properties of undefined (reading 'metadata')
+    at getCurrentWindow (http://localhost:1420/node_modules/.vite/deps/@tauri-apps_api_window.js?v=7a003b69:380:48)
+    at http://localhost:1420/src/App.tsx:6:5
+    at untrack (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:465:12)
+    at Object.fn (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:490:22)
+    at runComputation (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:740:22)
+    at updateComputation (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:723:3)
+    at runTop (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:844:7)
+    at runUserEffects (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:957:36)
+    at http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:913:34
+    at runUpdates (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:861:17)
+[   49189ms] [ERROR] Failed to load temp config: TypeError: Cannot read properties of undefined (reading 'invoke')
+    at invoke (http://localhost:1420/node_modules/.vite/deps/chunk-G7S6KQDI.js?v=7a003b69:109:37)
+    at http://localhost:1420/src/pages/EQ.tsx:58:27
+    at untrack (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:465:12)
+    at Object.fn (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:490:22)
+    at runComputation (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:740:22)
+    at updateComputation (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:723:3)
+    at runTop (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:844:7)
+    at runUserEffects (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:957:36)
+    at http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:913:34
+    at runUpdates (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:861:17) @ http://localhost:1420/src/pages/EQ.tsx:69
+[   49190ms] [ERROR] Failed to apply EQ: TypeError: Cannot read properties of undefined (reading 'invoke')
+    at invoke (http://localhost:1420/node_modules/.vite/deps/chunk-G7S6KQDI.js?v=7a003b69:109:37)
+    at applyToPipeWire (http://localhost:1420/src/pages/EQ.tsx:43:5)
+    at http://localhost:1420/src/pages/EQ.tsx:72:5 @ http://localhost:1420/src/pages/EQ.tsx:44
+[   49190ms] [ERROR] Failed to save temp config: TypeError: Cannot read properties of undefined (reading 'invoke')
+    at invoke (http://localhost:1420/node_modules/.vite/deps/chunk-G7S6KQDI.js?v=7a003b69:109:37)
+    at applyToPipeWire (http://localhost:1420/src/pages/EQ.tsx:46:5)
+    at http://localhost:1420/src/pages/EQ.tsx:72:5 @ http://localhost:1420/src/pages/EQ.tsx:47
+[  155857ms] TypeError: Cannot read properties of undefined (reading 'name')
+    at devComponent (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:583:17)
+    at createComponent (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:1317:10)
+    at http://localhost:1420/src/pages/EQ.tsx?t=1785620611419:195:20
+    at EQ2 (http://localhost:1420/src/pages/EQ.tsx?t=1785620611419:308:5)
+    at http://localhost:1420/@solid-refresh:25:42
+    at untrack (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:465:12)
+    at HMRComp.createMemo.name [as fn] (http://localhost:1420/@solid-refresh:25:28)
+    at runComputation (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:740:22)
+    at updateComputation (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:723:3)
+    at runTop (http://localhost:1420/node_modules/.vite/deps/chunk-QTV7RBUG.js?v=7a003b69:844:7)
+[  202696ms] [ERROR] [vite] SyntaxError: The requested module '/node_modules/@kobalte/core/dist/slider/index.jsx' does not provide an export named 'Popover' @ http://localhost:1420/@vite/client:881
+[  202696ms] [ERROR] [vite] Failed to reload /src/components/Slider.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:1420/@vite/client:881
+[  202796ms] [ERROR] [vite] SyntaxError: The requested module '/node_modules/@kobalte/core/dist/slider/index.jsx' does not provide an export named 'Popover' @ http://localhost:1420/@vite/client:881
+[  202796ms] [ERROR] [vite] Failed to reload /src/pages/EQ.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:1420/@vite/client:881
+[  203122ms] [ERROR] [vite] SyntaxError: The requested module '/node_modules/@kobalte/core/dist/slider/index.jsx' does not provide an export named 'Popover' @ http://localhost:1420/@vite/client:881
+[  203122ms] [ERROR] [vite] Failed to reload /src/App.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:1420/@vite/client:881
+[  235906ms] [LOG] [vite] server connection lost. Polling for restart... @ http://localhost:1420/@vite/client:963
+[  235912ms] [ERROR] WebSocket connection to 'ws://localhost:1420/' failed: Error during WebSocket handshake: net::ERR_CONNECTION_RESET @ http://localhost:1420/@vite/client:1034
+[  236915ms] [ERROR] WebSocket connection to 'ws://localhost:1420/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED @ http://localhost:1420/@vite/client:1034

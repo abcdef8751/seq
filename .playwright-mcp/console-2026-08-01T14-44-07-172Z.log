@@ -1,0 +1,2 @@
+[   18865ms] [LOG] band {frequency: 5000, q: 1, gain: 0} @ http://localhost:1420/src/App.tsx?t=1785595417871:10
+[   18881ms] [LOG] band {frequency: 5000, q: 1, gain: 8} @ http://localhost:1420/src/App.tsx?t=1785595417871:10

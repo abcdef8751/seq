@@ -1,0 +1,527 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e152]
+              - button "Tags" [ref=e155] [cursor=pointer]:
+                - img "Tags" [ref=e157]
+            - generic [ref=e160]:
+              - generic [ref=e162]:
+                - button "misa_jazzsinger's profile picture" [ref=e167] [cursor=pointer]:
+                  - link "misa_jazzsinger's profile picture" [ref=e169]:
+                    - img "misa_jazzsinger's profile picture" [ref=e170]
+                - generic [ref=e173]:
+                  - generic [ref=e174]:
+                    - link "misa_jazzsinger" [ref=e182] [cursor=pointer]:
+                      - /url: /misa_jazzsinger/
+                      - generic [ref=e185]: misa_jazzsinger
+                    - link "Original audio" [ref=e189] [cursor=pointer]:
+                      - /url: /reels/audio/28161491836776994/
+                      - generic [ref=e192]: Original audio
+                  - button "Follow" [ref=e194] [cursor=pointer]
+                - button "More options" [ref=e197] [cursor=pointer]:
+                  - img "More options" [ref=e200]
+              - separator [ref=e204]
+              - generic [ref=e206]:
+                - generic [ref=e208]:
+                  - link "misa_jazzsinger's profile picture" [ref=e213] [cursor=pointer]:
+                    - /url: /misa_jazzsinger/
+                    - img "misa_jazzsinger's profile picture" [ref=e214]
+                  - generic [ref=e216]:
+                    - generic [ref=e218]:
+                      - generic [ref=e219]:
+                        - link "misa_jazzsinger" [ref=e223] [cursor=pointer]:
+                          - /url: /misa_jazzsinger/
+                          - generic [ref=e226]: misa_jazzsinger
+                        - time [ref=e228]: 1w
+                      - generic [ref=e229]:
+                        - text: いよいよ明日、EP「Midnight Echo」 がリリースされます。🌙
+                        - text: この作品には、インドネシアで一緒に音楽活動をしていた大切な仲間、**近藤万里子さん（Trumpet / Flugelhorn）**にも参加していただきました。
+                        - link "@konmaritrumpet" [ref=e230] [cursor=pointer]:
+                          - /url: /konmaritrumpet/
+                        - text: 一緒に過ごした時間や景色も、この作品の音の中に息づいています。
+                        - text: アレンジとギターには
+                        - link "@arata_ume" [ref=e231] [cursor=pointer]:
+                          - /url: /arata_ume/
+                        - text: に参加して頂いています。
+                        - text: ぜひ、お好きな一曲を見つけていただけたら嬉しいです。
+                        - text: Spotify、Apple Musicなど、各音楽配信サービスでお聴きいただけます。
+                        - link "#japanesesinger" [ref=e232] [cursor=pointer]:
+                          - /url: /explore/tags/japanesesinger/
+                        - link "#flydaychinatown" [ref=e233] [cursor=pointer]:
+                          - /url: /explore/tags/flydaychinatown/
+                        - link "#citypop" [ref=e234] [cursor=pointer]:
+                          - /url: /explore/tags/citypop/
+                        - link "#jazz" [ref=e235] [cursor=pointer]:
+                          - /url: /explore/tags/jazz/
+                        - text: 「Midnight Echo」
+                        - text: 2026.7.24 Release
+                    - button "See translation" [ref=e237] [cursor=pointer]:
+                      - generic [ref=e239]: See translation
+                - generic [ref=e240]:
+                  - generic [ref=e243]:
+                    - link "rioujin's profile picture" [ref=e249] [cursor=pointer]:
+                      - /url: /rioujin/
+                      - img "rioujin's profile picture" [ref=e250]
+                    - generic [ref=e251]:
+                      - generic [ref=e252]:
+                        - generic [ref=e254]:
+                          - generic [ref=e255]:
+                            - link "rioujin" [ref=e260] [cursor=pointer]:
+                              - /url: /rioujin/
+                              - generic [ref=e263]: rioujin
+                            - link "1w" [ref=e265] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/18611533057037189/
+                              - time [ref=e266]: 1w
+                          - generic [ref=e268]: Wonderful video. Astonishing as always
+                        - generic [ref=e269]:
+                          - button "2 likes" [ref=e270] [cursor=pointer]:
+                            - generic [ref=e272]: 2 likes
+                          - button "Reply" [ref=e273] [cursor=pointer]:
+                            - generic [ref=e275]: Reply
+                      - button "Like" [ref=e280] [cursor=pointer]:
+                        - img "Like" [ref=e283]
+                  - generic [ref=e287]:
+                    - link "indra_weceks89's profile picture" [ref=e293] [cursor=pointer]:
+                      - /url: /indra_weceks89/
+                      - img "indra_weceks89's profile picture" [ref=e294]
+                    - generic [ref=e295]:
+                      - generic [ref=e296]:
+                        - generic [ref=e298]:
+                          - generic [ref=e299]:
+                            - link "indra_weceks89" [ref=e304] [cursor=pointer]:
+                              - /url: /indra_weceks89/
+                              - generic [ref=e307]: indra_weceks89
+                            - link "1w" [ref=e309] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/18086824688543647/
+                              - time [ref=e310]: 1w
+                          - generic [ref=e312]: 🔥👏
+                        - generic [ref=e313]:
+                          - button "2 likes" [ref=e314] [cursor=pointer]:
+                            - generic [ref=e316]: 2 likes
+                          - button "Reply" [ref=e317] [cursor=pointer]:
+                            - generic [ref=e319]: Reply
+                      - button "Like" [ref=e324] [cursor=pointer]:
+                        - img "Like" [ref=e327]
+                  - generic [ref=e331]:
+                    - link "bambang_k's profile picture" [ref=e337] [cursor=pointer]:
+                      - /url: /bambang_k/
+                      - img "bambang_k's profile picture" [ref=e338]
+                    - generic [ref=e339]:
+                      - generic [ref=e340]:
+                        - generic [ref=e342]:
+                          - generic [ref=e343]:
+                            - link "bambang_k" [ref=e348] [cursor=pointer]:
+                              - /url: /bambang_k/
+                              - generic [ref=e351]: bambang_k
+                            - link "1w" [ref=e353] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/18116699819314257/
+                              - time [ref=e354]: 1w
+                          - generic [ref=e356]: ❤️❤️❤️
+                        - generic [ref=e357]:
+                          - button "2 likes" [ref=e358] [cursor=pointer]:
+                            - generic [ref=e360]: 2 likes
+                          - button "Reply" [ref=e361] [cursor=pointer]:
+                            - generic [ref=e363]: Reply
+                      - button "Like" [ref=e368] [cursor=pointer]:
+                        - img "Like" [ref=e371]
+                  - generic [ref=e375]:
+                    - link "junichi.kawanaka's profile picture" [ref=e381] [cursor=pointer]:
+                      - /url: /junichi.kawanaka/
+                      - img "junichi.kawanaka's profile picture" [ref=e382]
+                    - generic [ref=e383]:
+                      - generic [ref=e384]:
+                        - generic [ref=e386]:
+                          - generic [ref=e387]:
+                            - link "junichi.kawanaka" [ref=e392] [cursor=pointer]:
+                              - /url: /junichi.kawanaka/
+                              - generic [ref=e395]: junichi.kawanaka
+                            - link "1w" [ref=e397] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/18073440272367581/
+                              - time [ref=e398]: 1w
+                          - generic [ref=e400]: 🤔✨
+                        - generic [ref=e401]:
+                          - button "1 like" [ref=e402] [cursor=pointer]:
+                            - generic [ref=e404]: 1 like
+                          - button "Reply" [ref=e405] [cursor=pointer]:
+                            - generic [ref=e407]: Reply
+                      - button "Like" [ref=e412] [cursor=pointer]:
+                        - img "Like" [ref=e415]
+                  - generic [ref=e419]:
+                    - link "cch0918665888's profile picture" [ref=e425] [cursor=pointer]:
+                      - /url: /cch0918665888/
+                      - img "cch0918665888's profile picture" [ref=e426]
+                    - generic [ref=e427]:
+                      - generic [ref=e428]:
+                        - generic [ref=e430]:
+                          - generic [ref=e431]:
+                            - link "cch0918665888" [ref=e436] [cursor=pointer]:
+                              - /url: /cch0918665888/
+                              - generic [ref=e439]: cch0918665888
+                            - link "1w" [ref=e441] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/18167918860403322/
+                              - time [ref=e442]: 1w
+                          - generic [ref=e444]: 👏 ❤️
+                        - generic [ref=e445]:
+                          - button "1 like" [ref=e446] [cursor=pointer]:
+                            - generic [ref=e448]: 1 like
+                          - button "Reply" [ref=e449] [cursor=pointer]:
+                            - generic [ref=e451]: Reply
+                      - button "Like" [ref=e456] [cursor=pointer]:
+                        - img "Like" [ref=e459]
+                  - generic [ref=e463]:
+                    - link "sunset_suzuki's profile picture" [ref=e469] [cursor=pointer]:
+                      - /url: /sunset_suzuki/
+                      - img "sunset_suzuki's profile picture" [ref=e470]
+                    - generic [ref=e471]:
+                      - generic [ref=e472]:
+                        - generic [ref=e474]:
+                          - generic [ref=e475]:
+                            - link "sunset_suzuki" [ref=e480] [cursor=pointer]:
+                              - /url: /sunset_suzuki/
+                              - generic [ref=e483]: sunset_suzuki
+                            - link "1w" [ref=e485] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/17875935402623906/
+                              - time [ref=e486]: 1w
+                          - generic [ref=e488]: 😍😍😍😍😍😍😍😍
+                        - generic [ref=e489]:
+                          - button "2 likes" [ref=e490] [cursor=pointer]:
+                            - generic [ref=e492]: 2 likes
+                          - button "Reply" [ref=e493] [cursor=pointer]:
+                            - generic [ref=e495]: Reply
+                      - button "Like" [ref=e500] [cursor=pointer]:
+                        - img "Like" [ref=e503]
+                  - generic [ref=e507]:
+                    - link "hehong911's profile picture" [ref=e513] [cursor=pointer]:
+                      - /url: /hehong911/
+                      - img "hehong911's profile picture" [ref=e514]
+                    - generic [ref=e515]:
+                      - generic [ref=e516]:
+                        - generic [ref=e518]:
+                          - generic [ref=e519]:
+                            - link "hehong911" [ref=e524] [cursor=pointer]:
+                              - /url: /hehong911/
+                              - generic [ref=e527]: hehong911
+                            - link "2d" [ref=e529] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/18122744818790874/
+                              - time [ref=e530]: 2d
+                          - generic [ref=e532]: これもいいと思います😊
+                        - generic [ref=e533]:
+                          - button "Reply" [ref=e534] [cursor=pointer]:
+                            - generic [ref=e536]: Reply
+                          - button "See translation" [ref=e537] [cursor=pointer]:
+                            - generic [ref=e539]: See translation
+                      - button "Like" [ref=e544] [cursor=pointer]:
+                        - img "Like" [ref=e547]
+                  - generic [ref=e551]:
+                    - link "aoi.paladin's profile picture" [ref=e557] [cursor=pointer]:
+                      - /url: /aoi.paladin/
+                      - img "aoi.paladin's profile picture" [ref=e558]
+                    - generic [ref=e559]:
+                      - generic [ref=e560]:
+                        - generic [ref=e562]:
+                          - generic [ref=e563]:
+                            - link "aoi.paladin" [ref=e568] [cursor=pointer]:
+                              - /url: /aoi.paladin/
+                              - generic [ref=e571]: aoi.paladin
+                            - link "1w" [ref=e573] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/17874488199624655/
+                              - time [ref=e574]: 1w
+                          - generic [ref=e576]:
+                            - text: 中華街！！
+                            - text: 未紗さんのお気に入りのお店ありますか！？自分は同發本館をオススメします！！！
+                        - generic [ref=e577]:
+                          - button "1 like" [ref=e578] [cursor=pointer]:
+                            - generic [ref=e580]: 1 like
+                          - button "Reply" [ref=e581] [cursor=pointer]:
+                            - generic [ref=e583]: Reply
+                          - button "See translation" [ref=e584] [cursor=pointer]:
+                            - generic [ref=e586]: See translation
+                      - button "Like" [ref=e591] [cursor=pointer]:
+                        - img "Like" [ref=e594]
+                  - generic [ref=e598]:
+                    - link "ht.lim's profile picture" [ref=e604] [cursor=pointer]:
+                      - /url: /ht.lim/
+                      - img "ht.lim's profile picture" [ref=e605]
+                    - generic [ref=e606]:
+                      - generic [ref=e607]:
+                        - generic [ref=e609]:
+                          - generic [ref=e610]:
+                            - link "ht.lim" [ref=e615] [cursor=pointer]:
+                              - /url: /ht.lim/
+                              - generic [ref=e618]: ht.lim
+                            - link "6d" [ref=e620] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/18083459201231700/
+                              - time [ref=e621]: 6d
+                          - generic [ref=e623]: 👍👍👍🎶❤️
+                        - button "Reply" [ref=e625] [cursor=pointer]:
+                          - generic [ref=e627]: Reply
+                      - button "Like" [ref=e632] [cursor=pointer]:
+                        - img "Like" [ref=e635]
+                  - generic [ref=e639]:
+                    - link "one.ezaya's profile picture" [ref=e645] [cursor=pointer]:
+                      - /url: /one.ezaya/
+                      - img "one.ezaya's profile picture" [ref=e646]
+                    - generic [ref=e647]:
+                      - generic [ref=e648]:
+                        - generic [ref=e650]:
+                          - generic [ref=e651]:
+                            - link "one.ezaya" [ref=e656] [cursor=pointer]:
+                              - /url: /one.ezaya/
+                              - generic [ref=e659]: one.ezaya
+                            - link "6d" [ref=e661] [cursor=pointer]:
+                              - /url: /p/DbIj6o0BRJ-/c/18174734974422388/
+                              - time [ref=e662]: 6d
+                          - generic [ref=e664]: 🎧🫶🏻
+                        - generic [ref=e665]:
+                          - button "1 like" [ref=e666] [cursor=pointer]:
+                            - generic [ref=e668]: 1 like
+                          - button "Reply" [ref=e669] [cursor=pointer]:
+                            - generic [ref=e671]: Reply
+                      - button "Like" [ref=e676] [cursor=pointer]:
+                        - img "Like" [ref=e679]
+                  - generic [ref=e682]:
+                    - img [ref=e684]
+                    - generic [ref=e688]: This reel has 2 comments from Facebook.
+              - generic [ref=e689]:
+                - generic [ref=e690]:
+                  - generic [ref=e691]:
+                    - button "Like" [ref=e694] [cursor=pointer]:
+                      - img "Like" [ref=e697]
+                    - button "Comment" [ref=e700] [cursor=pointer]:
+                      - img "Comment" [ref=e702]
+                    - button "12" [ref=e704] [cursor=pointer]
+                    - button "Repost" [ref=e705] [cursor=pointer]:
+                      - img "Repost" [ref=e706]
+                    - button "8" [ref=e708] [cursor=pointer]
+                    - button "Share" [ref=e709] [cursor=pointer]:
+                      - img "Share" [ref=e710]
+                  - button "Remove" [ref=e715] [cursor=pointer]:
+                    - button "Remove" [ref=e716]:
+                      - img "Remove" [ref=e718]
+                - generic [ref=e723]:
+                  - text: Liked by
+                  - link "ka_tsu_mi_chan" [ref=e724] [cursor=pointer]:
+                    - /url: /ka_tsu_mi_chan/
+                  - text: and
+                  - link "others" [ref=e725] [cursor=pointer]:
+                    - /url: /p/DbIj6o0BRJ-/liked_by/
+                - link "July 23" [ref=e728] [cursor=pointer]:
+                  - /url: /misa_jazzsinger/reel/DbIj6o0BRJ-/
+                  - time [ref=e730]: July 23
+              - generic [ref=e733]:
+                - link [ref=e734]
+                - generic [ref=e736]:
+                  - button "Emoji" [ref=e738] [cursor=pointer]:
+                    - img "Emoji" [ref=e740]
+                  - textbox "Add a comment…" [ref=e742]
+          - separator [ref=e744]
+          - generic [ref=e745]:
+            - generic [ref=e747]:
+              - text: More posts from
+              - link "misa_jazzsinger" [ref=e748] [cursor=pointer]:
+                - /url: /misa_jazzsinger/
+            - generic [ref=e751]:
+              - generic [ref=e752]:
+                - 'link "Midnight Echo 2026.7.24 Release 🌙 東京の夜。 静かなネオン。 過ぎ去った記憶。 Jazz、City Pop、そして深夜の空気を織り交ぜた “Misa Sugiyama”による5曲入りEP。 「真夜中のドア」 「Fly-day Chinatown」などのカバーに加え、 オリジナル曲「なくした記憶」「輝く月」を収録。 夜の帰り道や、静かな夜に そっと寄り添えたら嬉しいです✨ 2026年7月24日 リリース。 ストリーミング予約、Pre-Add / Pre-Saveはこちらから↓↓↓ https://linkco.re/vGyV4Qc7 応援していただけたらとても嬉しいです✨ @arata_ume @konmaritrumpet Midnight Echo Out July 24, 2026!! Tokyo nights. Quiet neon lights. Fading memories. A 5-track EP by Misa Sugiyama, blending Jazz, City Pop, and the atmosphere of midnight. Featuring covers of “Mayonaka no Door” and “Fly-day Chinatown,” alongside the original songs “Lost Memories” and “Shining Moon.” I hope these songs can gently accompany your late-night drives and sleepless evenings. Pre-save / Pre-add here ↓↓↓ https://linkco.re/vGyV4Qc7 Your support would truly mean a lot to me ✨ #flydaychinatown #CityPop #真夜中のドアstaywithme #midnightecho #misasugiyama Clip" [ref=e754] [cursor=pointer]':
+                  - /url: /misa_jazzsinger/reel/DaVEGbiSl8l/
+                  - 'img "Midnight Echo 2026.7.24 Release 🌙 東京の夜。 静かなネオン。 過ぎ去った記憶。 Jazz、City Pop、そして深夜の空気を織り交ぜた “Misa Sugiyama”による5曲入りEP。 「真夜中のドア」 「Fly-day Chinatown」などのカバーに加え、 オリジナル曲「なくした記憶」「輝く月」を収録。 夜の帰り道や、静かな夜に そっと寄り添えたら嬉しいです✨ 2026年7月24日 リリース。 ストリーミング予約、Pre-Add / Pre-Saveはこちらから↓↓↓ https://linkco.re/vGyV4Qc7 応援していただけたらとても嬉しいです✨ @arata_ume @konmaritrumpet Midnight Echo Out July 24, 2026!! Tokyo nights. Quiet neon lights. Fading memories. A 5-track EP by Misa Sugiyama, blending Jazz, City Pop, and the atmosphere of midnight. Featuring covers of “Mayonaka no Door” and “Fly-day Chinatown,” alongside the original songs “Lost Memories” and “Shining Moon.” I hope these songs can gently accompany your late-night drives and sleepless evenings. Pre-save / Pre-add here ↓↓↓ https://linkco.re/vGyV4Qc7 Your support would truly mean a lot to me ✨ #flydaychinatown #CityPop #真夜中のドアstaywithme #midnightecho #misasugiyama" [ref=e757]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "\"Midnight Echo 2026.7.24 Release https://linkco.re/vGyV4Qc7 横浜中華街は、私にとって特別な思い出の場所。 小学生の頃、日本へ帰国してからも英語を忘れないように、毎週土曜日は元町・中華街にある学校へ通っていました。 そして高校生になると、今度はジャズを歌うために横浜へ。 子どもから大人へと変わっていく、多感な時期を過ごした街だからこそ、横浜は今でも私の”セカンドホーム”です。 そんな思い出の街を思い浮かべながら歌った Fly-day Chinatown。 ぜひ聴いていただけたら嬉しいです。✨ 『Midnight Echo』 2026.7.24 Release 🌙 Yokohama Chinatown holds a very special place in my heart. After returning to Japan as a child, I went to a school in Motomachi-Chukagai every Saturday so I wouldn’t forget my English. Later, in high school, I found myself going back to Yokohama, this time to sing jazz. I spent some of my most sensitive and formative years in that city, and even now, Yokohama still feels like my second home. Singing Fly-day Chinatown brought back so many memories. I hope you enjoy it. ✨ #flydaychinatown #yokohama #jazzsinger #japanesesinger #midnightecho Clip" [ref=e760] [cursor=pointer]':
+                  - /url: /misa_jazzsinger/reel/DanJFeVh8W5/
+                  - 'img "\"Midnight Echo 2026.7.24 Release https://linkco.re/vGyV4Qc7 横浜中華街は、私にとって特別な思い出の場所。 小学生の頃、日本へ帰国してからも英語を忘れないように、毎週土曜日は元町・中華街にある学校へ通っていました。 そして高校生になると、今度はジャズを歌うために横浜へ。 子どもから大人へと変わっていく、多感な時期を過ごした街だからこそ、横浜は今でも私の”セカンドホーム”です。 そんな思い出の街を思い浮かべながら歌った Fly-day Chinatown。 ぜひ聴いていただけたら嬉しいです。✨ 『Midnight Echo』 2026.7.24 Release 🌙 Yokohama Chinatown holds a very special place in my heart. After returning to Japan as a child, I went to a school in Motomachi-Chukagai every Saturday so I wouldn’t forget my English. Later, in high school, I found myself going back to Yokohama, this time to sing jazz. I spent some of my most sensitive and formative years in that city, and even now, Yokohama still feels like my second home. Singing Fly-day Chinatown brought back so many memories. I hope you enjoy it. ✨ #flydaychinatown #yokohama #jazzsinger #japanesesinger #midnightecho" [ref=e763]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=e766] [cursor=pointer]:
+                  - /url: /misa_jazzsinger/p/DWv8vQHAK_b/
+                  - img [ref=e769]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+              - generic [ref=e771]:
+                - 'link "みなさん、「なくした記憶」はもう聴いていただけましたか？✨ この曲は、失ったものや、戻れない時間への想いを込めて歌いました。 誰にでも、ふとした瞬間に思い出す景色や、大切な記憶があると思います。 みなさんの心にも、この曲がそっと寄り添えたら嬉しいです。 @arata_ume ぜひ感想も聞かせてください☺️ 🎧 配信はこちら https://linkco.re/vGyV4Qc7 #japanesesinger #jazzsinger #ジャズボーカル #misasugiyama #ナクシタキオク Clip" [ref=e773] [cursor=pointer]':
+                  - /url: /misa_jazzsinger/reel/DbdKW2wBulc/
+                  - 'img "みなさん、「なくした記憶」はもう聴いていただけましたか？✨ この曲は、失ったものや、戻れない時間への想いを込めて歌いました。 誰にでも、ふとした瞬間に思い出す景色や、大切な記憶があると思います。 みなさんの心にも、この曲がそっと寄り添えたら嬉しいです。 @arata_ume ぜひ感想も聞かせてください☺️ 🎧 配信はこちら https://linkco.re/vGyV4Qc7 #japanesesinger #jazzsinger #ジャズボーカル #misasugiyama #ナクシタキオク" [ref=e776]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=e779] [cursor=pointer]:
+                  - /url: /misa_jazzsinger/reel/DbVYcrxBjH8/
+                  - img [ref=e782]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=e785] [cursor=pointer]:
+                  - /url: /misa_jazzsinger/p/DbK_REWk9Ko/
+                  - img [ref=e788]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+      - contentinfo [ref=e790]:
+        - generic [ref=e791]:
+          - generic [ref=e793]:
+            - link "Meta" [ref=e795] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e796]: Meta
+            - link "About" [ref=e798] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e799]: About
+            - link "Blog" [ref=e801] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e802]: Blog
+            - link "Jobs" [ref=e804] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e805]: Jobs
+            - link "Help" [ref=e807] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e808]: Help
+            - link "API" [ref=e810] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e811]: API
+            - link "Privacy" [ref=e813] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e814]: Privacy
+            - link "Terms" [ref=e816] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e817]: Terms
+            - link "Locations" [ref=e819] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e820]: Locations
+            - link "Popular" [ref=e822] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e823]: Popular
+            - link "Instagram Lite" [ref=e825] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e826]: Instagram Lite
+            - link "Meta AI" [ref=e828] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e829]: Meta AI
+            - link "Threads" [ref=e831] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e832]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e834] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e835]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e837] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e838]: Meta Verified
+          - generic [ref=e839]:
+            - generic [ref=e840] [cursor=pointer]:
+              - generic [ref=e841]:
+                - generic [ref=e842]: English
+                - img "Down chevron icon" [ref=e845]
+              - combobox "Switch Display Language" [ref=e847]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e849]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e851] [cursor=pointer]:
+    - generic "Messages" [ref=e852]:
+      - generic [ref=e853]:
+        - img "Messages" [ref=e856]
+        - generic [ref=e859]: Messages
+      - generic [ref=e860]:
+        - button "User avatar ¿" [ref=e862]:
+          - img "User avatar" [ref=e865]
+        - button "User avatar Mhmd" [ref=e867]:
+          - img "User avatar" [ref=e870]
+        - button "User avatar ENERGY BRIDGE" [ref=e872]:
+          - img "User avatar" [ref=e875]

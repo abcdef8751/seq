@@ -1,0 +1,638 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e152]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - button "myukmusic's profile picture" [ref=e162] [cursor=pointer]:
+                  - link "myukmusic's profile picture" [ref=e164]:
+                    - img "myukmusic's profile picture" [ref=e165]
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - generic [ref=e172]:
+                      - link "myukmusic" [ref=e177] [cursor=pointer]:
+                        - /url: /myukmusic/
+                        - generic [ref=e180]: myukmusic
+                      - img "Verified" [ref=e182]
+                    - link "Original audio" [ref=e187] [cursor=pointer]:
+                      - /url: /reels/audio/27368748179482437/
+                      - generic [ref=e190]: Original audio
+                  - button "Follow" [ref=e192] [cursor=pointer]
+                - button "More options" [ref=e195] [cursor=pointer]:
+                  - img "More options" [ref=e198]
+              - separator [ref=e202]
+              - generic [ref=e204]:
+                - generic [ref=e206]:
+                  - link "myukmusic's profile picture" [ref=e211] [cursor=pointer]:
+                    - /url: /myukmusic/
+                    - img "myukmusic's profile picture" [ref=e212]
+                  - generic [ref=e216]:
+                    - generic [ref=e217]:
+                      - link "myukmusic Verified" [ref=e221] [cursor=pointer]:
+                        - /url: /myukmusic/
+                        - generic [ref=e223]:
+                          - generic [ref=e224]: myukmusic
+                          - img "Verified" [ref=e226]
+                      - time [ref=e229]: 7w
+                    - generic [ref=e230]:
+                      - text: お知らせです。
+                      - text: あなたに会えますように。
+                      - link "#myuk" [ref=e231] [cursor=pointer]:
+                        - /url: /explore/tags/myuk/
+                      - link "#japanesemusic" [ref=e232] [cursor=pointer]:
+                        - /url: /explore/tags/japanesemusic/
+                      - link "#歌詞動画" [ref=e233] [cursor=pointer]:
+                        - /url: /explore/tags/%E6%AD%8C%E8%A9%9E%E5%8B%95%E7%94%BB/
+                      - link "#オリジナル曲" [ref=e234] [cursor=pointer]:
+                        - /url: /explore/tags/%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E6%9B%B2/
+                      - link "#熊本" [ref=e235] [cursor=pointer]:
+                        - /url: /explore/tags/%E7%86%8A%E6%9C%AC/
+                - generic [ref=e236]:
+                  - generic [ref=e239]:
+                    - link "hixtu12hope's profile picture" [ref=e245] [cursor=pointer]:
+                      - /url: /hixtu12hope/
+                      - img "hixtu12hope's profile picture" [ref=e246]
+                    - generic [ref=e247]:
+                      - generic [ref=e248]:
+                        - generic [ref=e250]:
+                          - generic [ref=e251]:
+                            - link "hixtu12hope" [ref=e256] [cursor=pointer]:
+                              - /url: /hixtu12hope/
+                              - generic [ref=e259]: hixtu12hope
+                            - link "7w" [ref=e261] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18139771273546521/
+                              - time [ref=e262]: 7w
+                          - generic [ref=e264]:
+                            - text: "ワンマンライブおめでとうございます╰(*´︶`*)╯♡"
+                            - text: いつかMyukさんのライブへ行きたいと思っていて、ついに先月の札幌公演に行く事が出来て嬉しかったです！
+                            - text: これからも素敵で優しい歌声を聴かせて下さい☺️
+                        - generic [ref=e265]:
+                          - button "5 likes" [ref=e266] [cursor=pointer]:
+                            - generic [ref=e268]: 5 likes
+                          - button "Reply" [ref=e269] [cursor=pointer]:
+                            - generic [ref=e271]: Reply
+                      - button "Like" [ref=e276] [cursor=pointer]:
+                        - img "Like" [ref=e279]
+                  - generic [ref=e283]:
+                    - link "col770's profile picture" [ref=e289] [cursor=pointer]:
+                      - /url: /col770/
+                      - img "col770's profile picture" [ref=e290]
+                    - generic [ref=e291]:
+                      - generic [ref=e292]:
+                        - generic [ref=e294]:
+                          - generic [ref=e295]:
+                            - link "col770" [ref=e300] [cursor=pointer]:
+                              - /url: /col770/
+                              - generic [ref=e303]: col770
+                            - link "7w" [ref=e305] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18341413153221728/
+                              - time [ref=e306]: 7w
+                          - generic [ref=e308]: みゆちゃん 熊本凱旋ライブ✨️✨️🤩🙌
+                        - generic [ref=e309]:
+                          - button "5 likes" [ref=e310] [cursor=pointer]:
+                            - generic [ref=e312]: 5 likes
+                          - button "Reply" [ref=e313] [cursor=pointer]:
+                            - generic [ref=e315]: Reply
+                      - button "Like" [ref=e320] [cursor=pointer]:
+                        - img "Like" [ref=e323]
+                  - generic [ref=e327]:
+                    - link "ta.k.aha.shi's profile picture" [ref=e333] [cursor=pointer]:
+                      - /url: /ta.k.aha.shi/
+                      - img "ta.k.aha.shi's profile picture" [ref=e334]
+                    - generic [ref=e335]:
+                      - generic [ref=e336]:
+                        - generic [ref=e338]:
+                          - generic [ref=e339]:
+                            - link "ta.k.aha.shi" [ref=e344] [cursor=pointer]:
+                              - /url: /ta.k.aha.shi/
+                              - generic [ref=e347]: ta.k.aha.shi
+                            - link "7w" [ref=e349] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18354316894241616/
+                              - time [ref=e350]: 7w
+                          - generic [ref=e352]:
+                            - text: めっちゃ感動しました🥺
+                            - text: 行きたい！行きたいよー😭
+                        - generic [ref=e353]:
+                          - button "4 likes" [ref=e354] [cursor=pointer]:
+                            - generic [ref=e356]: 4 likes
+                          - button "Reply" [ref=e357] [cursor=pointer]:
+                            - generic [ref=e359]: Reply
+                          - button "See translation" [ref=e360] [cursor=pointer]:
+                            - generic [ref=e362]: See translation
+                      - button "Like" [ref=e367] [cursor=pointer]:
+                        - img "Like" [ref=e370]
+                  - generic [ref=e374]:
+                    - link "komaneko.madanai's profile picture" [ref=e380] [cursor=pointer]:
+                      - /url: /komaneko.madanai/
+                      - img "komaneko.madanai's profile picture" [ref=e381]
+                    - generic [ref=e382]:
+                      - generic [ref=e383]:
+                        - generic [ref=e385]:
+                          - generic [ref=e386]:
+                            - link "komaneko.madanai" [ref=e391] [cursor=pointer]:
+                              - /url: /komaneko.madanai/
+                              - generic [ref=e394]: komaneko.madanai
+                            - link "7w" [ref=e396] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/17870871171620242/
+                              - time [ref=e397]: 7w
+                          - generic [ref=e399]: おめでとうございます🎉 夢をひとつ叶えた姿を見てるだけで、とっても嬉しい気持ちになります😻😍
+                        - generic [ref=e400]:
+                          - button "2 likes" [ref=e401] [cursor=pointer]:
+                            - generic [ref=e403]: 2 likes
+                          - button "Reply" [ref=e404] [cursor=pointer]:
+                            - generic [ref=e406]: Reply
+                          - button "See translation" [ref=e407] [cursor=pointer]:
+                            - generic [ref=e409]: See translation
+                      - button "Like" [ref=e414] [cursor=pointer]:
+                        - img "Like" [ref=e417]
+                  - generic [ref=e421]:
+                    - link "kagonmama41's profile picture" [ref=e427] [cursor=pointer]:
+                      - /url: /kagonmama41/
+                      - img "kagonmama41's profile picture" [ref=e428]
+                    - generic [ref=e429]:
+                      - generic [ref=e430]:
+                        - generic [ref=e432]:
+                          - generic [ref=e433]:
+                            - link "kagonmama41" [ref=e438] [cursor=pointer]:
+                              - /url: /kagonmama41/
+                              - generic [ref=e441]: kagonmama41
+                            - link "7w" [ref=e443] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18097931645603345/
+                              - time [ref=e444]: 7w
+                          - generic [ref=e446]: おめでとうございます❤️
+                        - generic [ref=e447]:
+                          - button "1 like" [ref=e448] [cursor=pointer]:
+                            - generic [ref=e450]: 1 like
+                          - button "Reply" [ref=e451] [cursor=pointer]:
+                            - generic [ref=e453]: Reply
+                      - button "Like" [ref=e458] [cursor=pointer]:
+                        - img "Like" [ref=e461]
+                  - generic [ref=e465]:
+                    - link "mocorevjunny's profile picture" [ref=e471] [cursor=pointer]:
+                      - /url: /mocorevjunny/
+                      - img "mocorevjunny's profile picture" [ref=e472]
+                    - generic [ref=e473]:
+                      - generic [ref=e474]:
+                        - generic [ref=e476]:
+                          - generic [ref=e477]:
+                            - link "mocorevjunny" [ref=e482] [cursor=pointer]:
+                              - /url: /mocorevjunny/
+                              - generic [ref=e485]: mocorevjunny
+                            - link "7w" [ref=e487] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18112051649496581/
+                              - time [ref=e488]: 7w
+                          - generic [ref=e490]: 会いに行くよー❤️😍
+                        - generic [ref=e491]:
+                          - button "4 likes" [ref=e492] [cursor=pointer]:
+                            - generic [ref=e494]: 4 likes
+                          - button "Reply" [ref=e495] [cursor=pointer]:
+                            - generic [ref=e497]: Reply
+                          - button "See translation" [ref=e498] [cursor=pointer]:
+                            - generic [ref=e500]: See translation
+                      - button "Like" [ref=e505] [cursor=pointer]:
+                        - img "Like" [ref=e508]
+                  - generic [ref=e512]:
+                    - link "shinigaii's profile picture" [ref=e518] [cursor=pointer]:
+                      - /url: /shinigaii/
+                      - img "shinigaii's profile picture" [ref=e519]
+                    - generic [ref=e520]:
+                      - generic [ref=e521]:
+                        - generic [ref=e523]:
+                          - generic [ref=e524]:
+                            - link "shinigaii" [ref=e529] [cursor=pointer]:
+                              - /url: /shinigaii/
+                              - generic [ref=e532]: shinigaii
+                            - link "7w" [ref=e534] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18121777681672375/
+                              - time [ref=e535]: 7w
+                          - generic [ref=e537]: ❤️
+                        - generic [ref=e538]:
+                          - button "4 likes" [ref=e539] [cursor=pointer]:
+                            - generic [ref=e541]: 4 likes
+                          - button "Reply" [ref=e542] [cursor=pointer]:
+                            - generic [ref=e544]: Reply
+                      - button "Like" [ref=e549] [cursor=pointer]:
+                        - img "Like" [ref=e552]
+                  - generic [ref=e556]:
+                    - link "9fatcat's profile picture" [ref=e562] [cursor=pointer]:
+                      - /url: /9fatcat/
+                      - img "9fatcat's profile picture" [ref=e563]
+                    - generic [ref=e564]:
+                      - generic [ref=e565]:
+                        - generic [ref=e567]:
+                          - generic [ref=e568]:
+                            - link "9fatcat" [ref=e573] [cursor=pointer]:
+                              - /url: /9fatcat/
+                              - generic [ref=e576]: 9fatcat
+                            - link "7w" [ref=e578] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18101987711028071/
+                              - time [ref=e579]: 7w
+                          - generic [ref=e581]: おめでとう、行きたい
+                        - generic [ref=e582]:
+                          - button "4 likes" [ref=e583] [cursor=pointer]:
+                            - generic [ref=e585]: 4 likes
+                          - button "Reply" [ref=e586] [cursor=pointer]:
+                            - generic [ref=e588]: Reply
+                          - button "See translation" [ref=e589] [cursor=pointer]:
+                            - generic [ref=e591]: See translation
+                      - button "Like" [ref=e596] [cursor=pointer]:
+                        - img "Like" [ref=e599]
+                  - generic [ref=e603]:
+                    - link "harrier_60's profile picture" [ref=e609] [cursor=pointer]:
+                      - /url: /harrier_60/
+                      - img "harrier_60's profile picture" [ref=e610]
+                    - generic [ref=e611]:
+                      - generic [ref=e612]:
+                        - generic [ref=e614]:
+                          - generic [ref=e615]:
+                            - link "harrier_60" [ref=e620] [cursor=pointer]:
+                              - /url: /harrier_60/
+                              - generic [ref=e623]: harrier_60
+                            - link "7w" [ref=e625] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/17880483465664620/
+                              - time [ref=e626]: 7w
+                          - generic [ref=e628]: 凱旋ライブ決定おめでとうございます🎉
+                        - generic [ref=e629]:
+                          - button "4 likes" [ref=e630] [cursor=pointer]:
+                            - generic [ref=e632]: 4 likes
+                          - button "Reply" [ref=e633] [cursor=pointer]:
+                            - generic [ref=e635]: Reply
+                      - button "Like" [ref=e640] [cursor=pointer]:
+                        - img "Like" [ref=e643]
+                  - generic [ref=e647]:
+                    - link "onedo_1020's profile picture" [ref=e653] [cursor=pointer]:
+                      - /url: /onedo_1020/
+                      - img "onedo_1020's profile picture" [ref=e654]
+                    - generic [ref=e655]:
+                      - generic [ref=e656]:
+                        - generic [ref=e658]:
+                          - generic [ref=e659]:
+                            - link "onedo_1020" [ref=e664] [cursor=pointer]:
+                              - /url: /onedo_1020/
+                              - generic [ref=e667]: onedo_1020
+                            - link "7w" [ref=e669] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/17917233972388554/
+                              - time [ref=e670]: 7w
+                          - generic [ref=e672]: 熊本での凱旋ライブ決定！おめでとうございます🎉
+                        - generic [ref=e673]:
+                          - button "4 likes" [ref=e674] [cursor=pointer]:
+                            - generic [ref=e676]: 4 likes
+                          - button "Reply" [ref=e677] [cursor=pointer]:
+                            - generic [ref=e679]: Reply
+                      - button "Like" [ref=e684] [cursor=pointer]:
+                        - img "Like" [ref=e687]
+                  - generic [ref=e691]:
+                    - link "gyu_min0814's profile picture" [ref=e697] [cursor=pointer]:
+                      - /url: /gyu_min0814/
+                      - img "gyu_min0814's profile picture" [ref=e698]
+                    - generic [ref=e699]:
+                      - generic [ref=e700]:
+                        - generic [ref=e702]:
+                          - generic [ref=e703]:
+                            - link "gyu_min0814" [ref=e708] [cursor=pointer]:
+                              - /url: /gyu_min0814/
+                              - generic [ref=e711]: gyu_min0814
+                            - link "7w" [ref=e713] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/17949323964194873/
+                              - time [ref=e714]: 7w
+                          - generic [ref=e716]: 😍
+                        - generic [ref=e717]:
+                          - button "1 like" [ref=e718] [cursor=pointer]:
+                            - generic [ref=e720]: 1 like
+                          - button "Reply" [ref=e721] [cursor=pointer]:
+                            - generic [ref=e723]: Reply
+                      - button "Like" [ref=e728] [cursor=pointer]:
+                        - img "Like" [ref=e731]
+                  - generic [ref=e735]:
+                    - link "pinochan_cute's profile picture" [ref=e741] [cursor=pointer]:
+                      - /url: /pinochan_cute/
+                      - img "pinochan_cute's profile picture" [ref=e742]
+                    - generic [ref=e743]:
+                      - generic [ref=e744]:
+                        - generic [ref=e746]:
+                          - generic [ref=e747]:
+                            - link "pinochan_cute" [ref=e752] [cursor=pointer]:
+                              - /url: /pinochan_cute/
+                              - generic [ref=e755]: pinochan_cute
+                            - link "7w" [ref=e757] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18148779358495000/
+                              - time [ref=e758]: 7w
+                          - generic [ref=e760]:
+                            - text: おめでとうございます✨️✨️✨️
+                            - text: すごいです😭次々に夢を叶えていく姿を見ているとMyukさんと旅ができてほんとに良かったと思います💗多くの感動を与えてくれるMyukさんをこれからも応援してます！遠くていけないけど、応援してます!!
+                        - generic [ref=e761]:
+                          - button "8 likes" [ref=e762] [cursor=pointer]:
+                            - generic [ref=e764]: 8 likes
+                          - button "Reply" [ref=e765] [cursor=pointer]:
+                            - generic [ref=e767]: Reply
+                          - button "See translation" [ref=e768] [cursor=pointer]:
+                            - generic [ref=e770]: See translation
+                      - button "Like" [ref=e775] [cursor=pointer]:
+                        - img "Like" [ref=e778]
+                  - generic [ref=e782]:
+                    - link "arioot7899's profile picture" [ref=e788] [cursor=pointer]:
+                      - /url: /arioot7899/
+                      - img "arioot7899's profile picture" [ref=e789]
+                    - generic [ref=e790]:
+                      - generic [ref=e791]:
+                        - generic [ref=e793]:
+                          - generic [ref=e794]:
+                            - link "arioot7899" [ref=e799] [cursor=pointer]:
+                              - /url: /arioot7899/
+                              - generic [ref=e802]: arioot7899
+                            - link "7w" [ref=e804] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/18017597450890114/
+                              - time [ref=e805]: 7w
+                          - generic [ref=e807]: 😍😍😍
+                        - generic [ref=e808]:
+                          - button "4 likes" [ref=e809] [cursor=pointer]:
+                            - generic [ref=e811]: 4 likes
+                          - button "Reply" [ref=e812] [cursor=pointer]:
+                            - generic [ref=e814]: Reply
+                      - button "Like" [ref=e819] [cursor=pointer]:
+                        - img "Like" [ref=e822]
+                  - generic [ref=e826]:
+                    - link "ichan_ben's profile picture" [ref=e832] [cursor=pointer]:
+                      - /url: /ichan_ben/
+                      - img "ichan_ben's profile picture" [ref=e833]
+                    - generic [ref=e834]:
+                      - generic [ref=e835]:
+                        - generic [ref=e837]:
+                          - generic [ref=e838]:
+                            - link "ichan_ben" [ref=e843] [cursor=pointer]:
+                              - /url: /ichan_ben/
+                              - generic [ref=e846]: ichan_ben
+                            - link "7w" [ref=e848] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/17955063180155224/
+                              - time [ref=e849]: 7w
+                          - generic [ref=e851]: 凱旋ライブやれるんだね！おめでとうございます🥹成長した姿を地元のファンに思いきり届けてきてねー🎸🎶
+                        - generic [ref=e852]:
+                          - button "5 likes" [ref=e853] [cursor=pointer]:
+                            - generic [ref=e855]: 5 likes
+                          - button "Reply" [ref=e856] [cursor=pointer]:
+                            - generic [ref=e858]: Reply
+                          - button "See translation" [ref=e859] [cursor=pointer]:
+                            - generic [ref=e861]: See translation
+                      - button "Like" [ref=e866] [cursor=pointer]:
+                        - img "Like" [ref=e869]
+                  - generic [ref=e873]:
+                    - link "larson_baptista10's profile picture" [ref=e879] [cursor=pointer]:
+                      - /url: /larson_baptista10/
+                      - img "larson_baptista10's profile picture" [ref=e880]
+                    - generic [ref=e881]:
+                      - generic [ref=e882]:
+                        - generic [ref=e884]:
+                          - generic [ref=e885]:
+                            - link "larson_baptista10" [ref=e890] [cursor=pointer]:
+                              - /url: /larson_baptista10/
+                              - generic [ref=e893]: larson_baptista10
+                            - link "7w" [ref=e895] [cursor=pointer]:
+                              - /url: /p/DZcJWv3ToOU/c/17885942607592848/
+                              - time [ref=e896]: 7w
+                          - generic [ref=e898]: So happy for you myuk san may you shine and be greatly successful going forward ❤️
+                        - generic [ref=e899]:
+                          - button "7 likes" [ref=e900] [cursor=pointer]:
+                            - generic [ref=e902]: 7 likes
+                          - button "Reply" [ref=e903] [cursor=pointer]:
+                            - generic [ref=e905]: Reply
+                      - button "Like" [ref=e910] [cursor=pointer]:
+                        - img "Like" [ref=e913]
+                  - progressbar [ref=e917]:
+                    - img "Loading..." [ref=e918]
+              - generic [ref=e931]:
+                - generic [ref=e932]:
+                  - generic [ref=e933]:
+                    - button "Like" [ref=e936] [cursor=pointer]:
+                      - img "Like" [ref=e939]
+                    - button "2.2K" [ref=e941] [cursor=pointer]
+                    - button "Comment" [ref=e943] [cursor=pointer]:
+                      - img "Comment" [ref=e945]
+                    - button "52" [ref=e947] [cursor=pointer]
+                    - button "Repost" [ref=e948] [cursor=pointer]:
+                      - img "Repost" [ref=e949]
+                    - button "81" [ref=e951] [cursor=pointer]
+                    - button "Share" [ref=e952] [cursor=pointer]:
+                      - img "Share" [ref=e953]
+                  - button "Remove" [ref=e958] [cursor=pointer]:
+                    - button "Remove" [ref=e959]:
+                      - img "Remove" [ref=e961]
+                - link "June 11" [ref=e965] [cursor=pointer]:
+                  - /url: /myukmusic/reel/DZcJWv3ToOU/
+                  - time [ref=e967]: June 11
+              - generic [ref=e970]:
+                - link [ref=e971]
+                - generic [ref=e973]:
+                  - button "Emoji" [ref=e975] [cursor=pointer]:
+                    - img "Emoji" [ref=e977]
+                  - textbox "Add a comment…" [ref=e979]
+          - separator [ref=e981]
+          - generic [ref=e982]:
+            - generic [ref=e984]:
+              - text: More posts from
+              - link "myukmusic" [ref=e985] [cursor=pointer]:
+                - /url: /myukmusic/
+            - generic [ref=e988]:
+              - generic [ref=e989]:
+                - 'link "『SOUND BERRY FESTA''26』 初の韓国、あなたに会えて嬉しかったです。 Myukの音楽と出会ってくれてありがとう。 한국 여러분, 너무 사랑해요! 最高のバンドメンバーとMyukチーム、 そして『SOUND BERRY FESTA''26』スタッフの皆さんの心遣いや素敵なおもてなしに感謝します。 またいつか、ワンマンで会いに行くね。 @soundberry_festa Thank your for the instruments!🎸 @dadada.band －－－－－－－－－－－－－－ 【Setlist】 1. Arcana 2. Black Sheep 3.グライド-Glide 4.わたしね、、-Watashine 5.Sakura 6.愛の唄- Ai no uta 7.まるまる-Maru Maru 8.魔法-Mahou 9.雪唄-yukiuta 10.花はかぐや-Kaguya －－－－－－－－－－－－ #live #korea #myuk #soundberryfesta26 Carousel" [ref=e991] [cursor=pointer]':
+                  - /url: /myukmusic/p/DbARPo-EygM/
+                  - 'img "『SOUND BERRY FESTA''26』 初の韓国、あなたに会えて嬉しかったです。 Myukの音楽と出会ってくれてありがとう。 한국 여러분, 너무 사랑해요! 最高のバンドメンバーとMyukチーム、 そして『SOUND BERRY FESTA''26』スタッフの皆さんの心遣いや素敵なおもてなしに感謝します。 またいつか、ワンマンで会いに行くね。 @soundberry_festa Thank your for the instruments!🎸 @dadada.band －－－－－－－－－－－－－－ 【Setlist】 1. Arcana 2. Black Sheep 3.グライド-Glide 4.わたしね、、-Watashine 5.Sakura 6.愛の唄- Ai no uta 7.まるまる-Maru Maru 8.魔法-Mahou 9.雪唄-yukiuta 10.花はかぐや-Kaguya －－－－－－－－－－－－ #live #korea #myuk #soundberryfesta26" [ref=e994]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - link "追加公演、台北、福岡、札幌、ありがとうございました。 初の海外、台北で待っていてくれた貴方がいてくれて、 福岡、札幌でも皆さんと出会うことができて、 あぁ、やっぱり私は歌を歌わせてもらえるんだな、 と感じさせてもらえた２週間でした。 信じることや諦めることと向き合う日々の中で ライブでの皆との瞬間は 何よりも本物で 代え難いものです。 ピンチの時でも なんとか持ち直し 歌うことを選ばされてきたような私ですが、 ライブで皆さんの表情を見れた時、 「感動した！」と言ってもらえた時、 「あの時、歌うことを選んでよかった」 と思います。 生きていくことは立ち止まることも多くて、 嫌な自分や空っぽな心と向き合うこともあるけど それが力になっていく瞬間を これからも歌っていたい。 『シオン』の歌詞 「邂逅うことは必然だから」 その言葉が3公演ともなんだかいつもと違う響きがある気がしました。 最高の夜をありがとう。 次は9月。 また会えますように。 Carousel" [ref=e997] [cursor=pointer]:
+                  - /url: /myukmusic/p/DYwBba4k4TS/
+                  - img "追加公演、台北、福岡、札幌、ありがとうございました。 初の海外、台北で待っていてくれた貴方がいてくれて、 福岡、札幌でも皆さんと出会うことができて、 あぁ、やっぱり私は歌を歌わせてもらえるんだな、 と感じさせてもらえた２週間でした。 信じることや諦めることと向き合う日々の中で ライブでの皆との瞬間は 何よりも本物で 代え難いものです。 ピンチの時でも なんとか持ち直し 歌うことを選ばされてきたような私ですが、 ライブで皆さんの表情を見れた時、 「感動した！」と言ってもらえた時、 「あの時、歌うことを選んでよかった」 と思います。 生きていくことは立ち止まることも多くて、 嫌な自分や空っぽな心と向き合うこともあるけど それが力になっていく瞬間を これからも歌っていたい。 『シオン』の歌詞 「邂逅うことは必然だから」 その言葉が3公演ともなんだかいつもと違う響きがある気がしました。 最高の夜をありがとう。 次は9月。 また会えますように。" [ref=e1000]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - 'link "台北の皆さん、最高の夜をありがとう。 初の海外公演、忘れられない一夜となりました。 ようやく会いに行けた喜びと 初めましてとは思えない程の会場の温かさで 終始胸がいっぱいでした。 ありがとう。 あなたに会えて、嬉しかったです。 また絶対会いに来ます。 下次見！我愛你們𓈒𓏸 @catyamayuki8004 #MyukLiveInTaipei Carousel" [ref=e1003] [cursor=pointer]':
+                  - /url: /myukmusic/p/DYbwXK9k9JG/
+                  - 'img "台北の皆さん、最高の夜をありがとう。 初の海外公演、忘れられない一夜となりました。 ようやく会いに行けた喜びと 初めましてとは思えない程の会場の温かさで 終始胸がいっぱいでした。 ありがとう。 あなたに会えて、嬉しかったです。 また絶対会いに来ます。 下次見！我愛你們𓈒𓏸 @catyamayuki8004 #MyukLiveInTaipei" [ref=e1006]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+              - generic [ref=e1008]:
+                - 'link "あなたと出会えて嬉しい。またいつか、音楽で頷き合おうね。5周年…まだ始まったばかりです。 「Myuk Anniversary Concert Tour 2026～Extra Edition～」 追加公演が決定！ 📍5/16 （土）台北 📍5/18（月） 福岡 INSA 📍5/23 （土） 札幌 近松 📍 9/15 （火）神戸CHICKEN GEORGE 📍 9/19 （土）仙台 誰も知らない劇場 📍 9/28 （月）川崎 CLUB CITTA’ ▼FC先行(4/8 18:00〜) yodel-app.com/myuk/ ▼HP先行(4/13 18:00〜) l-tike.com/myuk/ #Celeste_Tour Carousel" [ref=e1010] [cursor=pointer]':
+                  - /url: /myukmusic/p/DW6CJ3fE4kZ/
+                  - 'img "あなたと出会えて嬉しい。またいつか、音楽で頷き合おうね。5周年…まだ始まったばかりです。 「Myuk Anniversary Concert Tour 2026～Extra Edition～」 追加公演が決定！ 📍5/16 （土）台北 📍5/18（月） 福岡 INSA 📍5/23 （土） 札幌 近松 📍 9/15 （火）神戸CHICKEN GEORGE 📍 9/19 （土）仙台 誰も知らない劇場 📍 9/28 （月）川崎 CLUB CITTA’ ▼FC先行(4/8 18:00〜) yodel-app.com/myuk/ ▼HP先行(4/13 18:00〜) l-tike.com/myuk/ #Celeste_Tour" [ref=e1013]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - 'link "『Myuk Anniversary Concert Tour 2026』 東名阪3公演、一緒に作ってくれた皆さん ありがとうございました。 どの夜も、まさに果てしない空っぽな心が没入感と多幸感で満たされていくようなこの上なく優しい空間でした。 デビュー5周年の年に、夢だったZeppのステージに立てたこと、これまでMyukの音楽に出会ってくれた全ての方々のおかげです。今日まで、本当にありがとう。 音楽を通してあなたと出会えたことがとても嬉しいです。 ここからまた、旅が始まります。 他でもない貴方の旅路に色を添えられる音楽を、 苦しい夜にそっと隣に居られる音楽を、 歌って、届けていけたらと思います。 そんな想いを以前に増して強く感じた、皆んなの存在に勇気をもらった3公演でした。 最強にかっこいい音でライブを彩ってくださった尊敬するバンドメンバー、 そして照明や音響、演出等、このツアーに関わってくださった全ての方に心からの感謝を込めて。 次は追加公演、5月台北、福岡、札幌で会えますように。 5周年、まだ始まったばかりです。 𓈒 𓏸 𓐍 𓂃 𓈒𓏸 𓂃◌𓈒𓐍 𓈒 𓏸 𓐍 𓂃 𓈒𓏸 𓂃◌𓈒𓐍 Piano : 西野恵未 @emi_nishino Guitar : 大久保 友裕 Bass : 山口寛雄 Drums : 大貫みく(the peggies) @minimiku0423 Direction : 中山佳香 @yoshikanakayama Stylist : masumi yakuzawa @masumi_yakuzawa Hair&Makeup : 金澤美保 @kanesawamiho 追加公演のチケットも好評発売中✨ 5月は福岡・北海道へ！ 🎫 5/18(月) 福岡・INSA 🎫 5/23(土) 札幌近松 各プレイガイドにて受付中👇 🎟 ローチケ：l-tike.com/myuk/ 🎟 イープラス：eplus.jp/myuk/ 🎟 ぴあ：w.pia.jp/t/myuk/ #Celeste_Tour Carousel" [ref=e1016] [cursor=pointer]':
+                  - /url: /myukmusic/p/DWiNJAIE0qD/
+                  - 'img "『Myuk Anniversary Concert Tour 2026』 東名阪3公演、一緒に作ってくれた皆さん ありがとうございました。 どの夜も、まさに果てしない空っぽな心が没入感と多幸感で満たされていくようなこの上なく優しい空間でした。 デビュー5周年の年に、夢だったZeppのステージに立てたこと、これまでMyukの音楽に出会ってくれた全ての方々のおかげです。今日まで、本当にありがとう。 音楽を通してあなたと出会えたことがとても嬉しいです。 ここからまた、旅が始まります。 他でもない貴方の旅路に色を添えられる音楽を、 苦しい夜にそっと隣に居られる音楽を、 歌って、届けていけたらと思います。 そんな想いを以前に増して強く感じた、皆んなの存在に勇気をもらった3公演でした。 最強にかっこいい音でライブを彩ってくださった尊敬するバンドメンバー、 そして照明や音響、演出等、このツアーに関わってくださった全ての方に心からの感謝を込めて。 次は追加公演、5月台北、福岡、札幌で会えますように。 5周年、まだ始まったばかりです。 𓈒 𓏸 𓐍 𓂃 𓈒𓏸 𓂃◌𓈒𓐍 𓈒 𓏸 𓐍 𓂃 𓈒𓏸 𓂃◌𓈒𓐍 Piano : 西野恵未 @emi_nishino Guitar : 大久保 友裕 Bass : 山口寛雄 Drums : 大貫みく(the peggies) @minimiku0423 Direction : 中山佳香 @yoshikanakayama Stylist : masumi yakuzawa @masumi_yakuzawa Hair&Makeup : 金澤美保 @kanesawamiho 追加公演のチケットも好評発売中✨ 5月は福岡・北海道へ！ 🎫 5/18(月) 福岡・INSA 🎫 5/23(土) 札幌近松 各プレイガイドにて受付中👇 🎟 ローチケ：l-tike.com/myuk/ 🎟 イープラス：eplus.jp/myuk/ 🎟 ぴあ：w.pia.jp/t/myuk/ #Celeste_Tour" [ref=e1019]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - 'link "3/29（日）東京Zepp DiverCityまであと2日…! 5年の集大成、心を込めてお届けします𓈒𓏸🪽 ツアーファイナル！あなたに会えるのを楽しみにしています。 最高の夜にしましょう！ #myuk #japanesemusic #ライブ映像 #オリジナル曲 #Celeste_Tour Clip" [ref=e1022] [cursor=pointer]':
+                  - /url: /myukmusic/reel/DWV0KCpE1uL/
+                  - 'img "3/29（日）東京Zepp DiverCityまであと2日…! 5年の集大成、心を込めてお届けします𓈒𓏸🪽 ツアーファイナル！あなたに会えるのを楽しみにしています。 最高の夜にしましょう！ #myuk #japanesemusic #ライブ映像 #オリジナル曲 #Celeste_Tour" [ref=e1025]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+      - contentinfo [ref=e1027]:
+        - generic [ref=e1028]:
+          - generic [ref=e1030]:
+            - link "Meta" [ref=e1032] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e1033]: Meta
+            - link "About" [ref=e1035] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e1036]: About
+            - link "Blog" [ref=e1038] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e1039]: Blog
+            - link "Jobs" [ref=e1041] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e1042]: Jobs
+            - link "Help" [ref=e1044] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e1045]: Help
+            - link "API" [ref=e1047] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e1048]: API
+            - link "Privacy" [ref=e1050] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e1051]: Privacy
+            - link "Terms" [ref=e1053] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e1054]: Terms
+            - link "Locations" [ref=e1056] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e1057]: Locations
+            - link "Popular" [ref=e1059] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e1060]: Popular
+            - link "Instagram Lite" [ref=e1062] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e1063]: Instagram Lite
+            - link "Meta AI" [ref=e1065] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e1066]: Meta AI
+            - link "Threads" [ref=e1068] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e1069]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e1071] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e1072]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e1074] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e1075]: Meta Verified
+          - generic [ref=e1076]:
+            - generic [ref=e1077] [cursor=pointer]:
+              - generic [ref=e1078]:
+                - generic [ref=e1079]: English
+                - img "Down chevron icon" [ref=e1082]
+              - combobox "Switch Display Language" [ref=e1084]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e1086]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e1088] [cursor=pointer]:
+    - generic "Messages" [ref=e1089]:
+      - generic [ref=e1090]:
+        - img "Messages" [ref=e1093]
+        - generic [ref=e1096]: Messages
+      - generic [ref=e1097]:
+        - button "User avatar ¿" [ref=e1099]:
+          - img "User avatar" [ref=e1102]
+        - button "User avatar Mhmd" [ref=e1104]:
+          - img "User avatar" [ref=e1107]
+        - button "User avatar ENERGY BRIDGE" [ref=e1109]:
+          - img "User avatar" [ref=e1112]

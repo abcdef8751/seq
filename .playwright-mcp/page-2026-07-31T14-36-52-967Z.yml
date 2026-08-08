@@ -1,0 +1,624 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e152]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - button "michaelcollinspianist's profile picture" [disabled] [ref=e162]:
+                  - link "michaelcollinspianist's profile picture" [disabled] [ref=e164] [cursor=pointer]:
+                    - img "michaelcollinspianist's profile picture" [ref=e165]
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - link "michaelcollinspianist" [ref=e177] [cursor=pointer]:
+                      - /url: /michaelcollinspianist/
+                      - generic [ref=e180]: michaelcollinspianist
+                    - link "Original audio" [ref=e184] [cursor=pointer]:
+                      - /url: /reels/audio/27501521499465238/
+                      - generic [ref=e187]: Original audio
+                  - button "Follow" [ref=e189] [cursor=pointer]
+                - button "More options" [ref=e192] [cursor=pointer]:
+                  - img "More options" [ref=e195]
+              - separator [ref=e199]
+              - generic [ref=e201]:
+                - generic [ref=e203]:
+                  - link "michaelcollinspianist's profile picture" [ref=e208] [cursor=pointer]:
+                    - /url: /michaelcollinspianist/
+                    - img "michaelcollinspianist's profile picture" [ref=e209]
+                  - generic [ref=e213]:
+                    - generic [ref=e214]:
+                      - link "michaelcollinspianist" [ref=e218] [cursor=pointer]:
+                        - /url: /michaelcollinspianist/
+                        - generic [ref=e221]: michaelcollinspianist
+                      - time [ref=e223]: 8w
+                    - generic [ref=e224]:
+                      - text: "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you."
+                      - link "#classical" [ref=e225] [cursor=pointer]:
+                        - /url: /explore/tags/classical/
+                      - link "#baroque" [ref=e226] [cursor=pointer]:
+                        - /url: /explore/tags/baroque/
+                      - link "#nightowl" [ref=e227] [cursor=pointer]:
+                        - /url: /explore/tags/nightowl/
+                      - link "#harpsichord" [ref=e228] [cursor=pointer]:
+                        - /url: /explore/tags/harpsichord/
+                      - link "#composer" [ref=e229] [cursor=pointer]:
+                        - /url: /explore/tags/composer/
+                - generic [ref=e230]:
+                  - generic [ref=e231]:
+                    - generic [ref=e233]:
+                      - link "emregray.3_'s profile picture" [ref=e239] [cursor=pointer]:
+                        - /url: /emregray.3_/
+                        - img "emregray.3_'s profile picture" [ref=e240]
+                      - generic [ref=e241]:
+                        - generic [ref=e242]:
+                          - generic [ref=e244]:
+                            - generic [ref=e245]:
+                              - link "emregray.3_" [ref=e250] [cursor=pointer]:
+                                - /url: /emregray.3_/
+                                - generic [ref=e253]: emregray.3_
+                              - link "8w" [ref=e255] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18342743689171947/
+                                - time [ref=e256]: 8w
+                            - generic [ref=e258]: How can one even play this 😭😭😭
+                          - generic [ref=e259]:
+                            - button "7,664 likes" [ref=e260] [cursor=pointer]:
+                              - generic [ref=e262]: 7,664 likes
+                            - button "Reply" [ref=e263] [cursor=pointer]:
+                              - generic [ref=e265]: Reply
+                        - button "Like" [ref=e270] [cursor=pointer]:
+                          - img "Like" [ref=e273]
+                    - button "View all 17 replies" [ref=e276] [cursor=pointer]:
+                      - generic [ref=e279]: View all 17 replies
+                  - generic [ref=e280]:
+                    - generic [ref=e282]:
+                      - link "mark_fletcher_'s profile picture" [ref=e288] [cursor=pointer]:
+                        - /url: /mark_fletcher_/
+                        - img "mark_fletcher_'s profile picture" [ref=e289]
+                      - generic [ref=e290]:
+                        - generic [ref=e291]:
+                          - generic [ref=e293]:
+                            - generic [ref=e294]:
+                              - link "mark_fletcher_" [ref=e299] [cursor=pointer]:
+                                - /url: /mark_fletcher_/
+                                - generic [ref=e302]: mark_fletcher_
+                              - link "8w" [ref=e304] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/17961343017120910/
+                                - time [ref=e305]: 8w
+                            - generic [ref=e307]: I'm just finding out about all this cool stuff from Bach. And how crazy he could Almost distort the harp support to make incredible sounds impossible sounds. Search a cool instrument, thank you.
+                          - generic [ref=e308]:
+                            - button "3,630 likes" [ref=e309] [cursor=pointer]:
+                              - generic [ref=e311]: 3,630 likes
+                            - button "Reply" [ref=e312] [cursor=pointer]:
+                              - generic [ref=e314]: Reply
+                        - button "Like" [ref=e319] [cursor=pointer]:
+                          - img "Like" [ref=e322]
+                    - button "View all 1 replies" [ref=e325] [cursor=pointer]:
+                      - generic [ref=e328]: View all 1 replies
+                  - generic [ref=e329]:
+                    - generic [ref=e331]:
+                      - link "jacob.dii's profile picture" [ref=e337] [cursor=pointer]:
+                        - /url: /jacob.dii/
+                        - img "jacob.dii's profile picture" [ref=e338]
+                      - generic [ref=e339]:
+                        - generic [ref=e340]:
+                          - generic [ref=e342]:
+                            - generic [ref=e343]:
+                              - link "jacob.dii" [ref=e348] [cursor=pointer]:
+                                - /url: /jacob.dii/
+                                - generic [ref=e351]: jacob.dii
+                              - link "8w" [ref=e353] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18082684274443378/
+                                - time [ref=e354]: 8w
+                            - generic [ref=e356]: Grit
+                          - generic [ref=e357]:
+                            - button "8 likes" [ref=e358] [cursor=pointer]:
+                              - generic [ref=e360]: 8 likes
+                            - button "Reply" [ref=e361] [cursor=pointer]:
+                              - generic [ref=e363]: Reply
+                        - button "Like" [ref=e368] [cursor=pointer]:
+                          - img "Like" [ref=e371]
+                    - button "View all 3 replies" [ref=e374] [cursor=pointer]:
+                      - generic [ref=e377]: View all 3 replies
+                  - generic [ref=e378]:
+                    - generic [ref=e380]:
+                      - link "mementomingosch's profile picture" [ref=e386] [cursor=pointer]:
+                        - /url: /mementomingosch/
+                        - img "mementomingosch's profile picture" [ref=e387]
+                      - generic [ref=e388]:
+                        - generic [ref=e389]:
+                          - generic [ref=e391]:
+                            - generic [ref=e392]:
+                              - link "mementomingosch" [ref=e397] [cursor=pointer]:
+                                - /url: /mementomingosch/
+                                - generic [ref=e400]: mementomingosch
+                              - link "8w" [ref=e402] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/17916812469179976/
+                                - time [ref=e403]: 8w
+                            - generic [ref=e405]: this guy learned english suite no.2 and now keeps showing off with it for the rest of his life
+                          - generic [ref=e406]:
+                            - button "247 likes" [ref=e407] [cursor=pointer]:
+                              - generic [ref=e409]: 247 likes
+                            - button "Reply" [ref=e410] [cursor=pointer]:
+                              - generic [ref=e412]: Reply
+                        - button "Like" [ref=e417] [cursor=pointer]:
+                          - img "Like" [ref=e420]
+                    - button "View all 1 replies" [ref=e423] [cursor=pointer]:
+                      - generic [ref=e426]: View all 1 replies
+                  - generic [ref=e427]:
+                    - generic [ref=e429]:
+                      - link "philipbeck09's profile picture" [ref=e435] [cursor=pointer]:
+                        - /url: /philipbeck09/
+                        - img "philipbeck09's profile picture" [ref=e436]
+                      - generic [ref=e437]:
+                        - generic [ref=e438]:
+                          - generic [ref=e440]:
+                            - generic [ref=e441]:
+                              - link "philipbeck09" [ref=e446] [cursor=pointer]:
+                                - /url: /philipbeck09/
+                                - generic [ref=e449]: philipbeck09
+                              - link "8w" [ref=e451] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18115142917885687/
+                                - time [ref=e452]: 8w
+                            - generic [ref=e454]: Grit
+                          - generic [ref=e455]:
+                            - button "11 likes" [ref=e456] [cursor=pointer]:
+                              - generic [ref=e458]: 11 likes
+                            - button "Reply" [ref=e459] [cursor=pointer]:
+                              - generic [ref=e461]: Reply
+                        - button "Like" [ref=e466] [cursor=pointer]:
+                          - img "Like" [ref=e469]
+                    - button "View all 1 replies" [ref=e472] [cursor=pointer]:
+                      - generic [ref=e475]: View all 1 replies
+                  - generic [ref=e476]:
+                    - generic [ref=e478]:
+                      - link "cornelius.curry.iii's profile picture" [ref=e484] [cursor=pointer]:
+                        - /url: /cornelius.curry.iii/
+                        - img "cornelius.curry.iii's profile picture" [ref=e485]
+                      - generic [ref=e486]:
+                        - generic [ref=e487]:
+                          - generic [ref=e489]:
+                            - generic [ref=e490]:
+                              - link "cornelius.curry.iii" [ref=e495] [cursor=pointer]:
+                                - /url: /cornelius.curry.iii/
+                                - generic [ref=e498]: cornelius.curry.iii
+                              - link "8w" [ref=e500] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18104507083820405/
+                                - time [ref=e501]: 8w
+                            - generic [ref=e503]: Grit
+                          - generic [ref=e504]:
+                            - button "1 like" [ref=e505] [cursor=pointer]:
+                              - generic [ref=e507]: 1 like
+                            - button "Reply" [ref=e508] [cursor=pointer]:
+                              - generic [ref=e510]: Reply
+                        - button "Like" [ref=e515] [cursor=pointer]:
+                          - img "Like" [ref=e518]
+                    - button "View all 1 replies" [ref=e521] [cursor=pointer]:
+                      - generic [ref=e524]: View all 1 replies
+                  - generic [ref=e525]:
+                    - generic [ref=e527]:
+                      - link "_kizubeats's profile picture" [ref=e533] [cursor=pointer]:
+                        - /url: /_kizubeats/
+                        - img "_kizubeats's profile picture" [ref=e534]
+                      - generic [ref=e535]:
+                        - generic [ref=e536]:
+                          - generic [ref=e538]:
+                            - generic [ref=e539]:
+                              - link "_kizubeats" [ref=e544] [cursor=pointer]:
+                                - /url: /_kizubeats/
+                                - generic [ref=e547]: _kizubeats
+                              - link "8w" [ref=e549] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18098974598322831/
+                                - time [ref=e550]: 8w
+                            - generic [ref=e552]: Grit
+                          - generic [ref=e553]:
+                            - button "1 like" [ref=e554] [cursor=pointer]:
+                              - generic [ref=e556]: 1 like
+                            - button "Reply" [ref=e557] [cursor=pointer]:
+                              - generic [ref=e559]: Reply
+                        - button "Like" [ref=e564] [cursor=pointer]:
+                          - img "Like" [ref=e567]
+                    - button "View all 1 replies" [ref=e570] [cursor=pointer]:
+                      - generic [ref=e573]: View all 1 replies
+                  - generic [ref=e574]:
+                    - generic [ref=e576]:
+                      - link "tomotakinoforever's profile picture" [ref=e582] [cursor=pointer]:
+                        - /url: /tomotakinoforever/
+                        - img "tomotakinoforever's profile picture" [ref=e583]
+                      - generic [ref=e584]:
+                        - generic [ref=e585]:
+                          - generic [ref=e587]:
+                            - generic [ref=e588]:
+                              - link "tomotakinoforever" [ref=e593] [cursor=pointer]:
+                                - /url: /tomotakinoforever/
+                                - generic [ref=e596]: tomotakinoforever
+                              - link "8w" [ref=e598] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18029300909637185/
+                                - time [ref=e599]: 8w
+                            - generic [ref=e601]: It still sounds like 2
+                          - generic [ref=e602]:
+                            - button "412 likes" [ref=e603] [cursor=pointer]:
+                              - generic [ref=e605]: 412 likes
+                            - button "Reply" [ref=e606] [cursor=pointer]:
+                              - generic [ref=e608]: Reply
+                        - button "Like" [ref=e613] [cursor=pointer]:
+                          - img "Like" [ref=e616]
+                    - button "View all 2 replies" [ref=e619] [cursor=pointer]:
+                      - generic [ref=e622]: View all 2 replies
+                  - generic [ref=e623]:
+                    - generic [ref=e625]:
+                      - link "jakov.cs's profile picture" [ref=e631] [cursor=pointer]:
+                        - /url: /jakov.cs/
+                        - img "jakov.cs's profile picture" [ref=e632]
+                      - generic [ref=e633]:
+                        - generic [ref=e634]:
+                          - generic [ref=e636]:
+                            - generic [ref=e637]:
+                              - link "jakov.cs" [ref=e642] [cursor=pointer]:
+                                - /url: /jakov.cs/
+                                - generic [ref=e645]: jakov.cs
+                              - link "8w" [ref=e647] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/17876150994609228/
+                                - time [ref=e648]: 8w
+                            - generic [ref=e650]: GRIT
+                          - generic [ref=e651]:
+                            - button "1 like" [ref=e652] [cursor=pointer]:
+                              - generic [ref=e654]: 1 like
+                            - button "Reply" [ref=e655] [cursor=pointer]:
+                              - generic [ref=e657]: Reply
+                        - button "Like" [ref=e662] [cursor=pointer]:
+                          - img "Like" [ref=e665]
+                    - button "View all 1 replies" [ref=e668] [cursor=pointer]:
+                      - generic [ref=e671]: View all 1 replies
+                  - generic [ref=e672]:
+                    - generic [ref=e674]:
+                      - link "mitchel.2049's profile picture" [ref=e680] [cursor=pointer]:
+                        - /url: /mitchel.2049/
+                        - img "mitchel.2049's profile picture" [ref=e681]
+                      - generic [ref=e682]:
+                        - generic [ref=e683]:
+                          - generic [ref=e685]:
+                            - generic [ref=e686]:
+                              - link "mitchel.2049" [ref=e691] [cursor=pointer]:
+                                - /url: /mitchel.2049/
+                                - generic [ref=e694]: mitchel.2049
+                              - link "8w" [ref=e696] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18103246736279415/
+                                - time [ref=e697]: 8w
+                            - generic [ref=e699]: Grit
+                          - generic [ref=e700]:
+                            - button "5 likes" [ref=e701] [cursor=pointer]:
+                              - generic [ref=e703]: 5 likes
+                            - button "Reply" [ref=e704] [cursor=pointer]:
+                              - generic [ref=e706]: Reply
+                        - button "Like" [ref=e711] [cursor=pointer]:
+                          - img "Like" [ref=e714]
+                    - button "View all 1 replies" [ref=e717] [cursor=pointer]:
+                      - generic [ref=e720]: View all 1 replies
+                  - generic [ref=e723]:
+                    - link "erencalik01's profile picture" [ref=e729] [cursor=pointer]:
+                      - /url: /erencalik01/
+                      - img "erencalik01's profile picture" [ref=e730]
+                    - generic [ref=e731]:
+                      - generic [ref=e732]:
+                        - generic [ref=e733]:
+                          - link "erencalik01" [ref=e737] [cursor=pointer]:
+                            - /url: /erencalik01/
+                            - generic [ref=e740]: erencalik01
+                          - img [ref=e742]
+                        - generic [ref=e743]:
+                          - button "164 likes" [ref=e744] [cursor=pointer]:
+                            - generic [ref=e746]: 164 likes
+                          - button "Reply" [ref=e747] [cursor=pointer]:
+                            - generic [ref=e749]: Reply
+                      - button "Like" [ref=e754] [cursor=pointer]:
+                        - img "Like" [ref=e757]
+                  - generic [ref=e759]:
+                    - generic [ref=e761]:
+                      - link "latranderechte's profile picture" [ref=e767] [cursor=pointer]:
+                        - /url: /latranderechte/
+                        - img "latranderechte's profile picture" [ref=e768]
+                      - generic [ref=e769]:
+                        - generic [ref=e770]:
+                          - generic [ref=e772]:
+                            - generic [ref=e773]:
+                              - link "latranderechte" [ref=e778] [cursor=pointer]:
+                                - /url: /latranderechte/
+                                - generic [ref=e781]: latranderechte
+                              - link "8w" [ref=e783] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18085998962268253/
+                                - time [ref=e784]: 8w
+                            - generic [ref=e786]: Name of the piece?
+                          - generic [ref=e787]:
+                            - button "69 likes" [ref=e788] [cursor=pointer]:
+                              - generic [ref=e790]: 69 likes
+                            - button "Reply" [ref=e791] [cursor=pointer]:
+                              - generic [ref=e793]: Reply
+                        - button "Like" [ref=e798] [cursor=pointer]:
+                          - img "Like" [ref=e801]
+                    - button "View all 2 replies" [ref=e804] [cursor=pointer]:
+                      - generic [ref=e807]: View all 2 replies
+                  - generic [ref=e808]:
+                    - generic [ref=e810]:
+                      - link "arrrnis's profile picture" [ref=e816] [cursor=pointer]:
+                        - /url: /arrrnis/
+                        - img "arrrnis's profile picture" [ref=e817]
+                      - generic [ref=e818]:
+                        - generic [ref=e819]:
+                          - generic [ref=e821]:
+                            - generic [ref=e822]:
+                              - link "arrrnis" [ref=e827] [cursor=pointer]:
+                                - /url: /arrrnis/
+                                - generic [ref=e830]: arrrnis
+                              - link "8w" [ref=e832] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18445765417142865/
+                                - time [ref=e833]: 8w
+                            - generic [ref=e835]: Grit
+                          - generic [ref=e836]:
+                            - button "1 like" [ref=e837] [cursor=pointer]:
+                              - generic [ref=e839]: 1 like
+                            - button "Reply" [ref=e840] [cursor=pointer]:
+                              - generic [ref=e842]: Reply
+                        - button "Like" [ref=e847] [cursor=pointer]:
+                          - img "Like" [ref=e850]
+                    - button "View all 1 replies" [ref=e853] [cursor=pointer]:
+                      - generic [ref=e856]: View all 1 replies
+                  - generic [ref=e857]:
+                    - generic [ref=e859]:
+                      - link "andromedajpaulo's profile picture" [ref=e865] [cursor=pointer]:
+                        - /url: /andromedajpaulo/
+                        - img "andromedajpaulo's profile picture" [ref=e866]
+                      - generic [ref=e867]:
+                        - generic [ref=e868]:
+                          - generic [ref=e870]:
+                            - generic [ref=e871]:
+                              - link "andromedajpaulo" [ref=e876] [cursor=pointer]:
+                                - /url: /andromedajpaulo/
+                                - generic [ref=e879]: andromedajpaulo
+                              - link "5w" [ref=e881] [cursor=pointer]:
+                                - /url: /p/DZFLMJ0S7T9/c/18100013279335860/
+                                - time [ref=e882]: 5w
+                            - generic [ref=e884]: GRIT
+                          - button "Reply" [ref=e886] [cursor=pointer]:
+                            - generic [ref=e888]: Reply
+                        - button "Like" [ref=e893] [cursor=pointer]:
+                          - img "Like" [ref=e896]
+                    - button "View all 1 replies" [ref=e899] [cursor=pointer]:
+                      - generic [ref=e902]: View all 1 replies
+                  - progressbar [ref=e905]:
+                    - img "Loading..." [ref=e906]
+              - generic [ref=e919]:
+                - generic [ref=e920]:
+                  - generic [ref=e921]:
+                    - button "Like" [ref=e924] [cursor=pointer]:
+                      - img "Like" [ref=e927]
+                    - button "37.7K" [ref=e929] [cursor=pointer]
+                    - button "Comment" [ref=e931] [cursor=pointer]:
+                      - img "Comment" [ref=e933]
+                    - button "177" [ref=e935] [cursor=pointer]
+                    - button "Repost" [ref=e936] [cursor=pointer]:
+                      - img "Repost" [ref=e937]
+                    - button "994" [ref=e939] [cursor=pointer]
+                    - button "Share" [ref=e940] [cursor=pointer]:
+                      - img "Share" [ref=e941]
+                  - button "Remove" [ref=e946] [cursor=pointer]:
+                    - button "Remove" [ref=e947]:
+                      - img "Remove" [ref=e949]
+                - link "June 2" [ref=e953] [cursor=pointer]:
+                  - /url: /michaelcollinspianist/reel/DZFLMJ0S7T9/
+                  - time [ref=e955]: June 2
+              - generic [ref=e958]:
+                - link [ref=e959]
+                - generic [ref=e961]:
+                  - button "Emoji" [ref=e963] [cursor=pointer]:
+                    - img "Emoji" [ref=e965]
+                  - textbox "Add a comment…" [ref=e967]
+          - separator [ref=e969]
+          - generic [ref=e970]:
+            - generic [ref=e972]:
+              - text: More posts from
+              - link "michaelcollinspianist" [ref=e973] [cursor=pointer]:
+                - /url: /michaelcollinspianist/
+            - generic [ref=e976]:
+              - generic [ref=e977]:
+                - 'link "300 years later it still hurts 🪦 piano courtesy of @clubhouseslc #classical #pianist #composer #solopiano #bach #baroque #nightowl Clip" [ref=e979] [cursor=pointer]':
+                  - /url: /michaelcollinspianist/reel/DP7aS7pDF6m/
+                  - 'img "300 years later it still hurts 🪦 piano courtesy of @clubhouseslc #classical #pianist #composer #solopiano #bach #baroque #nightowl" [ref=e982]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you. #malicemizer #baroque #handel #pianist #composer Clip" [ref=e985] [cursor=pointer]':
+                  - /url: /michaelcollinspianist/reel/DZSQ-YyS7T1/
+                  - 'img "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you. #malicemizer #baroque #handel #pianist #composer" [ref=e988]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Harpsichord was his go-to 🪉 harpsichord courtesy of @giftedmusicschool #classical #pianist #solopiano #harpsichord #periodpiece #periodinstruments #bach #counterpoint #baroque Clip" [ref=e991] [cursor=pointer]':
+                  - /url: /michaelcollinspianist/reel/DPnSXJWjBLU/
+                  - 'img "Harpsichord was his go-to 🪉 harpsichord courtesy of @giftedmusicschool #classical #pianist #solopiano #harpsichord #periodpiece #periodinstruments #bach #counterpoint #baroque" [ref=e994]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e996]:
+                - 'link "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you. #classical #baroque #bach #pianist #composer Clip" [ref=e998] [cursor=pointer]':
+                  - /url: /michaelcollinspianist/reel/DbdNhNrxacD/
+                  - 'img "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you. #classical #baroque #bach #pianist #composer" [ref=e1001]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you. #classical #baroque #bach #pianist #composer Clip" [ref=e1004] [cursor=pointer]':
+                  - /url: /michaelcollinspianist/reel/DbarfbmR-6E/
+                  - 'img "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you. #classical #baroque #bach #pianist #composer" [ref=e1007]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you. #classical #virtuoso #chopin #pianist #composer Clip" [ref=e1010] [cursor=pointer]':
+                  - /url: /michaelcollinspianist/reel/DbVa9A6Roub/
+                  - 'img "Uncensored Bach Guide: Comment “GRIT” to get the 5 ‘forbidden’ Bach techniques your teacher never taught you. #classical #virtuoso #chopin #pianist #composer" [ref=e1013]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+      - contentinfo [ref=e1015]:
+        - generic [ref=e1016]:
+          - generic [ref=e1018]:
+            - link "Meta" [ref=e1020] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e1021]: Meta
+            - link "About" [ref=e1023] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e1024]: About
+            - link "Blog" [ref=e1026] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e1027]: Blog
+            - link "Jobs" [ref=e1029] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e1030]: Jobs
+            - link "Help" [ref=e1032] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e1033]: Help
+            - link "API" [ref=e1035] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e1036]: API
+            - link "Privacy" [ref=e1038] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e1039]: Privacy
+            - link "Terms" [ref=e1041] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e1042]: Terms
+            - link "Locations" [ref=e1044] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e1045]: Locations
+            - link "Popular" [ref=e1047] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e1048]: Popular
+            - link "Instagram Lite" [ref=e1050] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e1051]: Instagram Lite
+            - link "Meta AI" [ref=e1053] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e1054]: Meta AI
+            - link "Threads" [ref=e1056] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e1057]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e1059] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e1060]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e1062] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e1063]: Meta Verified
+          - generic [ref=e1064]:
+            - generic [ref=e1065] [cursor=pointer]:
+              - generic [ref=e1066]:
+                - generic [ref=e1067]: English
+                - img "Down chevron icon" [ref=e1070]
+              - combobox "Switch Display Language" [ref=e1072]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e1074]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e1076] [cursor=pointer]:
+    - generic "Messages" [ref=e1077]:
+      - generic [ref=e1078]:
+        - img "Messages" [ref=e1081]
+        - generic [ref=e1084]: Messages
+      - generic [ref=e1085]:
+        - button "User avatar ¿" [ref=e1087]:
+          - img "User avatar" [ref=e1090]
+        - button "User avatar Mhmd" [ref=e1092]:
+          - img "User avatar" [ref=e1095]
+        - button "User avatar ENERGY BRIDGE" [ref=e1097]:
+          - img "User avatar" [ref=e1100]

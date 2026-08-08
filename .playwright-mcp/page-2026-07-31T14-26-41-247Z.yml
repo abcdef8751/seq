@@ -1,0 +1,296 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e152]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - button "tabi_and_radio's profile picture" [disabled] [ref=e162]:
+                  - link "tabi_and_radio's profile picture" [disabled] [ref=e164] [cursor=pointer]:
+                    - img "tabi_and_radio's profile picture" [ref=e165]
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - link "tabi_and_radio" [ref=e177] [cursor=pointer]:
+                      - /url: /tabi_and_radio/
+                      - generic [ref=e180]: tabi_and_radio
+                    - link "Original audio" [ref=e184] [cursor=pointer]:
+                      - /url: /reels/audio/27774252775540006/
+                      - generic [ref=e187]: Original audio
+                  - button "Follow" [ref=e189] [cursor=pointer]
+                - button "More options" [ref=e192] [cursor=pointer]:
+                  - img "More options" [ref=e195]
+              - separator [ref=e199]
+              - generic [ref=e201]:
+                - generic [ref=e203]:
+                  - link "tabi_and_radio's profile picture" [ref=e208] [cursor=pointer]:
+                    - /url: /tabi_and_radio/
+                    - img "tabi_and_radio's profile picture" [ref=e209]
+                  - generic [ref=e211]:
+                    - generic [ref=e213]:
+                      - generic [ref=e214]:
+                        - link "tabi_and_radio" [ref=e218] [cursor=pointer]:
+                          - /url: /tabi_and_radio/
+                          - generic [ref=e221]: tabi_and_radio
+                        - time [ref=e223]: 1w
+                      - generic [ref=e224]:
+                        - text: 2026年7月24日こんばんは金曜日。
+                        - text: 好きなハイボールを凍らせて削ったら
+                        - text: 削りハイボールは旨いのではないかと考える。
+                        - text: ガリガリ君好きの発想である。
+                        - text: 1週間おつかれさまでした。
+                        - text: 来週もどうぞよろしくお願いします🙇
+                        - link "#さっぽろテレビ塔" [ref=e225] [cursor=pointer]:
+                          - /url: /explore/tags/%E3%81%95%E3%81%A3%E3%81%BD%E3%82%8D%E3%83%86%E3%83%AC%E3%83%93%E5%A1%94/
+                        - link "#札幌大通公園の今の空" [ref=e226] [cursor=pointer]:
+                          - /url: /explore/tags/%E6%9C%AD%E5%B9%8C%E5%A4%A7%E9%80%9A%E5%85%AC%E5%9C%92%E3%81%AE%E4%BB%8A%E3%81%AE%E7%A9%BA/
+                        - link "#登録有形文化財" [ref=e227] [cursor=pointer]:
+                          - /url: /explore/tags/%E7%99%BB%E9%8C%B2%E6%9C%89%E5%BD%A2%E6%96%87%E5%8C%96%E8%B2%A1/
+                        - link "#札幌市" [ref=e228] [cursor=pointer]:
+                          - /url: /explore/tags/%E6%9C%AD%E5%B9%8C%E5%B8%82/
+                        - link "#文月" [ref=e229] [cursor=pointer]:
+                          - /url: /explore/tags/%E6%96%87%E6%9C%88/
+                    - button "See translation" [ref=e231] [cursor=pointer]:
+                      - generic [ref=e233]: See translation
+                - generic [ref=e236]:
+                  - heading "No comments yet." [level=2] [ref=e238]
+                  - generic [ref=e240]: Start the conversation.
+              - generic [ref=e241]:
+                - generic [ref=e242]:
+                  - generic [ref=e243]:
+                    - button "Like" [ref=e246] [cursor=pointer]:
+                      - img "Like" [ref=e249]
+                    - button "Comment" [ref=e252] [cursor=pointer]:
+                      - img "Comment" [ref=e254]
+                    - button "Repost" [ref=e256] [cursor=pointer]:
+                      - img "Repost" [ref=e257]
+                    - button "Share" [ref=e259] [cursor=pointer]:
+                      - img "Share" [ref=e260]
+                  - button "Remove" [ref=e265] [cursor=pointer]:
+                    - button "Remove" [ref=e266]:
+                      - img "Remove" [ref=e268]
+                - generic [ref=e273]:
+                  - text: Liked by
+                  - link "sugitasports_2" [ref=e274] [cursor=pointer]:
+                    - /url: /sugitasports_2/
+                  - text: and
+                  - link "others" [ref=e275] [cursor=pointer]:
+                    - /url: /p/DbLIcXhTJZ0/liked_by/
+                - link "7 days ago" [ref=e278] [cursor=pointer]:
+                  - /url: /tabi_and_radio/reel/DbLIcXhTJZ0/
+                  - time [ref=e280]: 7 days ago
+              - generic [ref=e283]:
+                - link [ref=e284]
+                - generic [ref=e286]:
+                  - button "Emoji" [ref=e288] [cursor=pointer]:
+                    - img "Emoji" [ref=e290]
+                  - textbox "Add a comment…" [ref=e292]
+          - separator [ref=e294]
+          - generic [ref=e295]:
+            - generic [ref=e297]:
+              - text: More posts from
+              - link "tabi_and_radio" [ref=e298] [cursor=pointer]:
+                - /url: /tabi_and_radio/
+            - generic [ref=e301]:
+              - generic [ref=e302]:
+                - 'link "2026年7月11日。松江フォーゲルパークにて。 はじめましてフドウさん。 北海道札幌市にはハシビロコウはおらんので 会いにきました。 だんだん。ないやい。 #松江フォーゲルパーク #島根県 #ハシビロコウ #フドウ #だんだん Clip" [ref=e304] [cursor=pointer]':
+                  - /url: /tabi_and_radio/reel/DasMDxrz2vK/
+                  - 'img "2026年7月11日。松江フォーゲルパークにて。 はじめましてフドウさん。 北海道札幌市にはハシビロコウはおらんので 会いにきました。 だんだん。ないやい。 #松江フォーゲルパーク #島根県 #ハシビロコウ #フドウ #だんだん" [ref=e307]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "2026年7月31日。こんばんは金曜日🎇 7月の締めくくりは2026道新・UHB花火大会。 南19条の大橋。約4,000発。 全国的に減って来ている花火大会🎆 来年も見たいですね。 #花火 #花火師さんありがとう #札幌市 #札幌イベント #文月 Clip" [ref=e310] [cursor=pointer]':
+                  - /url: /tabi_and_radio/reel/DbdSf9Rzn3R/
+                  - 'img "2026年7月31日。こんばんは金曜日🎇 7月の締めくくりは2026道新・UHB花火大会。 南19条の大橋。約4,000発。 全国的に減って来ている花火大会🎆 来年も見たいですね。 #花火 #花火師さんありがとう #札幌市 #札幌イベント #文月" [ref=e313]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "2026年7月30日。こんばんは木曜日。 降っていた雨は止み、また降り出しました☔️☁️ 熊本地震お見舞い申し上げます。 迷惑にならない何かできないかなと思いまして 大好きなガリガリ君の九州みかん味🍊を食べました。 なぜなら、売上の一部を熊本災害復興のため寄付して くれると書いてあったから。 赤城乳業株式会社会社さまへ ご寄付のほどよろしくお願いします🙏 #さっぽろテレビ塔 #札幌大通公園の今の空 #登録有形文化財 #ガリガリ君九州みかん復興支援 #ガリガリ君九州みかん Clip" [ref=e316] [cursor=pointer]':
+                  - /url: /tabi_and_radio/reel/DbanJCITKiR/
+                  - 'img "2026年7月30日。こんばんは木曜日。 降っていた雨は止み、また降り出しました☔️☁️ 熊本地震お見舞い申し上げます。 迷惑にならない何かできないかなと思いまして 大好きなガリガリ君の九州みかん味🍊を食べました。 なぜなら、売上の一部を熊本災害復興のため寄付して くれると書いてあったから。 赤城乳業株式会社会社さまへ ご寄付のほどよろしくお願いします🙏 #さっぽろテレビ塔 #札幌大通公園の今の空 #登録有形文化財 #ガリガリ君九州みかん復興支援 #ガリガリ君九州みかん" [ref=e319]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e321]:
+                - 'link "2026年7月28日。こんばんは火曜日。 お疲れさまです。明日は月1のトレース。 とても苦手でやんす🫠🫠 それはさておき、友人は長くこと帯状疱疹の痛みと 戦っている。 想像すらもできないその痛みはどれほどだろうか。 早く落ち着くことを願うばかりである。 頑張っているのに頑張れとはいえない。 応援するしかない📣📣 #さっぽろテレビ塔 #札幌大通公園の今の空 #登録有形文化財 #痛み #文月 Clip" [ref=e323] [cursor=pointer]':
+                  - /url: /tabi_and_radio/reel/DbVbYvfzmqL/
+                  - 'img "2026年7月28日。こんばんは火曜日。 お疲れさまです。明日は月1のトレース。 とても苦手でやんす🫠🫠 それはさておき、友人は長くこと帯状疱疹の痛みと 戦っている。 想像すらもできないその痛みはどれほどだろうか。 早く落ち着くことを願うばかりである。 頑張っているのに頑張れとはいえない。 応援するしかない📣📣 #さっぽろテレビ塔 #札幌大通公園の今の空 #登録有形文化財 #痛み #文月" [ref=e326]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "2026年7月27日。こんばんは月曜日。 夏休みなんですね🌻 旅好き、飛行機好きの原点は2歳の時に飛行機で 北陸に連れて行ってもらったことだと思います。 飛行機内でもらったおもちゃは中学に上がっても 手元にあり、そして、それをもらった時の2歳の 記憶は昨日のことのようにここに残っています。 そして小学校5年生の時にひとりで祖母の家に 列車を乗り換えて行ったことが一人旅の始まり。 また夏休みといえば朝のラジオ体操。 とにかく起こされても起きない私。 仕舞いには休みの父が起きてしまい、 私は布団から引っ張られてラジオ体操へ。 休日の父はもっと寝ていたかったでしょうね。 そんなことを思い出した月曜日の大通公園でした。 #さっぽろテレビ塔 #札幌大通公園の今の空 #登録有形文化財 #夏休みの思い出 #文月 Clip" [ref=e329] [cursor=pointer]':
+                  - /url: /tabi_and_radio/reel/DbSup3RzGeZ/
+                  - 'img "2026年7月27日。こんばんは月曜日。 夏休みなんですね🌻 旅好き、飛行機好きの原点は2歳の時に飛行機で 北陸に連れて行ってもらったことだと思います。 飛行機内でもらったおもちゃは中学に上がっても 手元にあり、そして、それをもらった時の2歳の 記憶は昨日のことのようにここに残っています。 そして小学校5年生の時にひとりで祖母の家に 列車を乗り換えて行ったことが一人旅の始まり。 また夏休みといえば朝のラジオ体操。 とにかく起こされても起きない私。 仕舞いには休みの父が起きてしまい、 私は布団から引っ張られてラジオ体操へ。 休日の父はもっと寝ていたかったでしょうね。 そんなことを思い出した月曜日の大通公園でした。 #さっぽろテレビ塔 #札幌大通公園の今の空 #登録有形文化財 #夏休みの思い出 #文月" [ref=e332]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "2026年7月26日。こんにちは日曜日。 家族で日帰り富良野・美瑛の旅へ🟣🟡 北海道は24℃涼しいです🧊🍦 #富良野 #ラベンダー #ファーム富田 #土用の丑の日 #文月 Clip" [ref=e335] [cursor=pointer]':
+                  - /url: /tabi_and_radio/reel/DbQkYZBpBhG/
+                  - 'img "2026年7月26日。こんにちは日曜日。 家族で日帰り富良野・美瑛の旅へ🟣🟡 北海道は24℃涼しいです🧊🍦 #富良野 #ラベンダー #ファーム富田 #土用の丑の日 #文月" [ref=e338]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+      - contentinfo [ref=e340]:
+        - generic [ref=e341]:
+          - generic [ref=e343]:
+            - link "Meta" [ref=e345] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e346]: Meta
+            - link "About" [ref=e348] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e349]: About
+            - link "Blog" [ref=e351] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e352]: Blog
+            - link "Jobs" [ref=e354] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e355]: Jobs
+            - link "Help" [ref=e357] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e358]: Help
+            - link "API" [ref=e360] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e361]: API
+            - link "Privacy" [ref=e363] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e364]: Privacy
+            - link "Terms" [ref=e366] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e367]: Terms
+            - link "Locations" [ref=e369] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e370]: Locations
+            - link "Popular" [ref=e372] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e373]: Popular
+            - link "Instagram Lite" [ref=e375] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e376]: Instagram Lite
+            - link "Meta AI" [ref=e378] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e379]: Meta AI
+            - link "Threads" [ref=e381] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e382]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e384] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e385]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e387] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e388]: Meta Verified
+          - generic [ref=e389]:
+            - generic [ref=e390] [cursor=pointer]:
+              - generic [ref=e391]:
+                - generic [ref=e392]: English
+                - img "Down chevron icon" [ref=e395]
+              - combobox "Switch Display Language" [ref=e397]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e399]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e401] [cursor=pointer]:
+    - generic "Messages" [ref=e402]:
+      - generic [ref=e403]:
+        - img "Messages" [ref=e406]
+        - generic [ref=e409]: Messages
+      - generic [ref=e410]:
+        - button "User avatar ¿" [ref=e412]:
+          - img "User avatar" [ref=e415]
+        - button "User avatar Mhmd" [ref=e417]:
+          - img "User avatar" [ref=e420]
+        - button "User avatar ENERGY BRIDGE" [ref=e422]:
+          - img "User avatar" [ref=e425]

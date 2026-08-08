@@ -1,0 +1,48 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.rp.seq.eq" >
+5
+6    <uses-sdk android:minSdkVersion="29" />
+7
+8    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+8-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:5:5-71
+8-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:5:22-68
+9    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+9-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:6:5-77
+9-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:6:22-74
+10    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION" />
+10-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:7:5-94
+10-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:7:22-91
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:8:5-77
+11-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:8:22-74
+12    <uses-permission
+12-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:9:5-11:47
+13        android:name="android.permission.DUMP"
+13-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:10:9-47
+14        tools:ignore="ProtectedPermissions" />
+14-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:11:9-44
+15
+16    <application>
+16-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:13:5-23:19
+17
+18        <!--
+19             Separate :audio process. The Tauri WebView host lives in the main process and
+20             gets killed when the app is swiped from recents; running the audio pipeline in
+21             its own process keeps the EQ alive (matches RJDSP, whose process survives
+22             because it has no WebView).
+23        -->
+24        <service
+24-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:18:9-22:63
+25            android:name="com.rp.seq.eq.EqAudioProcessorService"
+25-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:19:13-52
+26            android:exported="false"
+26-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:20:13-37
+27            android:foregroundServiceType="mediaProjection"
+27-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:22:13-60
+28            android:process=":audio" />
+28-->/home/rp/seq/src-tauri/plugins/seq-eq/android/src/main/AndroidManifest.xml:21:13-37
+29    </application>
+30
+31</manifest>

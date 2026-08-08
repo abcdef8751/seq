@@ -1,0 +1,9 @@
+- generic [ref=e4]:
+  - button [ref=e5]:
+    - img [ref=e6]
+  - generic [ref=e9]: 1 kHz
+  - generic [ref=e10]: Q 1.00
+  - group [ref=e11]:
+    - slider [ref=e13]:
+      - slider [ref=e14]: "0"
+  - generic [ref=e15]: "0.0"

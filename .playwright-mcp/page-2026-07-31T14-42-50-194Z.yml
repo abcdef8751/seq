@@ -1,0 +1,637 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e152]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - button "thenorthroom_'s profile picture" [disabled] [ref=e162]:
+                  - link "thenorthroom_'s profile picture" [disabled] [ref=e164] [cursor=pointer]:
+                    - img "thenorthroom_'s profile picture" [ref=e165]
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - link "thenorthroom_" [ref=e177] [cursor=pointer]:
+                      - /url: /thenorthroom_/
+                      - generic [ref=e180]: thenorthroom_
+                    - link "Original audio" [ref=e184] [cursor=pointer]:
+                      - /url: /reels/audio/27664902003130009/
+                      - generic [ref=e187]: Original audio
+                  - button "Follow" [ref=e189] [cursor=pointer]
+                - button "More options" [ref=e192] [cursor=pointer]:
+                  - img "More options" [ref=e195]
+              - separator [ref=e199]
+              - generic [ref=e201]:
+                - generic [ref=e203]:
+                  - link "thenorthroom_'s profile picture" [ref=e208] [cursor=pointer]:
+                    - /url: /thenorthroom_/
+                    - img "thenorthroom_'s profile picture" [ref=e209]
+                  - generic [ref=e213]:
+                    - generic [ref=e214]:
+                      - link "thenorthroom_" [ref=e218] [cursor=pointer]:
+                        - /url: /thenorthroom_/
+                        - generic [ref=e221]: thenorthroom_
+                      - time [ref=e223]: 4w
+                    - generic [ref=e224]:
+                      - text: "Anime : You and I Are Polar Opposites"
+                      - text: Is a wholesome high school romantic comedy and slice-of-life anime based on the manga by Kōcha Agasawa. The story centers on Miyu Suzuki, an outgoing and energetic girl who worries about what others think of her, and Yusuke Tani, a quiet, straightforward boy who is completely honest and unconcerned with fitting in. Although they have opposite personalities, Suzuki develops feelings for Tani, and the two begin dating early in the story.
+                      - text: Rather than focusing on whether the characters will confess their feelings, the series explores what happens after they become a couple. It follows their everyday lives as they learn to communicate, understand each other’s differences, and grow both individually and together. Alongside the romance, the anime also highlights friendships, school life, and the personal struggles of its supporting characters.
+                      - text: The series is known for its warm humor, realistic conversations, expressive animation, and healthy portrayal of relationships. It appeals to viewers who enjoy lighthearted romance, relatable character development, and stories that balance comedy with heartfelt emotional moments.
+                      - text: "Anime: You and I Are Polar Opposites"
+                      - text: "Original manga: Kōcha Agasawa"
+                      - text: "Animation: Lapin Track"
+                      - link "#youandiarepolaropposites" [ref=e225] [cursor=pointer]:
+                        - /url: /explore/tags/youandiarepolaropposites/
+                      - link "#animeromance" [ref=e226] [cursor=pointer]:
+                        - /url: /explore/tags/animeromance/
+                      - link "#newanime" [ref=e227] [cursor=pointer]:
+                        - /url: /explore/tags/newanime/
+                      - link "#animeclips" [ref=e228] [cursor=pointer]:
+                        - /url: /explore/tags/animeclips/
+                      - link "#trendinganime" [ref=e229] [cursor=pointer]:
+                        - /url: /explore/tags/trendinganime/
+                - generic [ref=e230]:
+                  - generic [ref=e231]:
+                    - generic [ref=e233]:
+                      - link "warukyun's profile picture" [ref=e239] [cursor=pointer]:
+                        - /url: /warukyun/
+                        - img "warukyun's profile picture" [ref=e240]
+                      - generic [ref=e241]:
+                        - generic [ref=e242]:
+                          - generic [ref=e244]:
+                            - generic [ref=e245]:
+                              - link "warukyun" [ref=e250] [cursor=pointer]:
+                                - /url: /warukyun/
+                                - generic [ref=e253]: warukyun
+                              - link "4w" [ref=e255] [cursor=pointer]:
+                                - /url: /p/DaK4EfOIkzM/c/18013404776888581/
+                                - time [ref=e256]: 4w
+                            - generic [ref=e258]: Is it true that this anime will end with a sad ending?
+                          - generic [ref=e259]:
+                            - button "24 likes" [ref=e260] [cursor=pointer]:
+                              - generic [ref=e262]: 24 likes
+                            - button "Reply" [ref=e263] [cursor=pointer]:
+                              - generic [ref=e265]: Reply
+                        - button "Like" [ref=e270] [cursor=pointer]:
+                          - img "Like" [ref=e273]
+                    - button "View all 13 replies" [ref=e276] [cursor=pointer]:
+                      - generic [ref=e279]: View all 13 replies
+                  - generic [ref=e280]:
+                    - generic [ref=e282]:
+                      - link "klaudian_red's profile picture" [ref=e288] [cursor=pointer]:
+                        - /url: /klaudian_red/
+                        - img "klaudian_red's profile picture" [ref=e289]
+                      - generic [ref=e290]:
+                        - generic [ref=e291]:
+                          - generic [ref=e293]:
+                            - generic [ref=e294]:
+                              - link "klaudian_red" [ref=e299] [cursor=pointer]:
+                                - /url: /klaudian_red/
+                                - generic [ref=e302]: klaudian_red
+                              - link "4w" [ref=e304] [cursor=pointer]:
+                                - /url: /p/DaK4EfOIkzM/c/17856453534678243/
+                                - time [ref=e305]: 4w
+                            - generic [ref=e307]: That's was really funny 🤣🤣🤣🤣🤣
+                          - generic [ref=e308]:
+                            - button "4,911 likes" [ref=e309] [cursor=pointer]:
+                              - generic [ref=e311]: 4,911 likes
+                            - button "Reply" [ref=e312] [cursor=pointer]:
+                              - generic [ref=e314]: Reply
+                        - button "Like" [ref=e319] [cursor=pointer]:
+                          - img "Like" [ref=e322]
+                    - button "View all 1 replies" [ref=e325] [cursor=pointer]:
+                      - generic [ref=e328]: View all 1 replies
+                  - generic [ref=e329]:
+                    - generic [ref=e331]:
+                      - link "m0chi_yuk1s's profile picture" [ref=e337] [cursor=pointer]:
+                        - /url: /m0chi_yuk1s/
+                        - img "m0chi_yuk1s's profile picture" [ref=e338]
+                      - generic [ref=e339]:
+                        - generic [ref=e340]:
+                          - generic [ref=e342]:
+                            - generic [ref=e343]:
+                              - link "m0chi_yuk1s" [ref=e348] [cursor=pointer]:
+                                - /url: /m0chi_yuk1s/
+                                - generic [ref=e351]: m0chi_yuk1s
+                              - link "4w" [ref=e353] [cursor=pointer]:
+                                - /url: /p/DaK4EfOIkzM/c/17924752131147625/
+                                - time [ref=e354]: 4w
+                            - generic [ref=e356]: TAIRA MENTIONED I LOVE TAIRA
+                          - generic [ref=e357]:
+                            - button "14 likes" [ref=e358] [cursor=pointer]:
+                              - generic [ref=e360]: 14 likes
+                            - button "Reply" [ref=e361] [cursor=pointer]:
+                              - generic [ref=e363]: Reply
+                        - button "Like" [ref=e368] [cursor=pointer]:
+                          - img "Like" [ref=e371]
+                    - button "View all 1 replies" [ref=e374] [cursor=pointer]:
+                      - generic [ref=e377]: View all 1 replies
+                  - generic [ref=e378]:
+                    - generic [ref=e380]:
+                      - link "aguacambiante's profile picture" [ref=e386] [cursor=pointer]:
+                        - /url: /aguacambiante/
+                        - img "aguacambiante's profile picture" [ref=e387]
+                      - generic [ref=e388]:
+                        - generic [ref=e389]:
+                          - generic [ref=e391]:
+                            - generic [ref=e392]:
+                              - link "aguacambiante" [ref=e397] [cursor=pointer]:
+                                - /url: /aguacambiante/
+                                - generic [ref=e400]: aguacambiante
+                              - link "4w" [ref=e402] [cursor=pointer]:
+                                - /url: /p/DaK4EfOIkzM/c/18088232012561643/
+                                - time [ref=e403]: 4w
+                            - generic [ref=e405]: Me encantaaa, porque así es como realmente son los adolecentes 😭😭
+                          - generic [ref=e406]:
+                            - button "215 likes" [ref=e407] [cursor=pointer]:
+                              - generic [ref=e409]: 215 likes
+                            - button "Reply" [ref=e410] [cursor=pointer]:
+                              - generic [ref=e412]: Reply
+                            - button "See translation" [ref=e413] [cursor=pointer]:
+                              - generic [ref=e415]: See translation
+                        - button "Like" [ref=e420] [cursor=pointer]:
+                          - img "Like" [ref=e423]
+                    - button "View all 4 replies" [ref=e426] [cursor=pointer]:
+                      - generic [ref=e429]: View all 4 replies
+                  - generic [ref=e432]:
+                    - link "thenorthroom_'s profile picture" [ref=e438] [cursor=pointer]:
+                      - /url: /thenorthroom_/
+                      - img "thenorthroom_'s profile picture" [ref=e439]
+                    - generic [ref=e440]:
+                      - generic [ref=e441]:
+                        - generic [ref=e443]:
+                          - generic [ref=e444]:
+                            - link "thenorthroom_" [ref=e449] [cursor=pointer]:
+                              - /url: /thenorthroom_/
+                              - generic [ref=e452]: thenorthroom_
+                            - link "4w" [ref=e454] [cursor=pointer]:
+                              - /url: /p/DaK4EfOIkzM/c/18366850648235407/
+                              - time [ref=e455]: 4w
+                          - generic [ref=e457]: Follow for more❤️
+                        - generic [ref=e458]:
+                          - button "124 likes" [ref=e459] [cursor=pointer]:
+                            - generic [ref=e461]: 124 likes
+                          - button "Reply" [ref=e462] [cursor=pointer]:
+                            - generic [ref=e464]: Reply
+                      - button "Like" [ref=e469] [cursor=pointer]:
+                        - img "Like" [ref=e472]
+                  - generic [ref=e474]:
+                    - generic [ref=e476]:
+                      - link "alexnader65's profile picture" [ref=e482] [cursor=pointer]:
+                        - /url: /alexnader65/
+                        - img "alexnader65's profile picture" [ref=e483]
+                      - generic [ref=e484]:
+                        - generic [ref=e485]:
+                          - generic [ref=e486]:
+                            - link "alexnader65" [ref=e490] [cursor=pointer]:
+                              - /url: /alexnader65/
+                              - generic [ref=e493]: alexnader65
+                            - img [ref=e495]
+                          - generic [ref=e496]:
+                            - button "2,992 likes" [ref=e497] [cursor=pointer]:
+                              - generic [ref=e499]: 2,992 likes
+                            - button "Reply" [ref=e500] [cursor=pointer]:
+                              - generic [ref=e502]: Reply
+                        - button "Like" [ref=e507] [cursor=pointer]:
+                          - img "Like" [ref=e510]
+                    - button "View all 2 replies" [ref=e513] [cursor=pointer]:
+                      - generic [ref=e516]: View all 2 replies
+                  - generic [ref=e517]:
+                    - generic [ref=e519]:
+                      - link "haikuxt's profile picture" [ref=e525] [cursor=pointer]:
+                        - /url: /haikuxt/
+                        - img "haikuxt's profile picture" [ref=e526]
+                      - generic [ref=e527]:
+                        - generic [ref=e528]:
+                          - generic [ref=e530]:
+                            - generic [ref=e531]:
+                              - link "haikuxt" [ref=e536] [cursor=pointer]:
+                                - /url: /haikuxt/
+                                - generic [ref=e539]: haikuxt
+                              - link "4w" [ref=e541] [cursor=pointer]:
+                                - /url: /p/DaK4EfOIkzM/c/17874145719621590/
+                                - time [ref=e542]: 4w
+                            - generic [ref=e544]: I am so going to use this trick 😁😆
+                          - generic [ref=e545]:
+                            - button "10 likes" [ref=e546] [cursor=pointer]:
+                              - generic [ref=e548]: 10 likes
+                            - button "Reply" [ref=e549] [cursor=pointer]:
+                              - generic [ref=e551]: Reply
+                        - button "Like" [ref=e556] [cursor=pointer]:
+                          - img "Like" [ref=e559]
+                    - button "View all 1 replies" [ref=e562] [cursor=pointer]:
+                      - generic [ref=e565]: View all 1 replies
+                  - generic [ref=e568]:
+                    - link "_auraesthic's profile picture" [ref=e574] [cursor=pointer]:
+                      - /url: /_auraesthic/
+                      - img "_auraesthic's profile picture" [ref=e575]
+                    - generic [ref=e576]:
+                      - generic [ref=e577]:
+                        - generic [ref=e579]:
+                          - generic [ref=e580]:
+                            - link "_auraesthic" [ref=e585] [cursor=pointer]:
+                              - /url: /_auraesthic/
+                              - generic [ref=e588]: _auraesthic
+                            - link "2w" [ref=e590] [cursor=pointer]:
+                              - /url: /p/DaK4EfOIkzM/c/17892852537386189/
+                              - time [ref=e591]: 2w
+                          - generic [ref=e593]: IT WAS SO FUNNY 🤣🤣🤣
+                        - generic [ref=e594]:
+                          - button "1 like" [ref=e595] [cursor=pointer]:
+                            - generic [ref=e597]: 1 like
+                          - button "Reply" [ref=e598] [cursor=pointer]:
+                            - generic [ref=e600]: Reply
+                      - button "Like" [ref=e605] [cursor=pointer]:
+                        - img "Like" [ref=e608]
+                  - generic [ref=e612]:
+                    - link "gelaonline's profile picture" [ref=e618] [cursor=pointer]:
+                      - /url: /gelaonline/
+                      - img "gelaonline's profile picture" [ref=e619]
+                    - generic [ref=e620]:
+                      - generic [ref=e621]:
+                        - generic [ref=e623]:
+                          - generic [ref=e624]:
+                            - link "gelaonline" [ref=e629] [cursor=pointer]:
+                              - /url: /gelaonline/
+                              - generic [ref=e632]: gelaonline
+                            - link "4w" [ref=e634] [cursor=pointer]:
+                              - /url: /p/DaK4EfOIkzM/c/17892879981374738/
+                              - time [ref=e635]: 4w
+                          - generic [ref=e637]: heheheh my daughter ❤️
+                        - generic [ref=e638]:
+                          - button "3 likes" [ref=e639] [cursor=pointer]:
+                            - generic [ref=e641]: 3 likes
+                          - button "Reply" [ref=e642] [cursor=pointer]:
+                            - generic [ref=e644]: Reply
+                      - button "Like" [ref=e649] [cursor=pointer]:
+                        - img "Like" [ref=e652]
+                  - generic [ref=e654]:
+                    - generic [ref=e656]:
+                      - link "clove4ed.leaf's profile picture" [ref=e662] [cursor=pointer]:
+                        - /url: /clove4ed.leaf/
+                        - img "clove4ed.leaf's profile picture" [ref=e663]
+                      - generic [ref=e664]:
+                        - generic [ref=e665]:
+                          - generic [ref=e667]:
+                            - generic [ref=e668]:
+                              - link "clove4ed.leaf" [ref=e673] [cursor=pointer]:
+                                - /url: /clove4ed.leaf/
+                                - generic [ref=e676]: clove4ed.leaf
+                              - link "4w" [ref=e678] [cursor=pointer]:
+                                - /url: /p/DaK4EfOIkzM/c/18323928205273808/
+                                - time [ref=e679]: 4w
+                            - generic [ref=e681]: cute shii 🗿
+                          - generic [ref=e682]:
+                            - button "3 likes" [ref=e683] [cursor=pointer]:
+                              - generic [ref=e685]: 3 likes
+                            - button "Reply" [ref=e686] [cursor=pointer]:
+                              - generic [ref=e688]: Reply
+                        - button "Like" [ref=e693] [cursor=pointer]:
+                          - img "Like" [ref=e696]
+                    - button "View all 1 replies" [ref=e699] [cursor=pointer]:
+                      - generic [ref=e702]: View all 1 replies
+                  - generic [ref=e703]:
+                    - generic [ref=e705]:
+                      - link "abraha.salina's profile picture" [ref=e711] [cursor=pointer]:
+                        - /url: /abraha.salina/
+                        - img "abraha.salina's profile picture" [ref=e712]
+                      - generic [ref=e713]:
+                        - generic [ref=e714]:
+                          - generic [ref=e716]:
+                            - generic [ref=e717]:
+                              - link "abraha.salina" [ref=e722] [cursor=pointer]:
+                                - /url: /abraha.salina/
+                                - generic [ref=e725]: abraha.salina
+                              - link "2w" [ref=e727] [cursor=pointer]:
+                                - /url: /p/DaK4EfOIkzM/c/18480722047096232/
+                                - time [ref=e728]: 2w
+                            - generic [ref=e730]: I remember use that trick back in high school whenever my friends listened to music
+                          - generic [ref=e731]:
+                            - button "3 likes" [ref=e732] [cursor=pointer]:
+                              - generic [ref=e734]: 3 likes
+                            - button "Reply" [ref=e735] [cursor=pointer]:
+                              - generic [ref=e737]: Reply
+                        - button "Like" [ref=e742] [cursor=pointer]:
+                          - img "Like" [ref=e745]
+                    - button "View all 1 replies" [ref=e748] [cursor=pointer]:
+                      - generic [ref=e751]: View all 1 replies
+                  - generic [ref=e754]:
+                    - link "jimyeah7's profile picture" [ref=e760] [cursor=pointer]:
+                      - /url: /jimyeah7/
+                      - img "jimyeah7's profile picture" [ref=e761]
+                    - generic [ref=e762]:
+                      - generic [ref=e763]:
+                        - generic [ref=e764]:
+                          - link "jimyeah7" [ref=e768] [cursor=pointer]:
+                            - /url: /jimyeah7/
+                            - generic [ref=e771]: jimyeah7
+                          - img [ref=e773]
+                        - generic [ref=e774]:
+                          - button "382 likes" [ref=e775] [cursor=pointer]:
+                            - generic [ref=e777]: 382 likes
+                          - button "Reply" [ref=e778] [cursor=pointer]:
+                            - generic [ref=e780]: Reply
+                      - button "Like" [ref=e785] [cursor=pointer]:
+                        - img "Like" [ref=e788]
+                  - generic [ref=e792]:
+                    - link "enoki_sensei's profile picture" [ref=e798] [cursor=pointer]:
+                      - /url: /enoki_sensei/
+                      - img "enoki_sensei's profile picture" [ref=e799]
+                    - generic [ref=e800]:
+                      - generic [ref=e801]:
+                        - generic [ref=e803]:
+                          - generic [ref=e804]:
+                            - link "enoki_sensei" [ref=e809] [cursor=pointer]:
+                              - /url: /enoki_sensei/
+                              - generic [ref=e812]: enoki_sensei
+                            - link "4w" [ref=e814] [cursor=pointer]:
+                              - /url: /p/DaK4EfOIkzM/c/17897727333529989/
+                              - time [ref=e815]: 4w
+                          - generic [ref=e817]: The fact that i also do these with my friends 😂
+                        - generic [ref=e818]:
+                          - button "18 likes" [ref=e819] [cursor=pointer]:
+                            - generic [ref=e821]: 18 likes
+                          - button "Reply" [ref=e822] [cursor=pointer]:
+                            - generic [ref=e824]: Reply
+                      - button "Like" [ref=e829] [cursor=pointer]:
+                        - img "Like" [ref=e832]
+                  - generic [ref=e834]:
+                    - generic [ref=e836]:
+                      - link "ex0verse3tataytia3's profile picture" [ref=e842] [cursor=pointer]:
+                        - /url: /ex0verse3tataytia3/
+                        - img "ex0verse3tataytia3's profile picture" [ref=e843]
+                      - generic [ref=e844]:
+                        - generic [ref=e845]:
+                          - generic [ref=e847]:
+                            - generic [ref=e848]:
+                              - link "ex0verse3tataytia3" [ref=e853] [cursor=pointer]:
+                                - /url: /ex0verse3tataytia3/
+                                - generic [ref=e856]: ex0verse3tataytia3
+                              - link "4w" [ref=e858] [cursor=pointer]:
+                                - /url: /p/DaK4EfOIkzM/c/18096897938595434/
+                                - time [ref=e859]: 4w
+                            - generic [ref=e861]: 😂...the extrovert girl and introverted boy couple is always fun to watch
+                          - generic [ref=e862]:
+                            - button "15 likes" [ref=e863] [cursor=pointer]:
+                              - generic [ref=e865]: 15 likes
+                            - button "Reply" [ref=e866] [cursor=pointer]:
+                              - generic [ref=e868]: Reply
+                        - button "Like" [ref=e873] [cursor=pointer]:
+                          - img "Like" [ref=e876]
+                    - button "View all 1 replies" [ref=e879] [cursor=pointer]:
+                      - generic [ref=e882]: View all 1 replies
+                  - generic [ref=e885]:
+                    - link "bee.28_'s profile picture" [ref=e891] [cursor=pointer]:
+                      - /url: /bee.28_/
+                      - img "bee.28_'s profile picture" [ref=e892]
+                    - generic [ref=e893]:
+                      - generic [ref=e894]:
+                        - generic [ref=e895]:
+                          - link "bee.28_" [ref=e899] [cursor=pointer]:
+                            - /url: /bee.28_/
+                            - generic [ref=e902]: bee.28_
+                          - img [ref=e904]
+                        - generic [ref=e905]:
+                          - button "406 likes" [ref=e906] [cursor=pointer]:
+                            - generic [ref=e908]: 406 likes
+                          - button "Reply" [ref=e909] [cursor=pointer]:
+                            - generic [ref=e911]: Reply
+                      - button "Like" [ref=e916] [cursor=pointer]:
+                        - img "Like" [ref=e919]
+                  - progressbar [ref=e923]:
+                    - img "Loading..." [ref=e924]
+              - generic [ref=e937]:
+                - generic [ref=e938]:
+                  - generic [ref=e939]:
+                    - button "Like" [ref=e942] [cursor=pointer]:
+                      - img "Like" [ref=e945]
+                    - button "70.4K" [ref=e947] [cursor=pointer]
+                    - button "Comment" [ref=e949] [cursor=pointer]:
+                      - img "Comment" [ref=e951]
+                    - button "113" [ref=e953] [cursor=pointer]
+                    - button "Repost" [ref=e954] [cursor=pointer]:
+                      - img "Repost" [ref=e955]
+                    - button "3.9K" [ref=e957] [cursor=pointer]
+                    - button "Share" [ref=e958] [cursor=pointer]:
+                      - img "Share" [ref=e959]
+                  - button "Remove" [ref=e964] [cursor=pointer]:
+                    - button "Remove" [ref=e965]:
+                      - img "Remove" [ref=e967]
+                - link "June 29" [ref=e971] [cursor=pointer]:
+                  - /url: /thenorthroom_/reel/DaK4EfOIkzM/
+                  - time [ref=e973]: June 29
+              - generic [ref=e976]:
+                - link [ref=e977]
+                - generic [ref=e979]:
+                  - button "Emoji" [ref=e981] [cursor=pointer]:
+                    - img "Emoji" [ref=e983]
+                  - textbox "Add a comment…" [ref=e985]
+          - separator [ref=e987]
+          - generic [ref=e988]:
+            - generic [ref=e990]:
+              - text: More posts from
+              - link "thenorthroom_" [ref=e991] [cursor=pointer]:
+                - /url: /thenorthroom_/
+            - generic [ref=e994]:
+              - generic [ref=e995]:
+                - link [ref=e997] [cursor=pointer]:
+                  - /url: /thenorthroom_/reel/Daj_EyIoQOl/
+                  - img [ref=e1000]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=e1003] [cursor=pointer]:
+                  - /url: /thenorthroom_/reel/DamdeYVoIqJ/
+                  - img [ref=e1006]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=e1009] [cursor=pointer]:
+                  - /url: /thenorthroom_/reel/DaHkGhBIk7I/
+                  - img [ref=e1012]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e1014]:
+                - link [ref=e1016] [cursor=pointer]:
+                  - /url: /thenorthroom_/reel/Dae0Qipo-0Y/
+                  - img [ref=e1019]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - link [ref=e1022] [cursor=pointer]:
+                  - /url: /thenorthroom_/reel/DaJLil8INdk/
+                  - img [ref=e1025]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Episode 5 of Chainsmoker Cat pushes Yaniko’s nicotine addiction to even more ridiculous extremes after she runs out of cigarettes. Her desperate search sends her into bizarre situations and hallucinations, blending over-the-top comedy with the darker reality of addiction. The episode also continues to show how the people around her, especially those who care about her, are caught between wanting to help and being frustrated by her inability to change. Like the rest of the series, Episode 5 mixes crude humor, absurd visuals, and surprisingly emotional moments to highlight how addiction affects both the addict and the people closest to them. Anime: Chainsmoker Cat (Yani Neko) © NyanNyanFactory / Kodansha / Chainsmoker Cat Production Committee #anime #animereels #animeclips #yanineko #chainsmokercat Clip" [ref=e1028] [cursor=pointer]':
+                  - /url: /thenorthroom_/reel/DbckgCmq9Hp/
+                  - 'img "Episode 5 of Chainsmoker Cat pushes Yaniko’s nicotine addiction to even more ridiculous extremes after she runs out of cigarettes. Her desperate search sends her into bizarre situations and hallucinations, blending over-the-top comedy with the darker reality of addiction. The episode also continues to show how the people around her, especially those who care about her, are caught between wanting to help and being frustrated by her inability to change. Like the rest of the series, Episode 5 mixes crude humor, absurd visuals, and surprisingly emotional moments to highlight how addiction affects both the addict and the people closest to them. Anime: Chainsmoker Cat (Yani Neko) © NyanNyanFactory / Kodansha / Chainsmoker Cat Production Committee #anime #animereels #animeclips #yanineko #chainsmokercat" [ref=e1031]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+      - contentinfo [ref=e1033]:
+        - generic [ref=e1034]:
+          - generic [ref=e1036]:
+            - link "Meta" [ref=e1038] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e1039]: Meta
+            - link "About" [ref=e1041] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e1042]: About
+            - link "Blog" [ref=e1044] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e1045]: Blog
+            - link "Jobs" [ref=e1047] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e1048]: Jobs
+            - link "Help" [ref=e1050] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e1051]: Help
+            - link "API" [ref=e1053] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e1054]: API
+            - link "Privacy" [ref=e1056] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e1057]: Privacy
+            - link "Terms" [ref=e1059] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e1060]: Terms
+            - link "Locations" [ref=e1062] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e1063]: Locations
+            - link "Popular" [ref=e1065] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e1066]: Popular
+            - link "Instagram Lite" [ref=e1068] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e1069]: Instagram Lite
+            - link "Meta AI" [ref=e1071] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e1072]: Meta AI
+            - link "Threads" [ref=e1074] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e1075]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e1077] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e1078]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e1080] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e1081]: Meta Verified
+          - generic [ref=e1082]:
+            - generic [ref=e1083] [cursor=pointer]:
+              - generic [ref=e1084]:
+                - generic [ref=e1085]: English
+                - img "Down chevron icon" [ref=e1088]
+              - combobox "Switch Display Language" [ref=e1090]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e1092]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e1094] [cursor=pointer]:
+    - generic "Messages" [ref=e1095]:
+      - generic [ref=e1096]:
+        - img "Messages" [ref=e1099]
+        - generic [ref=e1102]: Messages
+      - generic [ref=e1103]:
+        - button "User avatar ¿" [ref=e1105]:
+          - img "User avatar" [ref=e1108]
+        - button "User avatar Mhmd" [ref=e1110]:
+          - img "User avatar" [ref=e1113]
+        - button "User avatar ENERGY BRIDGE" [ref=e1115]:
+          - img "User avatar" [ref=e1118]

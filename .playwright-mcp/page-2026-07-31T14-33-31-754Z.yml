@@ -1,0 +1,625 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                  - img "Audio is muted" [ref=e152]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - button "eybseehater's profile picture" [ref=e162] [cursor=pointer]:
+                  - link "eybseehater's profile picture" [ref=e164]:
+                    - img "eybseehater's profile picture" [ref=e165]
+                - generic [ref=e168]:
+                  - generic [ref=e169]:
+                    - link "eybseehater" [ref=e177] [cursor=pointer]:
+                      - /url: /eybseehater/
+                      - generic [ref=e180]: eybseehater
+                    - link "Original audio" [ref=e184] [cursor=pointer]:
+                      - /url: /reels/audio/27281156338155028/
+                      - generic [ref=e187]: Original audio
+                  - button "Follow" [ref=e189] [cursor=pointer]
+                - button "More options" [ref=e192] [cursor=pointer]:
+                  - img "More options" [ref=e195]
+              - separator [ref=e199]
+              - generic [ref=e201]:
+                - generic [ref=e203]:
+                  - link "eybseehater's profile picture" [ref=e208] [cursor=pointer]:
+                    - /url: /eybseehater/
+                    - img "eybseehater's profile picture" [ref=e209]
+                  - generic [ref=e213]:
+                    - generic [ref=e214]:
+                      - link "eybseehater" [ref=e218] [cursor=pointer]:
+                        - /url: /eybseehater/
+                        - generic [ref=e221]: eybseehater
+                      - time [ref=e223]: 12w
+                    - generic [ref=e224]:
+                      - text: 영원히 내 옆에 있어줘
+                      - link "#piano" [ref=e225] [cursor=pointer]:
+                        - /url: /explore/tags/piano/
+                      - link "#사별" [ref=e226] [cursor=pointer]:
+                        - /url: /explore/tags/%EC%82%AC%EB%B3%84/
+                      - link "#死別" [ref=e227] [cursor=pointer]:
+                        - /url: /explore/tags/%E6%AD%BB%E5%88%A5/
+                - generic [ref=e228]:
+                  - generic [ref=e229]:
+                    - generic [ref=e231]:
+                      - link "jamie_kiichi's profile picture" [ref=e237] [cursor=pointer]:
+                        - /url: /jamie_kiichi/
+                        - img "jamie_kiichi's profile picture" [ref=e238]
+                      - generic [ref=e239]:
+                        - generic [ref=e240]:
+                          - generic [ref=e242]:
+                            - generic [ref=e243]:
+                              - link "jamie_kiichi" [ref=e248] [cursor=pointer]:
+                                - /url: /jamie_kiichi/
+                                - generic [ref=e251]: jamie_kiichi
+                              - link "12w" [ref=e253] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/17862576765685228/
+                                - time [ref=e254]: 12w
+                            - generic [ref=e256]: Song name?
+                          - generic [ref=e257]:
+                            - button "6 likes" [ref=e258] [cursor=pointer]:
+                              - generic [ref=e260]: 6 likes
+                            - button "Reply" [ref=e261] [cursor=pointer]:
+                              - generic [ref=e263]: Reply
+                        - button "Like" [ref=e268] [cursor=pointer]:
+                          - img "Like" [ref=e271]
+                    - button "View all 2 replies" [ref=e274] [cursor=pointer]:
+                      - generic [ref=e277]: View all 2 replies
+                  - generic [ref=e278]:
+                    - generic [ref=e280]:
+                      - link "syoex.1's profile picture" [ref=e286] [cursor=pointer]:
+                        - /url: /syoex.1/
+                        - img "syoex.1's profile picture" [ref=e287]
+                      - generic [ref=e288]:
+                        - generic [ref=e289]:
+                          - generic [ref=e291]:
+                            - generic [ref=e292]:
+                              - link "syoex.1" [ref=e297] [cursor=pointer]:
+                                - /url: /syoex.1/
+                                - generic [ref=e300]: syoex.1
+                              - link "12w" [ref=e302] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/17972911728018842/
+                                - time [ref=e303]: 12w
+                            - generic [ref=e305]: 영원히 언니 옆에 있을게 🫶🏻
+                          - generic [ref=e306]:
+                            - button "57 likes" [ref=e307] [cursor=pointer]:
+                              - generic [ref=e309]: 57 likes
+                            - button "Reply" [ref=e310] [cursor=pointer]:
+                              - generic [ref=e312]: Reply
+                            - button "See translation" [ref=e313] [cursor=pointer]:
+                              - generic [ref=e315]: See translation
+                        - button "Like" [ref=e320] [cursor=pointer]:
+                          - img "Like" [ref=e323]
+                    - button "View all 2 replies" [ref=e326] [cursor=pointer]:
+                      - generic [ref=e329]: View all 2 replies
+                  - generic [ref=e330]:
+                    - generic [ref=e332]:
+                      - link "xamenuung's profile picture" [ref=e338] [cursor=pointer]:
+                        - /url: /xamenuung/
+                        - img "xamenuung's profile picture" [ref=e339]
+                      - generic [ref=e340]:
+                        - generic [ref=e341]:
+                          - generic [ref=e343]:
+                            - generic [ref=e344]:
+                              - link "xamenuung" [ref=e349] [cursor=pointer]:
+                                - /url: /xamenuung/
+                                - generic [ref=e352]: xamenuung
+                              - link "12w" [ref=e354] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/18074463005255226/
+                                - time [ref=e355]: 12w
+                            - generic [ref=e357]: 옆에앉아있는거 접니다
+                          - generic [ref=e358]:
+                            - button "145 likes" [ref=e359] [cursor=pointer]:
+                              - generic [ref=e361]: 145 likes
+                            - button "Reply" [ref=e362] [cursor=pointer]:
+                              - generic [ref=e364]: Reply
+                            - button "See translation" [ref=e365] [cursor=pointer]:
+                              - generic [ref=e367]: See translation
+                        - button "Like" [ref=e372] [cursor=pointer]:
+                          - img "Like" [ref=e375]
+                    - button "View all 2 replies" [ref=e378] [cursor=pointer]:
+                      - generic [ref=e381]: View all 2 replies
+                  - generic [ref=e382]:
+                    - generic [ref=e384]:
+                      - link "anoxmg's profile picture" [ref=e390] [cursor=pointer]:
+                        - /url: /anoxmg/
+                        - img "anoxmg's profile picture" [ref=e391]
+                      - generic [ref=e392]:
+                        - generic [ref=e393]:
+                          - generic [ref=e395]:
+                            - generic [ref=e396]:
+                              - link "anoxmg" [ref=e401] [cursor=pointer]:
+                                - /url: /anoxmg/
+                                - generic [ref=e404]: anoxmg
+                              - link "12w" [ref=e406] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/18113584546883520/
+                                - time [ref=e407]: 12w
+                            - generic [ref=e409]: 알게따 ㅋ
+                          - generic [ref=e410]:
+                            - button "6 likes" [ref=e411] [cursor=pointer]:
+                              - generic [ref=e413]: 6 likes
+                            - button "Reply" [ref=e414] [cursor=pointer]:
+                              - generic [ref=e416]: Reply
+                            - button "See translation" [ref=e417] [cursor=pointer]:
+                              - generic [ref=e419]: See translation
+                        - button "Like" [ref=e424] [cursor=pointer]:
+                          - img "Like" [ref=e427]
+                    - button "View all 1 replies" [ref=e430] [cursor=pointer]:
+                      - generic [ref=e433]: View all 1 replies
+                  - generic [ref=e434]:
+                    - generic [ref=e436]:
+                      - link "mk14thegoat's profile picture" [ref=e442] [cursor=pointer]:
+                        - /url: /mk14thegoat/
+                        - img "mk14thegoat's profile picture" [ref=e443]
+                      - generic [ref=e444]:
+                        - generic [ref=e445]:
+                          - generic [ref=e447]:
+                            - generic [ref=e448]:
+                              - link "mk14thegoat" [ref=e453] [cursor=pointer]:
+                                - /url: /mk14thegoat/
+                                - generic [ref=e456]: mk14thegoat
+                              - link "12w" [ref=e458] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/18102550162770840/
+                                - time [ref=e459]: 12w
+                            - generic [ref=e461]: Song name?
+                          - generic [ref=e462]:
+                            - button "1 like" [ref=e463] [cursor=pointer]:
+                              - generic [ref=e465]: 1 like
+                            - button "Reply" [ref=e466] [cursor=pointer]:
+                              - generic [ref=e468]: Reply
+                        - button "Like" [ref=e473] [cursor=pointer]:
+                          - img "Like" [ref=e476]
+                    - button "View all 2 replies" [ref=e479] [cursor=pointer]:
+                      - generic [ref=e482]: View all 2 replies
+                  - generic [ref=e483]:
+                    - generic [ref=e485]:
+                      - link "arvenn_221's profile picture" [ref=e491] [cursor=pointer]:
+                        - /url: /arvenn_221/
+                        - img "arvenn_221's profile picture" [ref=e492]
+                      - generic [ref=e493]:
+                        - generic [ref=e494]:
+                          - generic [ref=e496]:
+                            - generic [ref=e497]:
+                              - link "arvenn_221" [ref=e502] [cursor=pointer]:
+                                - /url: /arvenn_221/
+                                - generic [ref=e505]: arvenn_221
+                              - link "12w" [ref=e507] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/18060911132650918/
+                                - time [ref=e508]: 12w
+                            - generic [ref=e510]: Song?
+                          - button "Reply" [ref=e512] [cursor=pointer]:
+                            - generic [ref=e514]: Reply
+                        - button "Like" [ref=e519] [cursor=pointer]:
+                          - img "Like" [ref=e522]
+                    - button "View all 2 replies" [ref=e525] [cursor=pointer]:
+                      - generic [ref=e528]: View all 2 replies
+                  - generic [ref=e531]:
+                    - link "m1n._low's profile picture" [ref=e537] [cursor=pointer]:
+                      - /url: /m1n._low/
+                      - img "m1n._low's profile picture" [ref=e538]
+                    - generic [ref=e539]:
+                      - generic [ref=e540]:
+                        - generic [ref=e542]:
+                          - generic [ref=e543]:
+                            - link "m1n._low" [ref=e548] [cursor=pointer]:
+                              - /url: /m1n._low/
+                              - generic [ref=e551]: m1n._low
+                            - link "12w" [ref=e553] [cursor=pointer]:
+                              - /url: /p/DX9TD3AzcB0/c/17960664693096737/
+                              - time [ref=e554]: 12w
+                          - generic [ref=e556]: 허걱 너무 잘하세요오!!!💗☺️
+                        - generic [ref=e557]:
+                          - button "3 likes" [ref=e558] [cursor=pointer]:
+                            - generic [ref=e560]: 3 likes
+                          - button "Reply" [ref=e561] [cursor=pointer]:
+                            - generic [ref=e563]: Reply
+                      - button "Like" [ref=e568] [cursor=pointer]:
+                        - img "Like" [ref=e571]
+                  - generic [ref=e573]:
+                    - generic [ref=e575]:
+                      - link "castle_hyun_l's profile picture" [ref=e581] [cursor=pointer]:
+                        - /url: /castle_hyun_l/
+                        - img "castle_hyun_l's profile picture" [ref=e582]
+                      - generic [ref=e583]:
+                        - generic [ref=e584]:
+                          - generic [ref=e586]:
+                            - generic [ref=e587]:
+                              - link "castle_hyun_l" [ref=e592] [cursor=pointer]:
+                                - /url: /castle_hyun_l/
+                                - generic [ref=e595]: castle_hyun_l
+                              - link "12w" [ref=e597] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/18073767716271744/
+                                - time [ref=e598]: 12w
+                            - generic [ref=e600]: 이건 어디서 나오는 노래인가요?
+                          - generic [ref=e601]:
+                            - button "4 likes" [ref=e602] [cursor=pointer]:
+                              - generic [ref=e604]: 4 likes
+                            - button "Reply" [ref=e605] [cursor=pointer]:
+                              - generic [ref=e607]: Reply
+                        - button "Like" [ref=e612] [cursor=pointer]:
+                          - img "Like" [ref=e615]
+                    - button "View all 5 replies" [ref=e618] [cursor=pointer]:
+                      - generic [ref=e621]: View all 5 replies
+                  - generic [ref=e624]:
+                    - link "_eqxzil's profile picture" [ref=e630] [cursor=pointer]:
+                      - /url: /_eqxzil/
+                      - img "_eqxzil's profile picture" [ref=e631]
+                    - generic [ref=e632]:
+                      - generic [ref=e633]:
+                        - generic [ref=e635]:
+                          - generic [ref=e636]:
+                            - link "_eqxzil" [ref=e641] [cursor=pointer]:
+                              - /url: /_eqxzil/
+                              - generic [ref=e644]: _eqxzil
+                            - link "12w" [ref=e646] [cursor=pointer]:
+                              - /url: /p/DX9TD3AzcB0/c/18042937706785943/
+                              - time [ref=e647]: 12w
+                          - generic [ref=e649]: 1빠1빠 사랑해요 ㅠㅠ
+                        - generic [ref=e650]:
+                          - button "5 likes" [ref=e651] [cursor=pointer]:
+                            - generic [ref=e653]: 5 likes
+                          - button "Reply" [ref=e654] [cursor=pointer]:
+                            - generic [ref=e656]: Reply
+                      - button "Like" [ref=e661] [cursor=pointer]:
+                        - img "Like" [ref=e664]
+                  - generic [ref=e666]:
+                    - generic [ref=e668]:
+                      - link "easy_one77's profile picture" [ref=e674] [cursor=pointer]:
+                        - /url: /easy_one77/
+                        - img "easy_one77's profile picture" [ref=e675]
+                      - generic [ref=e676]:
+                        - generic [ref=e677]:
+                          - generic [ref=e679]:
+                            - generic [ref=e680]:
+                              - link "easy_one77" [ref=e685] [cursor=pointer]:
+                                - /url: /easy_one77/
+                                - generic [ref=e688]: easy_one77
+                              - link "12w" [ref=e690] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/17975279523009029/
+                                - time [ref=e691]: 12w
+                            - generic [ref=e693]: 헐 이거 뭔 노래지 노래 좋눙
+                          - generic [ref=e694]:
+                            - button "Reply" [ref=e695] [cursor=pointer]:
+                              - generic [ref=e697]: Reply
+                            - button "See translation" [ref=e698] [cursor=pointer]:
+                              - generic [ref=e700]: See translation
+                        - button "Like" [ref=e705] [cursor=pointer]:
+                          - img "Like" [ref=e708]
+                    - button "View all 4 replies" [ref=e711] [cursor=pointer]:
+                      - generic [ref=e714]: View all 4 replies
+                  - generic [ref=e717]:
+                    - link "hdjv_0703's profile picture" [ref=e723] [cursor=pointer]:
+                      - /url: /hdjv_0703/
+                      - img "hdjv_0703's profile picture" [ref=e724]
+                    - generic [ref=e725]:
+                      - generic [ref=e726]:
+                        - generic [ref=e728]:
+                          - generic [ref=e729]:
+                            - link "hdjv_0703" [ref=e734] [cursor=pointer]:
+                              - /url: /hdjv_0703/
+                              - generic [ref=e737]: hdjv_0703
+                            - link "12w" [ref=e739] [cursor=pointer]:
+                              - /url: /p/DX9TD3AzcB0/c/17922830910127981/
+                              - time [ref=e740]: 12w
+                          - generic [ref=e742]: 너무 노래가 이뻐요!
+                        - generic [ref=e743]:
+                          - button "1 like" [ref=e744] [cursor=pointer]:
+                            - generic [ref=e746]: 1 like
+                          - button "Reply" [ref=e747] [cursor=pointer]:
+                            - generic [ref=e749]: Reply
+                      - button "Like" [ref=e754] [cursor=pointer]:
+                        - img "Like" [ref=e757]
+                  - generic [ref=e759]:
+                    - generic [ref=e761]:
+                      - link "jxnu_ko13's profile picture" [ref=e767] [cursor=pointer]:
+                        - /url: /jxnu_ko13/
+                        - img "jxnu_ko13's profile picture" [ref=e768]
+                      - generic [ref=e769]:
+                        - generic [ref=e770]:
+                          - generic [ref=e772]:
+                            - generic [ref=e773]:
+                              - link "jxnu_ko13" [ref=e778] [cursor=pointer]:
+                                - /url: /jxnu_ko13/
+                                - generic [ref=e781]: jxnu_ko13
+                              - link "12w" [ref=e783] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/17919575745144064/
+                                - time [ref=e784]: 12w
+                            - generic [ref=e786]: 노래이름뭐임??
+                          - button "Reply" [ref=e788] [cursor=pointer]:
+                            - generic [ref=e790]: Reply
+                        - button "Like" [ref=e795] [cursor=pointer]:
+                          - img "Like" [ref=e798]
+                    - button "View all 2 replies" [ref=e801] [cursor=pointer]:
+                      - generic [ref=e804]: View all 2 replies
+                  - generic [ref=e805]:
+                    - generic [ref=e807]:
+                      - link "mat_turuuu's profile picture" [ref=e813] [cursor=pointer]:
+                        - /url: /mat_turuuu/
+                        - img "mat_turuuu's profile picture" [ref=e814]
+                      - generic [ref=e815]:
+                        - generic [ref=e816]:
+                          - generic [ref=e818]:
+                            - generic [ref=e819]:
+                              - link "mat_turuuu" [ref=e824] [cursor=pointer]:
+                                - /url: /mat_turuuu/
+                                - generic [ref=e827]: mat_turuuu
+                              - link "12w" [ref=e829] [cursor=pointer]:
+                                - /url: /p/DX9TD3AzcB0/c/18104255768090856/
+                                - time [ref=e830]: 12w
+                            - generic [ref=e832]: Song?
+                          - generic [ref=e833]:
+                            - button "1 like" [ref=e834] [cursor=pointer]:
+                              - generic [ref=e836]: 1 like
+                            - button "Reply" [ref=e837] [cursor=pointer]:
+                              - generic [ref=e839]: Reply
+                        - button "Like" [ref=e844] [cursor=pointer]:
+                          - img "Like" [ref=e847]
+                    - button "View all 2 replies" [ref=e850] [cursor=pointer]:
+                      - generic [ref=e853]: View all 2 replies
+                  - generic [ref=e856]:
+                    - link "o2.xzn's profile picture" [ref=e862] [cursor=pointer]:
+                      - /url: /o2.xzn/
+                      - img "o2.xzn's profile picture" [ref=e863]
+                    - generic [ref=e864]:
+                      - generic [ref=e865]:
+                        - generic [ref=e867]:
+                          - generic [ref=e868]:
+                            - link "o2.xzn" [ref=e873] [cursor=pointer]:
+                              - /url: /o2.xzn/
+                              - generic [ref=e876]: o2.xzn
+                            - link "12w" [ref=e878] [cursor=pointer]:
+                              - /url: /p/DX9TD3AzcB0/c/17974755135043538/
+                              - time [ref=e879]: 12w
+                          - generic [ref=e881]: 그럴게요❤️❤️❤️
+                        - generic [ref=e882]:
+                          - button "2 likes" [ref=e883] [cursor=pointer]:
+                            - generic [ref=e885]: 2 likes
+                          - button "Reply" [ref=e886] [cursor=pointer]:
+                            - generic [ref=e888]: Reply
+                          - button "See translation" [ref=e889] [cursor=pointer]:
+                            - generic [ref=e891]: See translation
+                      - button "Like" [ref=e896] [cursor=pointer]:
+                        - img "Like" [ref=e899]
+                  - generic [ref=e903]:
+                    - link "ena_wrt's profile picture" [ref=e909] [cursor=pointer]:
+                      - /url: /ena_wrt/
+                      - img "ena_wrt's profile picture" [ref=e910]
+                    - generic [ref=e911]:
+                      - generic [ref=e912]:
+                        - generic [ref=e914]:
+                          - generic [ref=e915]:
+                            - link "ena_wrt" [ref=e920] [cursor=pointer]:
+                              - /url: /ena_wrt/
+                              - generic [ref=e923]: ena_wrt
+                            - link "12w" [ref=e925] [cursor=pointer]:
+                              - /url: /p/DX9TD3AzcB0/c/18117488887737433/
+                              - time [ref=e926]: 12w
+                          - generic [ref=e928]: 좋아요 언니옆에 있을래요
+                        - generic [ref=e929]:
+                          - button "6 likes" [ref=e930] [cursor=pointer]:
+                            - generic [ref=e932]: 6 likes
+                          - button "Reply" [ref=e933] [cursor=pointer]:
+                            - generic [ref=e935]: Reply
+                          - button "See translation" [ref=e936] [cursor=pointer]:
+                            - generic [ref=e938]: See translation
+                      - button "Like" [ref=e943] [cursor=pointer]:
+                        - img "Like" [ref=e946]
+                  - progressbar [ref=e950]:
+                    - img "Loading..." [ref=e951]
+              - generic [ref=e964]:
+                - generic [ref=e965]:
+                  - generic [ref=e966]:
+                    - button "Like" [ref=e969] [cursor=pointer]:
+                      - img "Like" [ref=e972]
+                    - button "30.2K" [ref=e974] [cursor=pointer]
+                    - button "Comment" [ref=e976] [cursor=pointer]:
+                      - img "Comment" [ref=e978]
+                    - button "151" [ref=e980] [cursor=pointer]
+                    - button "Repost" [ref=e981] [cursor=pointer]:
+                      - img "Repost" [ref=e982]
+                    - button "2.1K" [ref=e984] [cursor=pointer]
+                    - button "Share" [ref=e985] [cursor=pointer]:
+                      - img "Share" [ref=e986]
+                  - button "Remove" [ref=e991] [cursor=pointer]:
+                    - button "Remove" [ref=e992]:
+                      - img "Remove" [ref=e994]
+                - link "May 5" [ref=e998] [cursor=pointer]:
+                  - /url: /eybseehater/reel/DX9TD3AzcB0/
+                  - time [ref=e1000]: May 5
+              - generic [ref=e1003]:
+                - link [ref=e1004]
+                - generic [ref=e1006]:
+                  - button "Emoji" [ref=e1008] [cursor=pointer]:
+                    - img "Emoji" [ref=e1010]
+                  - textbox "Add a comment…" [ref=e1012]
+          - separator [ref=e1014]
+          - generic [ref=e1015]:
+            - generic [ref=e1017]:
+              - text: More posts from
+              - link "eybseehater" [ref=e1018] [cursor=pointer]:
+                - /url: /eybseehater/
+            - generic [ref=e1021]:
+              - generic [ref=e1022]:
+                - link "급하게 만들어서 밤티인 점 양해 부탁드림다" [ref=e1024] [cursor=pointer]:
+                  - /url: /eybseehater/p/DXWVcHFj42O/
+                  - img "급하게 만들어서 밤티인 점 양해 부탁드림다" [ref=e1027]
+                - 'link "Ep.16 그 유명한 절대음감 갈려나가는 입시생님을 모셔왔습니다👀 🎥: @eybseehater 참고로 원래 이 이름으로 쭉 활동할 생각은 아니였는데… 생각보다 많이 떠버리는 바람에 그냥 이렇게 살고 있다고 합니다 👀 #틴플 #중학생 #고등학생 #피아노 #갈려나가는입시생 Carousel" [ref=e1030] [cursor=pointer]':
+                  - /url: /teenple/p/Dah4ifsk-lo/
+                  - 'img "Ep.16 그 유명한 절대음감 갈려나가는 입시생님을 모셔왔습니다👀 🎥: @eybseehater 참고로 원래 이 이름으로 쭉 활동할 생각은 아니였는데… 생각보다 많이 떠버리는 바람에 그냥 이렇게 살고 있다고 합니다 👀 #틴플 #중학생 #고등학생 #피아노 #갈려나가는입시생" [ref=e1033]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+                - link "Carousel" [ref=e1036] [cursor=pointer]:
+                  - /url: /eybseehater/p/DaafQRKD90a/
+                  - img [ref=e1039]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Carousel"
+              - link "이런 게시물 올리면 좋아해 줄 거야? Carousel" [ref=e1043] [cursor=pointer]:
+                - /url: /eybseehater/p/DYJhYoyjx7c/
+                - img "이런 게시물 올리면 좋아해 줄 거야?" [ref=e1046]
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Carousel"
+      - contentinfo [ref=e1050]:
+        - generic [ref=e1051]:
+          - generic [ref=e1053]:
+            - link "Meta" [ref=e1055] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e1056]: Meta
+            - link "About" [ref=e1058] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e1059]: About
+            - link "Blog" [ref=e1061] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e1062]: Blog
+            - link "Jobs" [ref=e1064] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e1065]: Jobs
+            - link "Help" [ref=e1067] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e1068]: Help
+            - link "API" [ref=e1070] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e1071]: API
+            - link "Privacy" [ref=e1073] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e1074]: Privacy
+            - link "Terms" [ref=e1076] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e1077]: Terms
+            - link "Locations" [ref=e1079] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e1080]: Locations
+            - link "Popular" [ref=e1082] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e1083]: Popular
+            - link "Instagram Lite" [ref=e1085] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e1086]: Instagram Lite
+            - link "Meta AI" [ref=e1088] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e1089]: Meta AI
+            - link "Threads" [ref=e1091] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e1092]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e1094] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e1095]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e1097] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e1098]: Meta Verified
+          - generic [ref=e1099]:
+            - generic [ref=e1100] [cursor=pointer]:
+              - generic [ref=e1101]:
+                - generic [ref=e1102]: English
+                - img "Down chevron icon" [ref=e1105]
+              - combobox "Switch Display Language" [ref=e1107]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e1109]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e1111] [cursor=pointer]:
+    - generic "Messages" [ref=e1112]:
+      - generic [ref=e1113]:
+        - img "Messages" [ref=e1116]
+        - generic [ref=e1119]: Messages
+      - generic [ref=e1120]:
+        - button "User avatar ¿" [ref=e1122]:
+          - img "User avatar" [ref=e1125]
+        - button "User avatar Mhmd" [ref=e1127]:
+          - img "User avatar" [ref=e1130]
+        - button "User avatar ENERGY BRIDGE" [ref=e1132]:
+          - img "User avatar" [ref=e1135]

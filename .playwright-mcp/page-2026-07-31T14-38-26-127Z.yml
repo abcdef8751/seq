@@ -1,0 +1,581 @@
+- generic [ref=e4]:
+  - generic [ref=e7]:
+    - generic [ref=e9]:
+      - generic [ref=e12]:
+        - link "Instagram" [ref=e17] [cursor=pointer]:
+          - /url: /
+          - img "Instagram" [ref=e22]
+        - generic [ref=e25]:
+          - link "Home" [ref=e30] [cursor=pointer]:
+            - /url: /
+            - img "Home" [ref=e35]
+          - link "Reels" [ref=e40] [cursor=pointer]:
+            - /url: /reels/
+            - img "Reels" [ref=e45]
+          - link "Messages" [ref=e52] [cursor=pointer]:
+            - /url: /direct/inbox/
+            - img "Messages" [ref=e57]
+          - link "Search" [ref=e63] [cursor=pointer]:
+            - /url: /explore/
+            - img "Search" [ref=e68]
+          - link "Notifications" [ref=e75] [cursor=pointer]:
+            - /url: "#"
+            - img "Notifications" [ref=e80]
+          - link "New post" [ref=e86] [cursor=pointer]:
+            - /url: "#"
+            - img "New post" [ref=e91]
+          - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+            - /url: /sq98250/
+            - link "sq98250's profile picture" [ref=e102]:
+              - img "sq98250's profile picture" [ref=e103]
+        - generic [ref=e104]:
+          - link "Settings" [ref=e107] [cursor=pointer]:
+            - /url: "#"
+            - img "Settings" [ref=e112]
+          - link "Also from Meta" [ref=e115] [cursor=pointer]:
+            - /url: "#"
+            - img "Also from Meta" [ref=e120]
+      - generic [ref=e123]:
+        - main [ref=e124]:
+          - generic [ref=e125]:
+            - generic [ref=e127]:
+              - group "Video player" [ref=e146]:
+                - slider "Adjust volume" [ref=e147]:
+                  - button "Audio is muted" [ref=e151] [cursor=pointer]:
+                    - img "Audio is muted" [ref=e152]
+              - generic [ref=e155]:
+                - generic [ref=e157]:
+                  - button "_aadi_0_0_77's profile picture" [disabled] [ref=e162]:
+                    - link "_aadi_0_0_77's profile picture" [disabled] [ref=e164] [cursor=pointer]:
+                      - img "_aadi_0_0_77's profile picture" [ref=e165]
+                  - generic [ref=e168]:
+                    - generic [ref=e169]:
+                      - link "_aadi_0_0_77" [ref=e177] [cursor=pointer]:
+                        - /url: /_aadi_0_0_77/
+                        - generic [ref=e180]: _aadi_0_0_77
+                      - link "Original audio" [ref=e184] [cursor=pointer]:
+                        - /url: /reels/audio/27538570582398512/
+                        - generic [ref=e187]: Original audio
+                    - button "Follow" [ref=e189] [cursor=pointer]
+                  - button "More options" [ref=e192] [cursor=pointer]:
+                    - img "More options" [ref=e195]
+                - separator [ref=e199]
+                - generic [ref=e201]:
+                  - generic [ref=e203]:
+                    - link "_aadi_0_0_77's profile picture" [ref=e208] [cursor=pointer]:
+                      - /url: /_aadi_0_0_77/
+                      - img "_aadi_0_0_77's profile picture" [ref=e209]
+                    - generic [ref=e213]:
+                      - generic [ref=e214]:
+                        - link "_aadi_0_0_77" [ref=e218] [cursor=pointer]:
+                          - /url: /_aadi_0_0_77/
+                          - generic [ref=e221]: _aadi_0_0_77
+                        - time [ref=e223]: 14w
+                      - generic [ref=e224]:
+                        - text: 🎬Anime movie:-"Josee, the Tiger and the Fish"
+                        - text: It is a poignant coming- of-age story that follows the unlikely relationship between a university student and a young woman with a disability.
+                        - text: Originally a 1984 short story by "Seiko Tanabe", it has since been adapted into several formats, most notably a 2003 live-action film and a critically acclaimed 2020 animated film produced by "Studio BONES".
+                  - generic [ref=e225]:
+                    - generic [ref=e226]:
+                      - generic [ref=e228]:
+                        - link "fq_re1's profile picture" [ref=e234] [cursor=pointer]:
+                          - /url: /fq_re1/
+                          - img "fq_re1's profile picture" [ref=e235]
+                        - generic [ref=e236]:
+                          - generic [ref=e237]:
+                            - generic [ref=e239]:
+                              - generic [ref=e240]:
+                                - link "fq_re1" [ref=e245] [cursor=pointer]:
+                                  - /url: /fq_re1/
+                                  - generic [ref=e248]: fq_re1
+                                - link "13w" [ref=e250] [cursor=pointer]:
+                                  - /url: /p/DXUlXbEPk-a/c/18095720860927547/
+                                  - time [ref=e251]: 13w
+                              - generic [ref=e253]: Please consider watching "Ride Your Wave" if u find this movie interesting
+                            - generic [ref=e254]:
+                              - button "25 likes" [ref=e255] [cursor=pointer]:
+                                - generic [ref=e257]: 25 likes
+                              - button "Reply" [ref=e258] [cursor=pointer]:
+                                - generic [ref=e260]: Reply
+                              - button "Comment Options" [ref=e261] [cursor=pointer]:
+                                - img "Comment Options" [ref=e264]
+                          - button "Like" [ref=e272] [cursor=pointer]:
+                            - img "Like" [ref=e275]
+                      - button "View all 2 replies" [ref=e278] [cursor=pointer]:
+                        - generic [ref=e281]: View all 2 replies
+                    - generic [ref=e282]:
+                      - generic [ref=e284]:
+                        - link "didi91943's profile picture" [ref=e290] [cursor=pointer]:
+                          - /url: /didi91943/
+                          - img "didi91943's profile picture" [ref=e291]
+                        - generic [ref=e292]:
+                          - generic [ref=e293]:
+                            - generic [ref=e295]:
+                              - generic [ref=e296]:
+                                - link "didi91943" [ref=e301] [cursor=pointer]:
+                                  - /url: /didi91943/
+                                  - generic [ref=e304]: didi91943
+                                - link "11w" [ref=e306] [cursor=pointer]:
+                                  - /url: /p/DXUlXbEPk-a/c/18103142402057257/
+                                  - time [ref=e307]: 11w
+                              - generic [ref=e309]: como se llama la musica ???
+                            - generic [ref=e310]:
+                              - button "3 likes" [ref=e311] [cursor=pointer]:
+                                - generic [ref=e313]: 3 likes
+                              - button "Reply" [ref=e314] [cursor=pointer]:
+                                - generic [ref=e316]: Reply
+                              - button "See translation" [ref=e317] [cursor=pointer]:
+                                - generic [ref=e319]: See translation
+                          - button "Like" [ref=e324] [cursor=pointer]:
+                            - img "Like" [ref=e327]
+                      - button "View all 1 replies" [ref=e330] [cursor=pointer]:
+                        - generic [ref=e333]: View all 1 replies
+                    - generic [ref=e334]:
+                      - generic [ref=e336]:
+                        - link "juaquinoswaldo_17's profile picture" [ref=e342] [cursor=pointer]:
+                          - /url: /juaquinoswaldo_17/
+                          - img "juaquinoswaldo_17's profile picture" [ref=e343]
+                        - generic [ref=e344]:
+                          - generic [ref=e345]:
+                            - generic [ref=e347]:
+                              - generic [ref=e348]:
+                                - link "juaquinoswaldo_17" [ref=e353] [cursor=pointer]:
+                                  - /url: /juaquinoswaldo_17/
+                                  - generic [ref=e356]: juaquinoswaldo_17
+                                - link "6w" [ref=e358] [cursor=pointer]:
+                                  - /url: /p/DXUlXbEPk-a/c/18087952205633319/
+                                  - time [ref=e359]: 6w
+                              - generic [ref=e361]: Anime name?pelis
+                            - generic [ref=e362]:
+                              - button "1 like" [ref=e363] [cursor=pointer]:
+                                - generic [ref=e365]: 1 like
+                              - button "Reply" [ref=e366] [cursor=pointer]:
+                                - generic [ref=e368]: Reply
+                          - button "Like" [ref=e373] [cursor=pointer]:
+                            - img "Like" [ref=e376]
+                      - button "View all 1 replies" [ref=e379] [cursor=pointer]:
+                        - generic [ref=e382]: View all 1 replies
+                    - generic [ref=e383]:
+                      - generic [ref=e385]:
+                        - link "jhngs_jj's profile picture" [ref=e391] [cursor=pointer]:
+                          - /url: /jhngs_jj/
+                          - img "jhngs_jj's profile picture" [ref=e392]
+                        - generic [ref=e393]:
+                          - generic [ref=e394]:
+                            - generic [ref=e396]:
+                              - generic [ref=e397]:
+                                - link "jhngs_jj" [ref=e402] [cursor=pointer]:
+                                  - /url: /jhngs_jj/
+                                  - generic [ref=e405]: jhngs_jj
+                                - link "14w" [ref=e407] [cursor=pointer]:
+                                  - /url: /p/DXUlXbEPk-a/c/18103644673939375/
+                                  - time [ref=e408]: 14w
+                              - generic [ref=e410]: Beautiful anime❤️🙌
+                            - generic [ref=e411]:
+                              - button "9 likes" [ref=e412] [cursor=pointer]:
+                                - generic [ref=e414]: 9 likes
+                              - button "Reply" [ref=e415] [cursor=pointer]:
+                                - generic [ref=e417]: Reply
+                          - button "Like" [ref=e422] [cursor=pointer]:
+                            - img "Like" [ref=e425]
+                      - button "View all 1 replies" [ref=e428] [cursor=pointer]:
+                        - generic [ref=e431]: View all 1 replies
+                    - generic [ref=e434]:
+                      - link "ibraim0228's profile picture" [ref=e440] [cursor=pointer]:
+                        - /url: /ibraim0228/
+                        - img "ibraim0228's profile picture" [ref=e441]
+                      - generic [ref=e442]:
+                        - generic [ref=e443]:
+                          - generic [ref=e444]:
+                            - link "ibraim0228" [ref=e448] [cursor=pointer]:
+                              - /url: /ibraim0228/
+                              - generic [ref=e451]: ibraim0228
+                            - img [ref=e453]
+                          - generic [ref=e454]:
+                            - button "396 likes" [ref=e455] [cursor=pointer]:
+                              - generic [ref=e457]: 396 likes
+                            - button "Reply" [ref=e458] [cursor=pointer]:
+                              - generic [ref=e460]: Reply
+                        - button "Like" [ref=e465] [cursor=pointer]:
+                          - img "Like" [ref=e468]
+                    - generic [ref=e470]:
+                      - generic [ref=e472]:
+                        - link "ahjsd73's profile picture" [ref=e478] [cursor=pointer]:
+                          - /url: /ahjsd73/
+                          - img "ahjsd73's profile picture" [ref=e479]
+                        - generic [ref=e480]:
+                          - generic [ref=e481]:
+                            - generic [ref=e482]:
+                              - link "ahjsd73" [ref=e486] [cursor=pointer]:
+                                - /url: /ahjsd73/
+                                - generic [ref=e489]: ahjsd73
+                              - img [ref=e491]
+                            - generic [ref=e492]:
+                              - button "99 likes" [ref=e493] [cursor=pointer]:
+                                - generic [ref=e495]: 99 likes
+                              - button "Reply" [ref=e496] [cursor=pointer]:
+                                - generic [ref=e498]: Reply
+                          - button "Like" [ref=e503] [cursor=pointer]:
+                            - img "Like" [ref=e506]
+                      - button "View all 1 replies" [ref=e509] [cursor=pointer]:
+                        - generic [ref=e512]: View all 1 replies
+                    - generic [ref=e515]:
+                      - link "sorah_0808's profile picture" [ref=e521] [cursor=pointer]:
+                        - /url: /sorah_0808/
+                        - img "sorah_0808's profile picture" [ref=e522]
+                      - generic [ref=e523]:
+                        - generic [ref=e524]:
+                          - generic [ref=e526]:
+                            - generic [ref=e527]:
+                              - link "sorah_0808" [ref=e532] [cursor=pointer]:
+                                - /url: /sorah_0808/
+                                - generic [ref=e535]: sorah_0808
+                              - link "8w" [ref=e537] [cursor=pointer]:
+                                - /url: /p/DXUlXbEPk-a/c/18089864723360748/
+                                - time [ref=e538]: 8w
+                            - generic [ref=e540]: Thats meeee
+                          - generic [ref=e541]:
+                            - button "5 likes" [ref=e542] [cursor=pointer]:
+                              - generic [ref=e544]: 5 likes
+                            - button "Reply" [ref=e545] [cursor=pointer]:
+                              - generic [ref=e547]: Reply
+                        - button "Like" [ref=e552] [cursor=pointer]:
+                          - img "Like" [ref=e555]
+                    - generic [ref=e559]:
+                      - link "kargadan_tp's profile picture" [ref=e565] [cursor=pointer]:
+                        - /url: /kargadan_tp/
+                        - img "kargadan_tp's profile picture" [ref=e566]
+                      - generic [ref=e567]:
+                        - generic [ref=e568]:
+                          - generic [ref=e569]:
+                            - link "kargadan_tp" [ref=e573] [cursor=pointer]:
+                              - /url: /kargadan_tp/
+                              - generic [ref=e576]: kargadan_tp
+                            - img [ref=e578]
+                          - generic [ref=e579]:
+                            - button "17 likes" [ref=e580] [cursor=pointer]:
+                              - generic [ref=e582]: 17 likes
+                            - button "Reply" [ref=e583] [cursor=pointer]:
+                              - generic [ref=e585]: Reply
+                        - button "Like" [ref=e590] [cursor=pointer]:
+                          - img "Like" [ref=e593]
+                    - generic [ref=e597]:
+                      - link "its_jahid_63's profile picture" [ref=e603] [cursor=pointer]:
+                        - /url: /its_jahid_63/
+                        - img "its_jahid_63's profile picture" [ref=e604]
+                      - generic [ref=e605]:
+                        - generic [ref=e606]:
+                          - generic [ref=e607]:
+                            - link "its_jahid_63" [ref=e611] [cursor=pointer]:
+                              - /url: /its_jahid_63/
+                              - generic [ref=e614]: its_jahid_63
+                            - img [ref=e616]
+                          - generic [ref=e617]:
+                            - button "8 likes" [ref=e618] [cursor=pointer]:
+                              - generic [ref=e620]: 8 likes
+                            - button "Reply" [ref=e621] [cursor=pointer]:
+                              - generic [ref=e623]: Reply
+                        - button "Like" [ref=e628] [cursor=pointer]:
+                          - img "Like" [ref=e631]
+                    - generic [ref=e635]:
+                      - link "v_1jiv's profile picture" [ref=e641] [cursor=pointer]:
+                        - /url: /v_1jiv/
+                        - img "v_1jiv's profile picture" [ref=e642]
+                      - generic [ref=e643]:
+                        - generic [ref=e644]:
+                          - generic [ref=e646]:
+                            - generic [ref=e647]:
+                              - link "v_1jiv" [ref=e652] [cursor=pointer]:
+                                - /url: /v_1jiv/
+                                - generic [ref=e655]: v_1jiv
+                              - link "12w" [ref=e657] [cursor=pointer]:
+                                - /url: /p/DXUlXbEPk-a/c/18088778594363143/
+                                - time [ref=e658]: 12w
+                            - generic [ref=e660]: مع اني متابع اني رومانسي الي هذا استثناء 🌹
+                          - generic [ref=e661]:
+                            - button "5 likes" [ref=e662] [cursor=pointer]:
+                              - generic [ref=e664]: 5 likes
+                            - button "Reply" [ref=e665] [cursor=pointer]:
+                              - generic [ref=e667]: Reply
+                            - button "See translation" [ref=e668] [cursor=pointer]:
+                              - generic [ref=e670]: See translation
+                        - button "Like" [ref=e675] [cursor=pointer]:
+                          - img "Like" [ref=e678]
+                    - generic [ref=e682]:
+                      - link "chris.deren's profile picture" [ref=e688] [cursor=pointer]:
+                        - /url: /chris.deren/
+                        - img "chris.deren's profile picture" [ref=e689]
+                      - generic [ref=e690]:
+                        - generic [ref=e691]:
+                          - generic [ref=e692]:
+                            - link "chris.deren" [ref=e696] [cursor=pointer]:
+                              - /url: /chris.deren/
+                              - generic [ref=e699]: chris.deren
+                            - img [ref=e701]
+                          - generic [ref=e702]:
+                            - button "3 likes" [ref=e703] [cursor=pointer]:
+                              - generic [ref=e705]: 3 likes
+                            - button "Reply" [ref=e706] [cursor=pointer]:
+                              - generic [ref=e708]: Reply
+                        - button "Like" [ref=e713] [cursor=pointer]:
+                          - img "Like" [ref=e716]
+                    - generic [ref=e720]:
+                      - link "matheuz1n_x's profile picture" [ref=e726] [cursor=pointer]:
+                        - /url: /matheuz1n_x/
+                        - img "matheuz1n_x's profile picture" [ref=e727]
+                      - generic [ref=e728]:
+                        - generic [ref=e729]:
+                          - generic [ref=e730]:
+                            - link "matheuz1n_x" [ref=e734] [cursor=pointer]:
+                              - /url: /matheuz1n_x/
+                              - generic [ref=e737]: matheuz1n_x
+                            - img [ref=e739]
+                          - generic [ref=e740]:
+                            - button "1 like" [ref=e741] [cursor=pointer]:
+                              - generic [ref=e743]: 1 like
+                            - button "Reply" [ref=e744] [cursor=pointer]:
+                              - generic [ref=e746]: Reply
+                        - button "Like" [ref=e751] [cursor=pointer]:
+                          - img "Like" [ref=e754]
+                    - generic [ref=e758]:
+                      - link "g6m8n's profile picture" [ref=e764] [cursor=pointer]:
+                        - /url: /g6m8n/
+                        - img "g6m8n's profile picture" [ref=e765]
+                      - generic [ref=e766]:
+                        - generic [ref=e767]:
+                          - generic [ref=e768]:
+                            - link "g6m8n" [ref=e772] [cursor=pointer]:
+                              - /url: /g6m8n/
+                              - generic [ref=e775]: g6m8n
+                            - img [ref=e777]
+                          - generic [ref=e778]:
+                            - button "2 likes" [ref=e779] [cursor=pointer]:
+                              - generic [ref=e781]: 2 likes
+                            - button "Reply" [ref=e782] [cursor=pointer]:
+                              - generic [ref=e784]: Reply
+                        - button "Like" [ref=e789] [cursor=pointer]:
+                          - img "Like" [ref=e792]
+                    - progressbar [ref=e796]:
+                      - img "Loading..." [ref=e797]
+                - generic [ref=e810]:
+                  - generic [ref=e811]:
+                    - generic [ref=e812]:
+                      - button "Like" [ref=e815] [cursor=pointer]:
+                        - img "Like" [ref=e818]
+                      - button "91.5K" [ref=e820] [cursor=pointer]
+                      - button "Comment" [ref=e822] [cursor=pointer]:
+                        - img "Comment" [ref=e824]
+                      - button "368" [ref=e826] [cursor=pointer]
+                      - button "Repost" [ref=e827] [cursor=pointer]:
+                        - img "Repost" [ref=e828]
+                      - button "9.4K" [ref=e830] [cursor=pointer]
+                      - button "Share" [ref=e831] [cursor=pointer]:
+                        - img "Share" [ref=e832]
+                    - button "Remove" [ref=e837] [cursor=pointer]:
+                      - button "Remove" [ref=e838]:
+                        - img "Remove" [ref=e840]
+                  - link "April 19" [ref=e844] [cursor=pointer]:
+                    - /url: /_aadi_0_0_77/reel/DXUlXbEPk-a/
+                    - time [ref=e846]: April 19
+                - generic [ref=e849]:
+                  - link [ref=e850]
+                  - generic [ref=e852]:
+                    - button "Emoji" [ref=e854] [cursor=pointer]:
+                      - img "Emoji" [ref=e856]
+                    - textbox "Add a comment…" [ref=e858]
+            - separator [ref=e860]
+            - generic [ref=e861]:
+              - generic [ref=e863]:
+                - text: More posts from
+                - link "_aadi_0_0_77" [ref=e864] [cursor=pointer]:
+                  - /url: /_aadi_0_0_77/
+              - generic [ref=e867]:
+                - generic [ref=e868]:
+                  - link "🎬Anime movie:- \"100 Meters\" It is an existential sports anime that follows Togashi, a naturally gifted sprinter, and Komiya, a socially isolated underdog. Their chance encounter creates a fierce lifelong rivalry, exploring the profound philosophical question of why people push themselves so hard for a race that lasts under ten seconds. Produced by :- \"Studio Rock 'n' Roll Mountain\". Directed by:- \"Kenji Iwaisawa\". The script was written by \"Yasuyuki Mutō\" Based on the original manga 100 Meters by original author \"Uoto\". Clip" [ref=e870] [cursor=pointer]:
+                    - /url: /_aadi_0_0_77/reel/DZ5dAPlviRv/
+                    - img "🎬Anime movie:- \"100 Meters\" It is an existential sports anime that follows Togashi, a naturally gifted sprinter, and Komiya, a socially isolated underdog. Their chance encounter creates a fierce lifelong rivalry, exploring the profound philosophical question of why people push themselves so hard for a race that lasts under ten seconds. Produced by :- \"Studio Rock 'n' Roll Mountain\". Directed by:- \"Kenji Iwaisawa\". The script was written by \"Yasuyuki Mutō\" Based on the original manga 100 Meters by original author \"Uoto\"." [ref=e873]
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Clip"
+                  - link "🎬Anime movie:-Ocean Waves (1993) It is a subtle, nostalgic \"Studio Ghibli\" television film focusing on teenage relationships, characterized by a realistic, slice-of-life tone rather than magical fantasy. Set in Kochi, Japan, the film features soft pastel visuals, detailed, intimate animation, and focuses on the emotional turmoil and quiet reflections of adolescence. It is based on the novel \"I Can Hear the Sea\" by \"Saeko Himuro\". It marked the first Ghibli film not directed by Miyazaki or Takahata. Produced by:- \"Studio Ghibli\". Directed by :- \"Tomomi Mochizuki\". Written by:- \"Kaori Nakamura\". Clip" [ref=e876] [cursor=pointer]:
+                    - /url: /_aadi_0_0_77/reel/DZdCS0avEds/
+                    - img "🎬Anime movie:-Ocean Waves (1993) It is a subtle, nostalgic \"Studio Ghibli\" television film focusing on teenage relationships, characterized by a realistic, slice-of-life tone rather than magical fantasy. Set in Kochi, Japan, the film features soft pastel visuals, detailed, intimate animation, and focuses on the emotional turmoil and quiet reflections of adolescence. It is based on the novel \"I Can Hear the Sea\" by \"Saeko Himuro\". It marked the first Ghibli film not directed by Miyazaki or Takahata. Produced by:- \"Studio Ghibli\". Directed by :- \"Tomomi Mochizuki\". Written by:- \"Kaori Nakamura\"." [ref=e879]
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Clip"
+                  - link "🎬Anime movie:- \"The Deer King\"(Shika no Ō). It is a 2021 Japanese fantasy-adventure anime film. It follows \"Van\", an enslaved former soldier, and a young girl named \"Yuna\" who survive a deadly plague outbreak and are pursued across a divided kingdom. Produced by Studio:- \"Production I.G\". Directed by:- \"Masashi Ando\" and \"Masayuki Miyaji\". Written by:- \"Taku Kishimoto\". It is based on the Japanese fantasy novel series of the same name by \"Nahoko Uehashi\". Clip" [ref=e882] [cursor=pointer]:
+                    - /url: /_aadi_0_0_77/reel/DbYYkn9vhp7/
+                    - img "🎬Anime movie:- \"The Deer King\"(Shika no Ō). It is a 2021 Japanese fantasy-adventure anime film. It follows \"Van\", an enslaved former soldier, and a young girl named \"Yuna\" who survive a deadly plague outbreak and are pursued across a divided kingdom. Produced by Studio:- \"Production I.G\". Directed by:- \"Masashi Ando\" and \"Masayuki Miyaji\". Written by:- \"Taku Kishimoto\". It is based on the Japanese fantasy novel series of the same name by \"Nahoko Uehashi\"." [ref=e885]
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Clip"
+                - generic [ref=e887]:
+                  - 'link "🎬 Movie name:- \"The Big Bad Fox and Other Tales\". It is a delightful 2017 French animated film made by the creators of Ernest & Celestine. Structured as a stage play, the movie features three interlocking, slapstick stories about farmyard animal misfits: a fox who acts like a mother, a rabbit who acts like a stork, and a duck who wants to be Santa Claus. Produced by the French animation studio Folivari and the Belgian studio Panique! Production. Directed by Benjamin Renner and Patrick Imbert. The screenplay was written by Benjamin Renner alongside Jean Regnaud. Movie adapted from Renner''s own graphic novels. Clip" [ref=e889] [cursor=pointer]':
+                    - /url: /_aadi_0_0_77/reel/DbGer59P5ra/
+                    - 'img "🎬 Movie name:- \"The Big Bad Fox and Other Tales\". It is a delightful 2017 French animated film made by the creators of Ernest & Celestine. Structured as a stage play, the movie features three interlocking, slapstick stories about farmyard animal misfits: a fox who acts like a mother, a rabbit who acts like a stork, and a duck who wants to be Santa Claus. Produced by the French animation studio Folivari and the Belgian studio Panique! Production. Directed by Benjamin Renner and Patrick Imbert. The screenplay was written by Benjamin Renner alongside Jean Regnaud. Movie adapted from Renner''s own graphic novels." [ref=e892]'
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Clip"
+                  - 'link "🎬Anime movie:- \"Ghost Cat Anzu\" (2024). It is a whimsical anime film directed by \"Yōko Kuno\" and \"Nobuhiro Yamashita\". It follows Karin, an 11-year-old girl abandoned at a rural Japanese temple by her father. She is placed under the reluctant guardianship of Anzu, a giant, bipedal, talking ghost cat (bakeneko) who loves to slack off. Produced by Japan''s \"Shin-Ei Animation\" (the studio behind Doraemon) and France''s \"Miyu Productions\". Directed by: \"Yōko Kuno\" and \"Nobuhiro Yamashita\". Written by:- \"Shinji Imaoka\". based on the original manga of the same name by \"Takashi Imashiro\". Clip" [ref=e895] [cursor=pointer]':
+                    - /url: /_aadi_0_0_77/reel/Da-4cHhP7Vw/
+                    - 'img "🎬Anime movie:- \"Ghost Cat Anzu\" (2024). It is a whimsical anime film directed by \"Yōko Kuno\" and \"Nobuhiro Yamashita\". It follows Karin, an 11-year-old girl abandoned at a rural Japanese temple by her father. She is placed under the reluctant guardianship of Anzu, a giant, bipedal, talking ghost cat (bakeneko) who loves to slack off. Produced by Japan''s \"Shin-Ei Animation\" (the studio behind Doraemon) and France''s \"Miyu Productions\". Directed by: \"Yōko Kuno\" and \"Nobuhiro Yamashita\". Written by:- \"Shinji Imaoka\". based on the original manga of the same name by \"Takashi Imashiro\"." [ref=e898]'
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Clip"
+                  - link "🎬Anime movie:- \"Princess Mononoke\" (1997). It is a landmark Japanese animated film written and directed by Hayao Miyazaki. Set in the Muromachi period, it follows Ashitaka, a young prince who journeys west to cure a fatal, demonic curse. He becomes caught in a bitter war between the ancient forest spirits and the industrial humans of Iron Town. Produced by:- \"Studio Ghibli\". Directed and Written by \"Hayao Miyazaki\". Clip" [ref=e901] [cursor=pointer]:
+                    - /url: /_aadi_0_0_77/reel/Da5npgLP0YH/
+                    - img "🎬Anime movie:- \"Princess Mononoke\" (1997). It is a landmark Japanese animated film written and directed by Hayao Miyazaki. Set in the Muromachi period, it follows Ashitaka, a young prince who journeys west to cure a fatal, demonic curse. He becomes caught in a bitter war between the ancient forest spirits and the industrial humans of Iron Town. Produced by:- \"Studio Ghibli\". Directed and Written by \"Hayao Miyazaki\"." [ref=e904]
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Clip"
+        - contentinfo [ref=e906]:
+          - generic [ref=e907]:
+            - generic [ref=e909]:
+              - link "Meta" [ref=e911] [cursor=pointer]:
+                - /url: https://about.meta.com/
+                - generic [ref=e912]: Meta
+              - link "About" [ref=e914] [cursor=pointer]:
+                - /url: https://about.instagram.com/
+                - generic [ref=e915]: About
+              - link "Blog" [ref=e917] [cursor=pointer]:
+                - /url: https://about.instagram.com/blog/
+                - generic [ref=e918]: Blog
+              - link "Jobs" [ref=e920] [cursor=pointer]:
+                - /url: https://about.instagram.com/about-us/careers
+                - generic [ref=e921]: Jobs
+              - link "Help" [ref=e923] [cursor=pointer]:
+                - /url: https://help.instagram.com/
+                - generic [ref=e924]: Help
+              - link "API" [ref=e926] [cursor=pointer]:
+                - /url: https://developers.facebook.com/docs/instagram
+                - generic [ref=e927]: API
+              - link "Privacy" [ref=e929] [cursor=pointer]:
+                - /url: /legal/privacy/
+                - generic [ref=e930]: Privacy
+              - link "Terms" [ref=e932] [cursor=pointer]:
+                - /url: /legal/terms/
+                - generic [ref=e933]: Terms
+              - link "Locations" [ref=e935] [cursor=pointer]:
+                - /url: /explore/locations/
+                - generic [ref=e936]: Locations
+              - link "Popular" [ref=e938] [cursor=pointer]:
+                - /url: /popular/
+                - generic [ref=e939]: Popular
+              - link "Instagram Lite" [ref=e941] [cursor=pointer]:
+                - /url: /web/lite/
+                - generic [ref=e942]: Instagram Lite
+              - link "Meta AI" [ref=e944] [cursor=pointer]:
+                - /url: https://www.meta.ai/?utm_source=foa_web_footer
+                - generic [ref=e945]: Meta AI
+              - link "Threads" [ref=e947] [cursor=pointer]:
+                - /url: https://www.threads.com/
+                - generic [ref=e948]: Threads
+              - link "Contact Uploading & Non-Users" [ref=e950] [cursor=pointer]:
+                - /url: https://www.facebook.com/help/instagram/261704639352628
+                - generic [ref=e951]: Contact Uploading & Non-Users
+              - link "Meta Verified" [ref=e953] [cursor=pointer]:
+                - /url: /accounts/meta_verified/?entrypoint=web_footer
+                - generic [ref=e954]: Meta Verified
+            - generic [ref=e955]:
+              - generic [ref=e956] [cursor=pointer]:
+                - generic [ref=e957]:
+                  - generic [ref=e958]: English
+                  - img "Down chevron icon" [ref=e961]
+                - combobox "Switch Display Language" [ref=e963]:
+                  - option "Afrikaans"
+                  - option "العربية"
+                  - option "Čeština"
+                  - option "Dansk"
+                  - option "Deutsch"
+                  - option "Ελληνικά"
+                  - option "English" [selected]
+                  - option "English (UK)"
+                  - option "Español (España)"
+                  - option "Español"
+                  - option "فارسی"
+                  - option "Suomi"
+                  - option "Français"
+                  - option "עברית"
+                  - option "Bahasa Indonesia"
+                  - option "Italiano"
+                  - option "日本語"
+                  - option "한국어"
+                  - option "Bahasa Melayu"
+                  - option "Norsk"
+                  - option "Nederlands"
+                  - option "Polski"
+                  - option "Português (Brasil)"
+                  - option "Português (Portugal)"
+                  - option "Русский"
+                  - option "Svenska"
+                  - option "ภาษาไทย"
+                  - option "Filipino"
+                  - option "Türkçe"
+                  - option "中文(简体)"
+                  - option "中文(台灣)"
+                  - option "বাংলা"
+                  - option "ગુજરાતી"
+                  - option "हिन्दी"
+                  - option "Hrvatski"
+                  - option "Magyar"
+                  - option "ಕನ್ನಡ"
+                  - option "മലയാളം"
+                  - option "मराठी"
+                  - option "नेपाली"
+                  - option "ਪੰਜਾਬੀ"
+                  - option "සිංහල"
+                  - option "Slovenčina"
+                  - option "தமிழ்"
+                  - option "తెలుగు"
+                  - option "اردو"
+                  - option "Tiếng Việt"
+                  - option "中文(香港)"
+                  - option "Български"
+                  - option "Français (Canada)"
+                  - option "Română"
+                  - option "Српски"
+                  - option "Українська"
+              - generic [ref=e965]: © 2026 Instagram from Meta
+    - generic [ref=e968]:
+      - generic [ref=e970]:
+        - link "fq_re1's profile picture" [ref=e973] [cursor=pointer]:
+          - /url: /fq_re1/
+          - img "fq_re1's profile picture" [ref=e974]
+        - generic [ref=e976]:
+          - link "fq_re1" [ref=e978] [cursor=pointer]:
+            - /url: /fq_re1
+            - generic [ref=e979]: fq_re1
+          - generic [ref=e982]: faineedmedication
+      - generic [ref=e985]:
+        - generic [ref=e986]:
+          - generic [ref=e988]: "0"
+          - generic [ref=e990]: posts
+        - generic [ref=e991]:
+          - generic [ref=e993]: "141"
+          - generic [ref=e995]: followers
+        - generic [ref=e996]:
+          - generic [ref=e998]: "157"
+          - generic [ref=e1000]: following
+      - generic [ref=e1002]:
+        - generic [ref=e1004]: The account is private
+        - generic [ref=e1005]: Follow this account to see their photos and videos.
+      - button "Follow" [ref=e1008] [cursor=pointer]:
+        - generic [ref=e1010]: Follow
+  - button "Messages" [ref=e1012] [cursor=pointer]:
+    - generic "Messages" [ref=e1013]:
+      - generic [ref=e1014]:
+        - img "Messages" [ref=e1017]
+        - generic [ref=e1020]: Messages
+      - generic [ref=e1021]:
+        - button "User avatar ¿" [ref=e1023]:
+          - img "User avatar" [ref=e1026]
+        - button "User avatar Mhmd" [ref=e1028]:
+          - img "User avatar" [ref=e1031]
+        - button "User avatar ENERGY BRIDGE" [ref=e1033]:
+          - img "User avatar" [ref=e1036]

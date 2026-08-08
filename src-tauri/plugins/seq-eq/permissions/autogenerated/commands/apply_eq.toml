@@ -1,0 +1,13 @@
+# Automatically generated - DO NOT EDIT!
+
+"$schema" = "../../schemas/schema.json"
+
+[[permission]]
+identifier = "allow-apply-eq"
+description = "Enables the apply_eq command without any pre-configured scope."
+commands.allow = ["apply_eq"]
+
+[[permission]]
+identifier = "deny-apply-eq"
+description = "Denies the apply_eq command without any pre-configured scope."
+commands.deny = ["apply_eq"]

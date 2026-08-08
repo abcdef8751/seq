@@ -1,0 +1,266 @@
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - generic [ref=e12]:
+      - link "Instagram" [ref=e17] [cursor=pointer]:
+        - /url: /
+        - img "Instagram" [ref=e22]
+      - generic [ref=e25]:
+        - link "Home" [ref=e30] [cursor=pointer]:
+          - /url: /
+          - img "Home" [ref=e35]
+        - link "Reels" [ref=e40] [cursor=pointer]:
+          - /url: /reels/
+          - img "Reels" [ref=e45]
+        - link "Messages" [ref=e52] [cursor=pointer]:
+          - /url: /direct/inbox/
+          - img "Messages" [ref=e57]
+        - link "Search" [ref=e63] [cursor=pointer]:
+          - /url: /explore/
+          - img "Search" [ref=e68]
+        - link "Notifications" [ref=e75] [cursor=pointer]:
+          - /url: "#"
+          - img "Notifications" [ref=e80]
+        - link "New post" [ref=e86] [cursor=pointer]:
+          - /url: "#"
+          - img "New post" [ref=e91]
+        - link "sq98250's profile picture" [ref=e97] [cursor=pointer]:
+          - /url: /sq98250/
+          - link "sq98250's profile picture" [ref=e102]:
+            - img "sq98250's profile picture" [ref=e103]
+      - generic [ref=e104]:
+        - link "Settings" [ref=e107] [cursor=pointer]:
+          - /url: "#"
+          - img "Settings" [ref=e112]
+        - link "Also from Meta" [ref=e115] [cursor=pointer]:
+          - /url: "#"
+          - img "Also from Meta" [ref=e120]
+    - generic [ref=e123]:
+      - main [ref=e124]:
+        - generic [ref=e125]:
+          - generic [ref=e127]:
+            - group "Video player" [ref=e146]:
+              - slider "Adjust volume" [ref=e147]:
+                - button "Video has no audio" [ref=e151] [cursor=pointer]:
+                  - img "Video has no audio" [ref=e152]
+            - generic [ref=e155]:
+              - generic [ref=e157]:
+                - button "btsgroup_lb's profile picture" [ref=e162] [cursor=pointer]:
+                  - link "btsgroup_lb's profile picture" [ref=e164]:
+                    - img "btsgroup_lb's profile picture" [ref=e165]
+                - generic [ref=e168]:
+                  - generic [ref=e172]:
+                    - link "btsgroup_lb" [ref=e177] [cursor=pointer]:
+                      - /url: /btsgroup_lb/
+                      - generic [ref=e180]: btsgroup_lb
+                    - img "Verified" [ref=e182]
+                  - button "Follow" [ref=e185] [cursor=pointer]
+                - button "More options" [ref=e188] [cursor=pointer]:
+                  - img "More options" [ref=e191]
+              - separator [ref=e195]
+              - generic [ref=e197]:
+                - generic [ref=e199]:
+                  - link "btsgroup_lb's profile picture" [ref=e204] [cursor=pointer]:
+                    - /url: /btsgroup_lb/
+                    - img "btsgroup_lb's profile picture" [ref=e205]
+                  - generic [ref=e207]:
+                    - generic [ref=e209]:
+                      - generic [ref=e210]:
+                        - link "btsgroup_lb Verified" [ref=e214] [cursor=pointer]:
+                          - /url: /btsgroup_lb/
+                          - generic [ref=e216]:
+                            - generic [ref=e217]: btsgroup_lb
+                            - img "Verified" [ref=e219]
+                        - time [ref=e222]: 4w
+                      - generic [ref=e223]:
+                        - text: شحن شي ان الى لبنان والى سوريا جواً و براً بافضل الاسعار
+                        - link "#لبنان" [ref=e224] [cursor=pointer]:
+                          - /url: /explore/tags/%D9%84%D8%A8%D9%86%D8%A7%D9%86/
+                        - link "#سوريا" [ref=e225] [cursor=pointer]:
+                          - /url: /explore/tags/%D8%B3%D9%88%D8%B1%D9%8A%D8%A7/
+                    - button "See translation" [ref=e227] [cursor=pointer]:
+                      - generic [ref=e229]: See translation
+                - generic [ref=e232]:
+                  - heading "No comments yet." [level=2] [ref=e234]
+                  - generic [ref=e236]: Start the conversation.
+              - generic [ref=e237]:
+                - generic [ref=e238]:
+                  - generic [ref=e239]:
+                    - button "Like" [ref=e242] [cursor=pointer]:
+                      - img "Like" [ref=e245]
+                    - button "86" [ref=e247] [cursor=pointer]
+                    - button "Comment" [ref=e249] [cursor=pointer]:
+                      - img "Comment" [ref=e251]
+                    - button "Share" [ref=e253] [cursor=pointer]:
+                      - img "Share" [ref=e254]
+                  - button "Remove" [ref=e259] [cursor=pointer]:
+                    - button "Remove" [ref=e260]:
+                      - img "Remove" [ref=e262]
+                - button "15,287 views" [ref=e266] [cursor=pointer]:
+                  - generic [ref=e267]: 15,287 views
+                - link "July 3" [ref=e270] [cursor=pointer]:
+                  - /url: /btsgroup_lb/p/DaUl_25gabI/
+                  - time [ref=e272]: July 3
+              - generic [ref=e275]: Comments on this post have been limited.
+          - separator [ref=e277]
+          - generic [ref=e278]:
+            - generic [ref=e280]:
+              - text: More posts from
+              - link "btsgroup_lb" [ref=e281] [cursor=pointer]:
+                - /url: /btsgroup_lb/
+            - generic [ref=e284]:
+              - generic [ref=e285]:
+                - 'link "⁨ ⁨ ⁨ صار لازم عرفكن اكتر مين نحنا ، كملوا للآخر #الياس#برجاوي#bts #group #btsgroup⁩⁩⁩ Clip" [ref=e287] [cursor=pointer]':
+                  - /url: /btsgroup_lb/reel/DTNfsGwiL2Q/
+                  - 'img "⁨ ⁨ ⁨ صار لازم عرفكن اكتر مين نحنا ، كملوا للآخر #الياس#برجاوي#bts #group #btsgroup⁩⁩⁩" [ref=e290]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Lebanese Brand ? #btsgroup#way#true#confident#worldwidebts Clip" [ref=e293] [cursor=pointer]':
+                  - /url: /btsgroup_lb/reel/DTasi4xCGFY/
+                  - 'img "Lebanese Brand ? #btsgroup#way#true#confident#worldwidebts" [ref=e296]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+                - 'link "Small business or page online this video for you ! #btsgroup#online#page#business#lebanon Clip" [ref=e299] [cursor=pointer]':
+                  - /url: /btsgroup_lb/reel/DTQ0JiNDpbq/
+                  - 'img "Small business or page online this video for you ! #btsgroup#online#page#business#lebanon" [ref=e302]'
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+              - generic [ref=e304]:
+                - 'link "Air, Sea, Land isn’t enough! Shipping is more than moving cargo from one place to another. It’s about having a logistics partner that supports your business every step of the way. At BTS Group, we deliver complete logistics solutions designed to save you time, reduce risk, and help your business grow. 📦 More than shipping. Smarter logistics. #BTSGroup #Logistics #FreightForwarding #SupplyChain #AirFreight #SeaFreight" [ref=e306] [cursor=pointer]':
+                  - /url: /btsgroup_lb/p/DbdXuZZCjER/
+                  - 'img "Air, Sea, Land isn’t enough! Shipping is more than moving cargo from one place to another. It’s about having a logistics partner that supports your business every step of the way. At BTS Group, we deliver complete logistics solutions designed to save you time, reduce risk, and help your business grow. 📦 More than shipping. Smarter logistics. #BTSGroup #Logistics #FreightForwarding #SupplyChain #AirFreight #SeaFreight" [ref=e309]'
+                - 'link "Ask this instead: The right logistics partner is about more than transportation. Ask the questions that truly matter: ✔️ Do they finance your stock? ✔️ Do they inspect your goods before shipping? ✔️ Do they offer real-time shipment tracking? With BTS Group, you get complete logistics solutions—not just delivery. #BTSGroup #SmartLogistics #FreightForwarding #SupplyChain" [ref=e312] [cursor=pointer]':
+                  - /url: /btsgroup_lb/p/DbdXotEClOT/
+                  - 'img "Ask this instead: The right logistics partner is about more than transportation. Ask the questions that truly matter: ✔️ Do they finance your stock? ✔️ Do they inspect your goods before shipping? ✔️ Do they offer real-time shipment tracking? With BTS Group, you get complete logistics solutions—not just delivery. #BTSGroup #SmartLogistics #FreightForwarding #SupplyChain" [ref=e315]'
+                - link "الشحن للخارج صار أسهل بكتير مما بتتخيّل! 🌍📦 مع BTS Cargo، منستلم، منشحن، ومنوصل شحنتك بأمان وسرعة، من دون أي تعقيد. ✈️🚢 Clip" [ref=e318] [cursor=pointer]:
+                  - /url: /btsgroup_lb/reel/DbbPNlymGtQ/
+                  - img "الشحن للخارج صار أسهل بكتير مما بتتخيّل! 🌍📦 مع BTS Cargo، منستلم، منشحن، ومنوصل شحنتك بأمان وسرعة، من دون أي تعقيد. ✈️🚢" [ref=e321]
+                  - generic:
+                    - generic:
+                      - generic:
+                        - img "Clip"
+      - contentinfo [ref=e323]:
+        - generic [ref=e324]:
+          - generic [ref=e326]:
+            - link "Meta" [ref=e328] [cursor=pointer]:
+              - /url: https://about.meta.com/
+              - generic [ref=e329]: Meta
+            - link "About" [ref=e331] [cursor=pointer]:
+              - /url: https://about.instagram.com/
+              - generic [ref=e332]: About
+            - link "Blog" [ref=e334] [cursor=pointer]:
+              - /url: https://about.instagram.com/blog/
+              - generic [ref=e335]: Blog
+            - link "Jobs" [ref=e337] [cursor=pointer]:
+              - /url: https://about.instagram.com/about-us/careers
+              - generic [ref=e338]: Jobs
+            - link "Help" [ref=e340] [cursor=pointer]:
+              - /url: https://help.instagram.com/
+              - generic [ref=e341]: Help
+            - link "API" [ref=e343] [cursor=pointer]:
+              - /url: https://developers.facebook.com/docs/instagram
+              - generic [ref=e344]: API
+            - link "Privacy" [ref=e346] [cursor=pointer]:
+              - /url: /legal/privacy/
+              - generic [ref=e347]: Privacy
+            - link "Terms" [ref=e349] [cursor=pointer]:
+              - /url: /legal/terms/
+              - generic [ref=e350]: Terms
+            - link "Locations" [ref=e352] [cursor=pointer]:
+              - /url: /explore/locations/
+              - generic [ref=e353]: Locations
+            - link "Popular" [ref=e355] [cursor=pointer]:
+              - /url: /popular/
+              - generic [ref=e356]: Popular
+            - link "Instagram Lite" [ref=e358] [cursor=pointer]:
+              - /url: /web/lite/
+              - generic [ref=e359]: Instagram Lite
+            - link "Meta AI" [ref=e361] [cursor=pointer]:
+              - /url: https://www.meta.ai/?utm_source=foa_web_footer
+              - generic [ref=e362]: Meta AI
+            - link "Threads" [ref=e364] [cursor=pointer]:
+              - /url: https://www.threads.com/
+              - generic [ref=e365]: Threads
+            - link "Contact Uploading & Non-Users" [ref=e367] [cursor=pointer]:
+              - /url: https://www.facebook.com/help/instagram/261704639352628
+              - generic [ref=e368]: Contact Uploading & Non-Users
+            - link "Meta Verified" [ref=e370] [cursor=pointer]:
+              - /url: /accounts/meta_verified/?entrypoint=web_footer
+              - generic [ref=e371]: Meta Verified
+          - generic [ref=e372]:
+            - generic [ref=e373] [cursor=pointer]:
+              - generic [ref=e374]:
+                - generic [ref=e375]: English
+                - img "Down chevron icon" [ref=e378]
+              - combobox "Switch Display Language" [ref=e380]:
+                - option "Afrikaans"
+                - option "العربية"
+                - option "Čeština"
+                - option "Dansk"
+                - option "Deutsch"
+                - option "Ελληνικά"
+                - option "English" [selected]
+                - option "English (UK)"
+                - option "Español (España)"
+                - option "Español"
+                - option "فارسی"
+                - option "Suomi"
+                - option "Français"
+                - option "עברית"
+                - option "Bahasa Indonesia"
+                - option "Italiano"
+                - option "日本語"
+                - option "한국어"
+                - option "Bahasa Melayu"
+                - option "Norsk"
+                - option "Nederlands"
+                - option "Polski"
+                - option "Português (Brasil)"
+                - option "Português (Portugal)"
+                - option "Русский"
+                - option "Svenska"
+                - option "ภาษาไทย"
+                - option "Filipino"
+                - option "Türkçe"
+                - option "中文(简体)"
+                - option "中文(台灣)"
+                - option "বাংলা"
+                - option "ગુજરાતી"
+                - option "हिन्दी"
+                - option "Hrvatski"
+                - option "Magyar"
+                - option "ಕನ್ನಡ"
+                - option "മലയാളം"
+                - option "मराठी"
+                - option "नेपाली"
+                - option "ਪੰਜਾਬੀ"
+                - option "සිංහල"
+                - option "Slovenčina"
+                - option "தமிழ்"
+                - option "తెలుగు"
+                - option "اردو"
+                - option "Tiếng Việt"
+                - option "中文(香港)"
+                - option "Български"
+                - option "Français (Canada)"
+                - option "Română"
+                - option "Српски"
+                - option "Українська"
+            - generic [ref=e382]: © 2026 Instagram from Meta
+  - button "Messages" [ref=e384] [cursor=pointer]:
+    - generic "Messages" [ref=e385]:
+      - generic [ref=e386]:
+        - img "Messages" [ref=e389]
+        - generic [ref=e392]: Messages
+      - generic [ref=e393]:
+        - button "User avatar ¿" [ref=e395]:
+          - img "User avatar" [ref=e398]
+        - button "User avatar Mhmd" [ref=e400]:
+          - img "User avatar" [ref=e403]
+        - button "User avatar ENERGY BRIDGE" [ref=e405]:
+          - img "User avatar" [ref=e408]
