@@ -74,6 +74,16 @@ cargo build
 # Use:  pkill -x seq   or   pkill -f "[e]qtest"   (bracket trick)
 ```
 
+### Git workflow
+- **Remote**: `https://github.com/abcdef8751/seq.git`, single branch `main`, pushed with `-u`.
+- **Auth is HTTPS + PAT only** — GitHub rejects passwords. Use a **classic** token with the `repo`
+  scope; a fine-grained token returned a confusing `403 Write access to repository not granted`
+  unless the exact repo + *Contents: Read and write* were selected. No SSH keys configured.
+- **Commit style**: write descriptive messages (early history has bare `git commit -m "commit"`
+  — don't repeat that). `git rm --cached` is how junk gets removed from the index while keeping
+  files on disk (see §10 repo hygiene).
+- **Convention for agent collaborators**: stage/commit/push **only when explicitly asked**.
+
 ---
 
 ## 4. File Map
