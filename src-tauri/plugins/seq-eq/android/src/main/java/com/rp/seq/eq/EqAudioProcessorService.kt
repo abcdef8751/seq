@@ -28,6 +28,7 @@ import android.os.Handler
 import android.os.IBinder
 import android.os.Looper
 import android.os.Process
+import android.os.SystemClock
 import android.util.Log
 import androidx.core.app.NotificationCompat
 import androidx.core.content.ContextCompat
@@ -371,6 +372,8 @@ class EqAudioProcessorService : Service() {
         recorderThread = null
     }
 
+    private var lastDumpRegrant = 0L
+
     private fun refreshMutes() {
         try {
             val sessions = SessionDumper.dump(this)
@@ -380,17 +383,34 @@ class EqAudioProcessorService : Service() {
             }
             if (debugNoMute) {
                 muteManager.clear()
+                Log.w(TAG, "mute SKIPPED: debugNoMute=true (${sessions.size} sessions found)")
                 return
             }
             // Only mute originals when we can both discover sessions (DUMP) and we are
             // actually capturing non-silent audio. Otherwise muting silences the original
             // with nothing to replace it → total audio death (RJDSP guards the same way).
             if (!hasDumpPermission()) {
-                muteManager.clear()
+                // Self-heal: re-run the Shizuku `pm grant` so a missed/revoked DUMP doesn't
+                // silently leave originals unmuted (duplication). Throttled to avoid spam.
+                if (ShizukuPermissions.hasShizukuPermission()) {
+                    val now = SystemClock.elapsedRealtime()
+                    if (now - lastDumpRegrant > 10_000) {
+                        lastDumpRegrant = now
+                        Log.w(TAG, "DUMP missing — re-granting via Shizuku")
+                        ShizukuPermissions.applyAll(applicationContext)
+                    }
+                }
+                Log.w(
+                    TAG,
+                    "mute SKIPPED: no DUMP permission (${sessions.size} sessions found). " +
+                        "Grant via Shizuku or 'adb shell pm grant com.rp.seq android.permission.DUMP' " +
+                        "or originals play unmuted (duplication)."
+                )
                 return
             }
             muteManager.setExcludedUids(setOf(Process.myUid()))
             muteManager.syncSessions(map)
+            Log.i(TAG, "muted ${map.size} sessions")
         } catch (e: Exception) {
             Log.w(TAG, "session poll: ${e.message}")
         }

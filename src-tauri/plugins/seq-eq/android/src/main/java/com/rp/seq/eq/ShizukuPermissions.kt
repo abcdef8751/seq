@@ -52,23 +52,26 @@ object ShizukuPermissions {
     }
 
     fun grantRuntimePermission(pkg: String, permission: String, userId: Int = Process.myUserHandle().hashCode()) {
+        // Prefer the shell `pm grant` path — it's exactly what `adb shell pm grant` runs and
+        // is proven to work on device. Only fall back to the binder IPermissionManager path.
+        if (exec("pm grant $pkg $permission")) {
+            Log.i(TAG, "pm grant $pkg $permission OK")
+            return
+        }
         try {
             val sm = Class.forName("android.os.ServiceManager")
             val getService = sm.getMethod("getService", String::class.java)
             val raw = getService.invoke(null, "permissionmgr") as? android.os.IBinder
-                ?: run {
-                    exec("pm grant $pkg $permission")
-                    return
-                }
+                ?: throw IllegalStateException("permissionmgr service unavailable")
             val wrapped = ShizukuBinderWrapper(raw)
             val clazz = Class.forName("android.permission.IPermissionManager")
             val stub = clazz.getMethod("asInterface", android.os.IBinder::class.java)
                 .invoke(null, wrapped)
             val grant = clazz.getMethod("grantRuntimePermission", String::class.java, String::class.java, Int::class.java)
             grant.invoke(stub, pkg, permission, userId)
+            Log.i(TAG, "binder grant $pkg $permission OK")
         } catch (e: Throwable) {
-            Log.w(TAG, "grantRuntimePermission via binder failed; fallback to exec", e)
-            exec("pm grant $pkg $permission")
+            Log.w(TAG, "grantRuntimePermission failed for $permission", e)
         }
     }
 
@@ -126,19 +129,21 @@ object ShizukuPermissions {
         }
     }
 
-    private fun exec(cmd: String) {
-        try {
+    private fun exec(cmd: String): Boolean {
+        return try {
             val newProcess = Shizuku::class.java
                 .getDeclaredMethod("newProcess", Array<String>::class.java, Array<String>::class.java, String::class.java)
             newProcess.isAccessible = true
-            val proc = newProcess.invoke(null, arrayOf("sh"), null, null) ?: return
-            val os = proc.javaClass.getMethod("getOutputStream").invoke(proc) as? OutputStream ?: return
+            val proc = newProcess.invoke(null, arrayOf("sh"), null, null) ?: return false
+            val os = proc.javaClass.getMethod("getOutputStream").invoke(proc) as? OutputStream ?: return false
             os.write((cmd + "\nexit\n").toByteArray())
             os.flush()
             os.close()
-            proc.javaClass.getMethod("waitFor").invoke(proc)
+            val exit = (proc.javaClass.getMethod("waitFor").invoke(proc) as? Number)?.toInt() ?: -1
+            exit == 0
         } catch (e: Throwable) {
             Log.w(TAG, "exec failed", e)
+            false
         }
     }
 

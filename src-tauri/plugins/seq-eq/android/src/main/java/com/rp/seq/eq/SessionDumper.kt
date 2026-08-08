@@ -26,11 +26,16 @@ object SessionDumper {
             ?: dumpService("media.audio_policy")
             ?: return emptyList()
         val fromAudio = parseAudioService(text)
-        if (fromAudio.isNotEmpty()) return fromAudio
+        if (fromAudio.isNotEmpty()) {
+            Log.i(TAG, "audio-service dump: ${fromAudio.size} sessions")
+            return fromAudio
+        }
 
-        // Fallback: AudioFlinger global session refs (sid + pid only)
+        // Fallback: AudioFlinger "Global session refs" block (sid + pid + uid)
         val flinger = dumpService("media.audio_flinger") ?: return emptyList()
-        return parseAudioFlinger(flinger)
+        val s = parseAudioFlinger(flinger)
+        Log.i(TAG, "audio_flinger dump: ${s.size} sessions")
+        return s
     }
 
     private fun dumpService(name: String): String? {
@@ -71,10 +76,26 @@ object SessionDumper {
     }
 
     private fun parseAudioFlinger(dump: String): List<Session> {
-        // "session  cnt     pid    uid  name" then lines of numbers
-        val re = Regex("""^\s*(\d+)\s+\d+\s+(\d+)\s+(\d+)\s+""", RegexOption.MULTILINE)
+        // Only trust the "Global session refs:" table (sid cnt pid uid), never arbitrary
+        // numeric lines elsewhere in the dump (sample rates/format params pollute it).
+        val lines = if (dump.contains("Global session refs")) dump.lines() else return emptyList()
+        val re = Regex("""^\s*(\d+)\s+\d+\s+(\d+)\s+(\d+)\s+""")
         val out = ArrayList<Session>()
-        for (m in re.findAll(dump)) {
+        var inTable = false
+        var first = true
+        for (line in lines) {
+            if (!inTable) {
+                if (line.contains("Global session refs")) {
+                    inTable = true
+                    first = true
+                }
+                continue
+            }
+            if (first) {
+                first = false // skip the "session cnt pid uid name" column header
+                continue
+            }
+            val m = re.find(line) ?: break // end of the session table
             val sid = m.groupValues[1].toIntOrNull() ?: continue
             val uid = m.groupValues[3].toIntOrNull() ?: continue
             if (sid <= 0) continue

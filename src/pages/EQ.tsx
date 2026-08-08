@@ -363,7 +363,7 @@ export default function EQ(): JSXElement {
 
   return (
     <div class="flex h-screen flex-col bg-background text-foreground">
-      <div class="relative flex items-center justify-center gap-8 border-b border-border px-4 py-3">
+      <div class="relative flex flex-wrap items-center justify-center gap-x-8 gap-y-2 border-b border-border px-4 py-3">
         <button
           onClick={() => handleOpenChange(true)}
           title="Presets"

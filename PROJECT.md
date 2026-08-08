@@ -446,13 +446,24 @@ Desktop `start_eq_engine` is a no-op; `apply_eq` still goes to PipeWire.
   `EqAudioProcessorService` must call `startForeground()` FIRST in `onCreate`/`onStartCommand`
   (before any MediaProjection work), else Android kills it within 5s. See
   `plugins/seq-eq/android/.../EqAudioProcessorService.kt`.
-- **Session mute needs DUMP**: `adb shell pm grant com.rp.seq android.permission.DUMP`
-  (userdebug/waydroid). Without it `SessionDumper` returns nothing and originals aren't muted.
+- **Session mute needs DUMP — and missing it looks like "audio duplicating".** Muting originals
+  is gated on `hasDumpPermission()` in `refreshMutes`; when DUMP is missing it clears all mutes,
+  so the original plays **unmuted** next to our replayed copy = doubling. Symptom diagnostics:
+  `adb logcat -s seq-eq-svc` shows `mute SKIPPED: no DUMP permission`. Fix: the app now
+  auto-grants it — `ShizukuPermissions.grantRuntimePermission` runs **`pm grant` via the Shizuku
+  shell first** (the exact `adb shell pm grant com.rp.seq android.permission.DUMP` command, exit
+  checked), and `refreshMutes` **self-heals** by re-running `applyAll()` (throttled 10s) whenever
+  DUMP is missing and Shizuku is authorized. `pm grant` for DUMP works even on the stock Samsung
+  `user` build (verified) when run via adb/Shizuku shell; the binder `IPermissionManager`
+  reflection path silently no-ops on `user` builds, which is why exec comes first.
 - **SessionDumper fallback regex bug**: `parseAudioFlinger` used `^\s*(\d+)\s+\d+…` which matches
   sample-rate/format numeric lines (48000, 192000, 384000, …) as bogus session IDs, polluting the
   mute list (attaches/fails on nonexistent sids, churns the real session). The `dumpsys audio`
   path is preferred and correct; only trust `parseAudioFlinger` for the real "Global session refs"
-  block, not arbitrary numbers.
+  block, not arbitrary numbers. **Fixed**: `parseAudioFlinger` now scopes to the
+  "Global session refs:" table only (skips the column header, stops at the table's end), and
+  `SessionDumper.dump` logs which path produced sessions (`audio-service dump: N` /
+  `audio_flinger dump: N`).
 - **Mute flicker symptom**: rapid `released mute session X` / `muted session X` every poll cycle
   indicates the recorder isn't holding the session (capture dead) OR bogus IDs are churning it.
   A stable single `muted session` + monotonic `diag reads` = healthy.
@@ -484,7 +495,10 @@ Desktop `start_eq_engine` is a no-op; `apply_eq` still goes to PipeWire.
 - Plugin now integrates **Shizuku** (`dev.rikka.shizuku:api/provider:12.2.0`) to request the
   privileged perms MediaProjection capture needs: `ShizukuPermissions` mirrors RJDSP's
   `ShizukuSystemServerApi`:
-  - `grantRuntimePermission(DUMP, RECORD_AUDIO, POST_NOTIFICATIONS)`
+  - `grantRuntimePermission(DUMP, RECORD_AUDIO, POST_NOTIFICATIONS)` — **exec-first**: runs
+    `pm grant <pkg> <perm>` via `Shizuku.newProcess("sh")` (the proven on-device path, exit-code
+    checked) and only falls back to the binder `IPermissionManager` reflection if exec fails.
+    The binder path silently no-ops on `user` ROMs — never rely on it as the primary path.
   - `setProjectMediaOp(PROJECT_MEDIA)` appop
   - `setAllowedCapturePolicy(uid, allow)` per session — this is what makes restricted apps
     actually capturable.
@@ -492,7 +506,9 @@ Desktop `start_eq_engine` is a no-op; `apply_eq` still goes to PipeWire.
 - **Critical safety** (`EqAudioProcessorService.refreshMutes`): originals are only muted when
   `DUMP` is granted (session discovery works) AND capture is live. If DUMP is missing, we skip
   muting entirely so the original audio keeps playing — this prevents "audio dies completely"
-  (muting the source while replaying silence).
+  (muting the source while replaying silence). Missing DUMP therefore surfaces as **duplication**
+  (original unmuted + processed replay), not silence; `refreshMutes` self-heals by re-running
+  `applyAll()` via Shizuku when it detects DUMP is missing (throttled to every 10s).
 
 ### Known limitation: Waydroid capture returns silence
 - On Waydroid the `AudioRecord` on `AUDIO_DEVICE_IN_REMOTE_SUBMIX` reads **0.0000 RMS** even with
