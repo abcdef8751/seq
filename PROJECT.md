@@ -115,6 +115,9 @@ cargo build
 - `src/lib.rs` — Tauri commands + preset/temp-config file IO + `Preset`/`BandParams` types.
 - `src/pipewire_eq.rs` — the whole PipeWire integration (see §6).
 - `tauri.conf.json` — window `800x600`, `backgroundColor:#000000`, CSP null, devUrl :1420.
+- `capabilities/default.json` — permissions: `core:default`, `opener:default`, `seq-eq:default`,
+  `dialog:default`, and scoped `fs:allow-read-text-file`/`fs:allow-write-text-file` with
+  `path: "**"` (APO import/export reads/writes arbitrary user-picked paths).
 - `rust-toolchain.toml` — `channel = "nightly"`.
 - `Cargo.toml` — `default-run = "seq"` (do NOT leave extra `src/bin/*.rs` around; it breaks
   `cargo run` with "could not determine which binary").
@@ -271,7 +274,9 @@ interface BandSettings { kind: BandKind; Q: number; gain: number; center_freq: n
 - `temp.json`   → `app_data_dir`      = `~/.local/share/com.rp.seq/temp.json`
 
 ### Tauri commands (`lib.rs`)
-`load_presets`, `save_presets`, `apply_eq`, `clear_eq`, `save_temp_config`, `load_temp_config`.
+`load_presets`, `save_presets`, `apply_eq`, `clear_eq`, `save_temp_config`, `load_temp_config`,
+plus the Android engine bridge: `start_eq_engine`, `stop_eq_engine`, `eq_engine_status`
+(`start_eq_engine` is a no-op on desktop; see §12).
 
 ---
 
@@ -367,6 +372,12 @@ as `false`).
   first load and it's milliseconds. (Temporary fix during profiling: route `console` to the
   terminal via a throwaway Rust `#[tauri::command] fn log()` + `println!`, since the webkit
   WebView console isn't visible in dev.)
+- **Repo hygiene / `.gitignore`** — the repo once tracked ~3461 junk files (`.playwright-mcp`
+  console logs, `target/` Rust artifacts incl. `src-tauri/plugins/seq-eq/target/`, and Android
+  Gradle outputs under `src-tauri/plugins/seq-eq/android/{build,.tauri}`). Use a bare `target`
+  rule (matches all depths) and **do NOT ignore `src-tauri/gen`** — `gen/android` contains real
+  code (MainActivity.kt, gradle configs, the ABI-pinned `gradle.properties`). `git rm --cached`
+  removes files from the index while keeping them on disk.
 
 ---
 
@@ -391,7 +402,8 @@ plugin `src-tauri/plugins/seq-eq` (Android-only; desktop still uses PipeWire).
 ### Pipeline (from RootlessJamesDSP)
 1. **MediaProjection** token (screen-capture permission dialog)
 2. **AudioPlaybackCapture** → `AudioRecord` (USAGE_MEDIA / GAME / UNKNOWN)
-3. **RBJ peaking biquads** (same algo as `pipewire_eq.rs`) in Kotlin `ParametricEq`
+3. **RBJ biquads** (PK / LSQ / HSQ — same `coeffs()` math as `pipewire_eq.rs`) in Kotlin
+   `ParametricEq`
 4. **AudioTrack** playback with `ALLOW_CAPTURE_BY_NONE` (no feedback loop)
 5. **Mute originals** via `DynamicsProcessing(sessionId)` + `-200 dB` input gain
 6. **Session discovery** via dumpsys `audio` binder dump (needs `DUMP`) +
