@@ -1,1 +1,0 @@
-{"rustc":6814981142056370444,"features":"","declared_features":"","target":0,"profile":0,"path":0,"deps":[[10364619138950789809,"build_script_build",false,16730051495716816064]],"local":[{"RerunIfChanged":{"output":"debug/build/anyhow/cbf28fd7350cd607/run/stdout","paths":["src/nightly.rs"]}}],"rustflags":["-C","link-arg=-fuse-ld=mold"],"config":0,"compile_kind":0}

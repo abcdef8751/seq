@@ -1,5 +1,9 @@
 node_modules
 dist
+target
+.playwright-mcp
 RootlessJamesDSP
 easyeffects
-
+src-tauri/plugins/seq-eq/android/build
+src-tauri/plugins/seq-eq/android/.tauri
+src-tauri/target

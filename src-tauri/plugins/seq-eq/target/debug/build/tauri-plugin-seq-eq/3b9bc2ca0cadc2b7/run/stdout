@@ -1,6 +1,0 @@
-cargo:rerun-if-changed=permissions
-cargo:PERMISSION_FILES_PATH=/home/rp/seq/src-tauri/plugins/seq-eq/target/debug/build/tauri-plugin-seq-eq/3b9bc2ca0cadc2b7/out/tauri-plugin-seq-eq-permission-files
-cargo:rerun-if-env-changed=REMOVE_UNUSED_COMMANDS
-cargo:rustc-check-cfg=cfg(mobile)
-cargo:rustc-check-cfg=cfg(desktop)
-cargo:rustc-cfg=desktop
